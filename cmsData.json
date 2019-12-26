@@ -49,12 +49,12 @@
              "show": true,
              "redirectionUrl": [
                  {
-                     "url": 'https://www.google.com/?isOpenInApp=false',
-                     "imgurl": 'https://d1g4sjv85anmpz.cloudfront.net/merchant/mobile/images/carousel/calrousel1.png'
+                     "url": "https://www.google.com/?isOpenInApp=false",
+                     "imgurl": "https://d1g4sjv85anmpz.cloudfront.net/merchant/mobile/images/carousel/calrousel1.png"
                  },
                  {
-                     "url": 'https://www.cricbuzz.com/?isOpenInApp=false',
-                     "imgurl": 'https://d1g4sjv85anmpz.cloudfront.net/merchant/mobile/images/carousel/calrousel2.png'
+                     "url": "https://www.cricbuzz.com/?isOpenInApp=false",
+                     "imgurl": "https://d1g4sjv85anmpz.cloudfront.net/merchant/mobile/images/carousel/calrousel2.png"
                  }
              ]
          }
