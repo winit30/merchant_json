@@ -46,7 +46,7 @@
          { 
             "key":"homePageBanner",
             "order":3,
-            "show":true,
+            "show":false,
             "redirectionUrl":[ 
                { 
                   "url":"https://www.google.com/?isOpenInApp=false",
@@ -70,7 +70,7 @@
          { 
             "key":"homepageVideo",
             "order":5,
-            "show":true,
+            "show":false,
             "urls":[ 
                { 
                   "id":1,
