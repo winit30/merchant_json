@@ -70,7 +70,7 @@
          { 
             "key":"homepageVideo",
             "order":5,
-            "show":true,
+            "show":false,
             "urls":[
                {
                  "id": 1,
