@@ -71,7 +71,29 @@
             "key":"homepageVideo",
             "order":5,
             "show":true,
-            "urls":[]
+            "urls":[
+               {
+                 "id": 1,
+                 "url": "https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_640_3MG.mp4",
+                 "placeholder": "https://exsurco.com/wp-content/uploads/2017/08/testimonial-video-placeholder-only.png",
+                 "desc": "How does paisa plus help you?",
+                 "autoPlay": true
+               },
+               {
+                 "id": 2,
+                 "url": "https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_640_3MG.mp4",
+                 "placeholder": "https://exsurco.com/wp-content/uploads/2017/08/testimonial-video-placeholder-only.png",
+                 "desc": "How does paisa plus help you?",
+                 "autoPlay": false
+               },
+               {
+                 "id": 3,
+                 "url": "https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_640_3MG.mp4",
+                 "placeholder": "https://exsurco.com/wp-content/uploads/2017/08/testimonial-video-placeholder-only.png",
+                 "desc": "How does paisa plus help you?",
+                 "autoPlay": false
+               }
+            ]
          }
       ],
       "globalConfig":{ 
