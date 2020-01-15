@@ -70,28 +70,14 @@
          { 
             "key":"homepageVideo",
             "order":5,
-            "show":false,
+            "show":true,
             "urls":[
                {
                  "id": 1,
-                 "url": "https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_640_3MG.mp4",
+                 "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
                  "placeholder": "https://exsurco.com/wp-content/uploads/2017/08/testimonial-video-placeholder-only.png",
-                 "desc": "How does paisa plus help you?",
+                 "desc": "Paisa Plus se badhao apna business",
                  "autoPlay": true
-               },
-               {
-                 "id": 2,
-                 "url": "https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_640_3MG.mp4",
-                 "placeholder": "https://exsurco.com/wp-content/uploads/2017/08/testimonial-video-placeholder-only.png",
-                 "desc": "How does paisa plus help you?",
-                 "autoPlay": false
-               },
-               {
-                 "id": 3,
-                 "url": "https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_640_3MG.mp4",
-                 "placeholder": "https://exsurco.com/wp-content/uploads/2017/08/testimonial-video-placeholder-only.png",
-                 "desc": "How does paisa plus help you?",
-                 "autoPlay": false
                }
             ]
          }
