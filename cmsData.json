@@ -31,7 +31,7 @@
                   "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
                   "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
                   "desc": "Badao apna Business Paisa Plus ke saath!",
-                  "autoPlay": false
+                  "autoPlay": true
                }
             ]
          },
