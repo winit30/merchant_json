@@ -77,7 +77,7 @@
                      "#22ebff"
                   ],
                   "cardText":"Individual",
-                  "value":"individual"
+                  "value":"Individual"
                },
                {
                   "cardColors":[
@@ -85,7 +85,7 @@
                      "#ffa330"
                   ],
                   "cardText":"Sole Trader",
-                  "value":"sole_trader"
+                  "value":"Sole Trader"
                },
                {
                   "cardColors":[
@@ -93,15 +93,15 @@
                      "#ff5757"
                   ],
                   "cardText":"Partnership",
-                  "value":"partnership"
+                  "value":"Partnership"
                },
                {
                   "cardColors":[
                      "#0b934e",
                      "#30ff76"
                   ],
-                  "cardText":"Trust Association",
-                  "value":"trust_association"
+                  "cardText":"Trust-Association",
+                  "value":"Trust-Association"
                }
             ]
          }
