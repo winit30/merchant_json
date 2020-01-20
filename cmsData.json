@@ -1,91 +1,130 @@
 {
-   "data": {
-      "homeConfig": [
+   "data":{
+      "homeConfig":[
          {
-            "key": "notification",
-            "order": 1,
-            "show": true
+            "key":"notification",
+            "order":1,
+            "show":true
          },
          {
-            "key": "homepageVideo",
-            "order": 2,
-            "show": true,
-            "urls": [
+            "key":"homepageVideo",
+            "order":2,
+            "show":true,
+            "urls":[
                {
-                  "id": 1,
-                  "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
-                  "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
-                  "desc": "PaisaPlus ke saath business badao",
-                  "autoPlay": false
+                  "id":1,
+                  "url":"https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
+                  "placeholder":"https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
+                  "desc":"PaisaPlus ke saath business badao",
+                  "autoPlay":false
                }
             ]
          },
          {
-            "key": "categories",
-            "order": 3,
-            "show": true,
-            "items": [
+            "key":"categories",
+            "order":3,
+            "show":true,
+            "items":[
                {
-                  "title": "Dashboard",
-                  "screen": "Dashboard",
-                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_dash.png",
-                  "order": 1,
-                  "active": false
+                  "title":"Dashboard",
+                  "screen":"Dashboard",
+                  "icon":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_dash.png",
+                  "order":1,
+                  "active":false
                },
                {
-                  "title": "Khata",
-                  "screen": "OnBoardingKhata",
-                  "localIconName": "khata",
-                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_khata.png",
-                  "order": 2,
-                  "active": true
+                  "title":"Khata",
+                  "screen":"OnBoardingKhata",
+                  "localIconName":"khata",
+                  "icon":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_khata.png",
+                  "order":2,
+                  "active":true
                },
                {
-                  "title": "Paisa Plus",
-                  "screen": "OnBoardingPaisaPlus",
-                  "localIconName": "paisa",
-                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_settlement.png",
-                  "order": 3,
-                  "active": true
+                  "title":"Paisa Plus",
+                  "screen":"OnBoardingPaisaPlus",
+                  "localIconName":"paisa",
+                  "icon":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_settlement.png",
+                  "order":3,
+                  "active":true
                },
                {
-                  "title": "Campaigns",
-                  "screen": "Campaigns",
-                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
-                  "order": 4,
-                  "active": false
+                  "title":"Campaigns",
+                  "screen":"Campaigns",
+                  "icon":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
+                  "order":4,
+                  "active":false
                }
             ]
          },
          {
-            "key": "banner",
-            "order": 4,
-            "show": true,
-            "urls": [
+            "key":"banner",
+            "order":4,
+            "show":true,
+            "urls":[
                "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel1.png",
                "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel2.png"
             ]
          }
       ],
-      "globalConfig": {
-         "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
-         "forceUpdate": {
-            "android": {
-               "version": 2,
-               "url": "https://play.google.com/store/apps/details?id=com.freecharge.business"
+      "registrationConfig":[
+         {
+            "key":"businessCategory",
+            "items":[
+               {
+                  "cardColors":[
+                     "#008bc2",
+                     "#22ebff"
+                  ],
+                  "cardText":"Individual",
+                  "value":"individual"
+               },
+               {
+                  "cardColors":[
+                     "#c46000",
+                     "#ffa330"
+                  ],
+                  "cardText":"Sole Trader",
+                  "value":"sole_trader"
+               },
+               {
+                  "cardColors":[
+                     "#c30046",
+                     "#ff5757"
+                  ],
+                  "cardText":"Partnership",
+                  "value":"partnership"
+               },
+               {
+                  "cardColors":[
+                     "#0b934e",
+                     "#30ff76"
+                  ],
+                  "cardText":"Trust Association",
+                  "value":"trust_association"
+               }
+            ]
+         }
+      ],
+      "globalConfig":{
+         "legalPolicy":"https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
+         "forceUpdate":{
+            "android":{
+               "version":2,
+               "url":"https://play.google.com/store/apps/details?id=com.freecharge.business"
             },
-            "ios": {
-               "version": 1,
-               "url": "https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
+            "ios":{
+               "version":1,
+               "url":"https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
             }
          },
-         "rateApp": {
-            "android": "https://play.google.com/store/apps/details?id=com.freecharge.business",
-            "ios": "https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
+         "rateApp":{
+            "android":"https://play.google.com/store/apps/details?id=com.freecharge.business",
+            "ios":"https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
          },
-         "termsAndCondition": {
-            "url": "https://fc-cdn.freecharge.in/terms/policyData35480.html",
-            "policyId": 95460
+         "termsAndCondition":{
+            "url":"https://fc-cdn.freecharge.in/terms/policyData35480.html",
+            "policyId":95460
          }
       }
    }
