@@ -78,7 +78,7 @@
                   ],
                   "cardText":"Individual",
                   "value":"Individual",
-                  "id": "individual"
+                  "id":"individual"
                },
                {
                   "cardColors":[
@@ -87,7 +87,7 @@
                   ],
                   "cardText":"Sole Trader",
                   "value":"Sole Trader",
-                  "id": "soleTrader"
+                  "id":"soleTrader"
                },
                {
                   "cardColors":[
@@ -96,7 +96,7 @@
                   ],
                   "cardText":"Partnership",
                   "value":"Partnership",
-                  "id": "partnership"
+                  "id":"partnership"
                },
                {
                   "cardColors":[
@@ -105,7 +105,47 @@
                   ],
                   "cardText":"Trust-Association",
                   "value":"Trust-Association",
-                  "id": "trustAssociation"
+                  "id":"trustAssociation"
+               }
+            ]
+         },
+         {
+            "key":"categoryStoreList",
+            "items":[
+               {
+                  "title":"Groceries & Supermarkets",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/groceries.png",
+                  "color":"#444444"
+               },
+               {
+                  "title":"Dairy Products",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/dairy_products.png",
+                  "color":"#444444"
+               },
+               {
+                  "title":"Variety Stores",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/variety_stores.png",
+                  "color":"#444444"
+               },
+               {
+                  "title":"Stationary",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/stationary.png",
+                  "color":"#ffffff"
+               },
+               {
+                  "title":"Drug Stores, Pharmacy",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/drugs_bg.png",
+                  "color":"#444444"
+               },
+               {
+                  "title":"Service Stations",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/service_stations.png",
+                  "color":"#ffffff"
+               },
+               {
+                  "title":"Cigar Stores",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/cigar_stores.png",
+                  "color":"#444444"
                }
             ]
          }
