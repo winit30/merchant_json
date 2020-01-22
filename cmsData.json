@@ -67,6 +67,89 @@
             ]
          }
       ],
+      "registrationConfig":[
+         {
+            "key":"businessCategory",
+            "items":[
+               {
+                  "cardColors":[
+                     "#008bc2",
+                     "#22ebff"
+                  ],
+                  "cardText":"Individual",
+                  "value":"Individual",
+                  "id":"individual"
+               },
+               {
+                  "cardColors":[
+                     "#c46000",
+                     "#ffa330"
+                  ],
+                  "cardText":"Sole Trader",
+                  "value":"Sole Trader",
+                  "id":"soleTrader"
+               },
+               {
+                  "cardColors":[
+                     "#c30046",
+                     "#ff5757"
+                  ],
+                  "cardText":"Partnership",
+                  "value":"Partnership",
+                  "id":"partnership"
+               },
+               {
+                  "cardColors":[
+                     "#0b934e",
+                     "#30ff76"
+                  ],
+                  "cardText":"Trust-Association",
+                  "value":"Trust-Association",
+                  "id":"trustAssociation"
+               }
+            ]
+         },
+         {
+            "key":"categoryStoreList",
+            "items":[
+               {
+                  "title":"Groceries & Supermarkets",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/groceries.png",
+                  "color":"#444444"
+               },
+               {
+                  "title":"Dairy Products",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/dairy_products.png",
+                  "color":"#444444"
+               },
+               {
+                  "title":"Variety Stores",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/variety_stores.png",
+                  "color":"#444444"
+               },
+               {
+                  "title":"Stationary",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/stationary.png",
+                  "color":"#ffffff"
+               },
+               {
+                  "title":"Drug Stores, Pharmacy",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/drugs_bg.png",
+                  "color":"#444444"
+               },
+               {
+                  "title":"Service Stations",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/service_stations.png",
+                  "color":"#ffffff"
+               },
+               {
+                  "title":"Cigar Stores",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/cigar_stores.png",
+                  "color":"#444444"
+               }
+            ]
+         }
+      ],
       "globalConfig": {
          "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
          "forceUpdate": {
