@@ -115,37 +115,51 @@
                {
                   "title":"Groceries & Supermarkets",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/groceries.png",
-                  "color":"#444444"
+                  "color":"#444444",
+                  "businessCategory": "Groceries",
+                  "subCategory": "Supermarkets"
                },
                {
                   "title":"Dairy Products",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/dairy_products.png",
-                  "color":"#444444"
+                  "color":"#444444",
+                  "businessCategory": "Dairy",
+                  "subCategory": "Products"
                },
                {
                   "title":"Variety Stores",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/variety_stores.png",
-                  "color":"#444444"
+                  "color":"#444444",
+                  "businessCategory": "Variety",
+                  "subCategory": "Stores"
                },
                {
                   "title":"Stationary",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/stationary.png",
-                  "color":"#ffffff"
+                  "color":"#ffffff",
+                  "businessCategory": "Stationary",
+                  "subCategory": "Stationary"
                },
                {
                   "title":"Drug Stores, Pharmacy",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/drugs_bg.png",
-                  "color":"#444444"
+                  "color":"#444444",
+                  "businessCategory": "Drug Stores",
+                  "subCategory": "Pharmacy"
                },
                {
                   "title":"Service Stations",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/service_stations.png",
-                  "color":"#ffffff"
+                  "color":"#ffffff",
+                  "businessCategory": "Service",
+                  "subCategory": "Stations"
                },
                {
                   "title":"Cigar Stores",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/cigar_stores.png",
-                  "color":"#444444"
+                  "color":"#444444",
+                  "businessCategory": "Cigar",
+                  "subCategory": "Stores"
                }
             ]
          }
