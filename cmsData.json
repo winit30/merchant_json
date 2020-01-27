@@ -116,50 +116,71 @@
                   "title":"Groceries & Supermarkets",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/groceries.png",
                   "color":"#444444",
-                  "businessCategory": "Groceries",
-                  "subCategory": "Supermarkets"
+                  "businessCategory": "Grocery and supermarkets",
+                  "subCategory": "Grocery"
                },
                {
                   "title":"Dairy Products",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/dairy_products.png",
                   "color":"#444444",
-                  "businessCategory": "Dairy",
-                  "subCategory": "Products"
+                  "businessCategory": "Goods Stores",
+                  "subCategory": "Dairy Products Stores"
                },
                {
                   "title":"Variety Stores",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/variety_stores.png",
                   "color":"#444444",
-                  "businessCategory": "Variety",
-                  "subCategory": "Stores"
+                  "businessCategory": "Retail",
+                  "subCategory": "Variety Shop"
                },
                {
                   "title":"Stationary",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/stationary.png",
                   "color":"#ffffff",
-                  "businessCategory": "Stationary",
-                  "subCategory": "Stationary"
+                  "businessCategory": "ART CRAFT AND COLLECTIBLES",
+                  "subCategory": "Stationary, printing and writing paper"
                },
                {
                   "title":"Drug Stores, Pharmacy",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/drugs_bg.png",
                   "color":"#444444",
-                  "businessCategory": "Drug Stores",
+                  "businessCategory": "Health And PersonalCare",
                   "subCategory": "Pharmacy"
                },
                {
                   "title":"Service Stations",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/service_stations.png",
                   "color":"#ffffff",
-                  "businessCategory": "Service",
-                  "subCategory": "Stations"
+                  "businessCategory": "Automotive",
+                  "subCategory": "Service Stations"
                },
                {
                   "title":"Cigar Stores",
                   "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/cigar_stores.png",
                   "color":"#444444",
-                  "businessCategory": "Cigar",
-                  "subCategory": "Stores"
+                  "businessCategory": "Liquor and Cigarette",
+                  "subCategory": "Cigar Stores and Stands"
+               },
+               {
+                  "title":"Fast Food",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/fast_foods.png",
+                  "color":"#ffffff",
+                  "businessCategory": "Restaurants",
+                  "subCategory": "Fast Food"
+               },
+               {
+                  "title":"Apparel Stores",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/apparels.png",
+                  "color":"#444444",
+                  "businessCategory": "Stores",
+                  "subCategory": "CLOTHING ACCESSORIES AND SHOES"
+               },
+               {
+                  "title":"Educational Services",
+                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/education.png",
+                  "color":"#ffffff",
+                  "businessCategory": "EDUCATION AND JOBS",
+                  "subCategory": "Personal Teaching"
                }
             ]
          }
