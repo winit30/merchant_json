@@ -209,7 +209,7 @@
       "validationRegex": {
          "panNumber": "^([a-zA-Z]){5}([0-9]){4}([a-zA-Z]){1}?",
          "bankAccountNumber": "^\\d{9,18}$",
-         "ifscCode": "^[A-Za-z]{4}[a-zA-Z0-9]{7}$"
+         "ifscCode": "^[A-Za-z]{4}0[A-Z0-9a-z]{6}$"
       }
    }
 }
