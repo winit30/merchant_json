@@ -106,15 +106,6 @@
                   "cardText":"Trust-Association",
                   "value":"Trust-Association",
                   "id":"trustAssociation"
-               },
-               {
-                  "cardColors":[
-                     "#0b934e",
-                     "#30ff76"
-                  ],
-                  "cardText":"Some Text",
-                  "value":"Some Text",
-                  "id":"someId"
                }
             ]
          },
