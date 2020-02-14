@@ -123,70 +123,70 @@
             "items":[
                {
                   "title":"Groceries & Supermarkets",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/groceries.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/groceries.png",
                   "color":"#444444",
                   "businessCategory": "Grocery and supermarkets",
                   "subCategory": "Grocery"
                },
                {
                   "title":"Dairy Products",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/dairy_products.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/dairy_products.png",
                   "color":"#444444",
                   "businessCategory": "Goods Stores",
                   "subCategory": "Dairy Products Stores"
                },
                {
                   "title":"Variety Stores",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/variety_stores.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/variety_stores.png",
                   "color":"#444444",
                   "businessCategory": "Retail",
                   "subCategory": "Variety Shop"
                },
                {
                   "title":"Stationary",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/stationary.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/stationary.png",
                   "color":"#ffffff",
                   "businessCategory": "ART CRAFT AND COLLECTIBLES",
                   "subCategory": "Stationary, printing and writing paper"
                },
                {
                   "title":"Drug Stores, Pharmacy",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/drugs_bg.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/drugs_bg.png",
                   "color":"#444444",
                   "businessCategory": "Health And PersonalCare",
                   "subCategory": "Pharmacy"
                },
                {
                   "title":"Service Stations",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/service_stations.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/service_stations.png",
                   "color":"#ffffff",
                   "businessCategory": "Automotive",
                   "subCategory": "Service Stations"
                },
                {
                   "title":"Cigar Stores",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/cigar_stores.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/cigar_stores.png",
                   "color":"#444444",
                   "businessCategory": "Liquor and Cigarette",
                   "subCategory": "Cigar Stores and Stands"
                },
                {
                   "title":"Fast Food",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/fast_foods.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/fast_foods.png",
                   "color":"#ffffff",
                   "businessCategory": "Restaurants",
                   "subCategory": "Fast Food"
                },
                {
                   "title":"Apparel Stores",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/apparels.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/apparels.png",
                   "color":"#444444",
                   "businessCategory": "Stores",
                   "subCategory": "CLOTHING ACCESSORIES AND SHOES"
                },
                {
                   "title":"Educational Services",
-                  "imgUri":"https://raw.githubusercontent.com/winit30/merchantImages/master/education.png",
+                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/education.png",
                   "color":"#ffffff",
                   "businessCategory": "EDUCATION AND JOBS",
                   "subCategory": "Personal Teaching"
