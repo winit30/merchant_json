@@ -109,33 +109,6 @@
                   "cardText":"Sole Trader",
                   "value":"Sole Trader",
                   "id":"soleTrader"
-               },
-               {
-                  "cardColors":[
-                     "#c30046",
-                     "#ff5757"
-                  ],
-                  "cardText":"Partnership",
-                  "value":"Partnership",
-                  "id":"partnership"
-               },
-               {
-                  "cardColors":[
-                     "#0b934e",
-                     "#30ff76"
-                  ],
-                  "cardText":"Trust-Association",
-                  "value":"Trust-Association",
-                  "id":"trustAssociation"
-               },
-               {
-                  "cardColors":[
-                     "#c46000",
-                     "#ffa330"
-                  ],
-                  "cardText":"Some text",
-                  "value":"Some text",
-                  "id":"SomeText"
                }
             ]
          },
