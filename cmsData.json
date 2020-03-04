@@ -109,6 +109,15 @@
                   "cardText":"Sole Trader",
                   "value":"Sole Trader",
                   "id":"soleTrader"
+               },
+               {
+                  "cardColors":[
+                     "#d460F0",
+                     "#ffa330"
+                  ],
+                  "cardText":"Trust Association",
+                  "value":"Trust Association",
+                  "id":"trustAssociation"
                }
             ]
          },
