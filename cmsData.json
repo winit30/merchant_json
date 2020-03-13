@@ -22,7 +22,7 @@
          },
          {
             "key": "campaignBanner",
-            "order": 3,
+            "order": 0,
             "show": true,
             "redirectionUrl": [
                {
