@@ -8,12 +8,12 @@
          },
          {
             "key": "generatePaymentLink",
-            "order": 5,
+            "order": 2,
             "show": true
          },
          {
             "key": "homepageVideo",
-            "order": 2,
+            "order": 3,
             "show": true,
             "urls": [
                {
@@ -38,7 +38,7 @@
          },
          {
             "key": "categories",
-            "order": 3,
+            "order": 4,
             "show": true,
             "items": [
                {
@@ -75,7 +75,7 @@
          },
          {
             "key": "banner",
-            "order": 4,
+            "order": 5,
             "show": true,
             "urls": [
                "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel1.png",
