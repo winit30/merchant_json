@@ -7,6 +7,11 @@
             "show": true
          },
          {
+            "key": "generatePaymentLink",
+            "order": 5,
+            "show": true
+         },
+         {
             "key": "homepageVideo",
             "order": 2,
             "show": true,
