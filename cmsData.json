@@ -28,11 +28,22 @@
          {
             "key": "campaignBanner",
             "order": 0,
-            "show": true,
+            "show": false,
             "redirectionUrl": [
                {
                   "navigation": "newPage",
-                  "imgurl": "https://d1g4sjv85anmpz.cloudfront.net/merchant/mobile/images/campaign/campaign1.png"
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png"
+               }
+            ]
+         },
+         {
+            "key":"homePageBanner",
+            "order":0.1,
+            "show":true,
+            "redirectionUrl":[
+               {
+                  "url":"http://bit.ly/2xLP3g1?isOpenInApp=false",
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=1"
                }
             ]
          },
@@ -125,15 +136,6 @@
                   "cardText":"Sole Trader",
                   "value":"Sole Trader",
                   "id":"soleTrader"
-               },
-               {
-                  "cardColors":[
-                     "#d460F0",
-                     "#ffa330"
-                  ],
-                  "cardText":"Trust Association",
-                  "value":"Trust-Association",
-                  "id":"trustAssociation"
                }
             ]
          },
