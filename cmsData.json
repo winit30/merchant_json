@@ -43,7 +43,8 @@
             "redirectionUrl":[
                {
                   "url":"http://bit.ly/2xLP3g1?isOpenInApp=false",
-                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=1"
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=1",
+                  "omnitureTrackParam":"coronaBanner"
                }
             ]
          },
