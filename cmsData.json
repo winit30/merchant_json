@@ -7,13 +7,36 @@
             "show": true
          },
          {
-            "key": "generatePaymentLink",
+            "key": "campaignBanner",
             "order": 2,
+            "show": false,
+            "redirectionUrl": [
+               {
+                  "navigation": "newPage",
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png"
+               }
+            ]
+         },
+         {
+            "key": "homePageBanner",
+            "order": 3,
+            "show": true,
+            "redirectionUrl": [
+               {
+                  "url": "http://bit.ly/2xLP3g1?isOpenInApp=false",
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=1",
+                  "omnitureTrackParam": "coronaBanner"
+               }
+            ]
+         },
+         {
+            "key": "generatePaymentLink",
+            "order": 4,
             "show": true
          },
          {
             "key": "homepageVideo",
-            "order": 3,
+            "order": 5,
             "show": true,
             "urls": [
                {
@@ -26,31 +49,8 @@
             ]
          },
          {
-            "key": "campaignBanner",
-            "order": 0,
-            "show": false,
-            "redirectionUrl": [
-               {
-                  "navigation": "newPage",
-                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png"
-               }
-            ]
-         },
-         {
-            "key":"homePageBanner",
-            "order":0.1,
-            "show":true,
-            "redirectionUrl":[
-               {
-                  "url":"http://bit.ly/2xLP3g1?isOpenInApp=false",
-                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=1",
-                  "omnitureTrackParam":"coronaBanner"
-               }
-            ]
-         },
-         {
             "key": "categories",
-            "order": 4,
+            "order": 6,
             "show": true,
             "items": [
                {
@@ -87,7 +87,7 @@
          },
          {
             "key": "banner",
-            "order": 5,
+            "order": 7,
             "show": true,
             "urls": [
                "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel1.png",
@@ -116,100 +116,100 @@
             "policyId": 95460
          }
       },
-      "registrationConfig":[
+      "registrationConfig": [
          {
-            "key":"businessCategory",
-            "items":[
+            "key": "businessCategory",
+            "items": [
                {
-                  "cardColors":[
+                  "cardColors": [
                      "#008bc2",
                      "#22ebff"
                   ],
-                  "cardText":"Individual",
-                  "value":"Individual",
-                  "id":"individual"
+                  "cardText": "Individual",
+                  "value": "Individual",
+                  "id": "individual"
                },
                {
-                  "cardColors":[
+                  "cardColors": [
                      "#c46000",
                      "#ffa330"
                   ],
-                  "cardText":"Sole Trader",
-                  "value":"Sole Trader",
-                  "id":"soleTrader"
+                  "cardText": "Sole Trader",
+                  "value": "Sole Trader",
+                  "id": "soleTrader"
                }
             ]
          },
          {
-            "key":"categoryStoreList",
-            "items":[
+            "key": "categoryStoreList",
+            "items": [
                {
-                  "title":"Groceries & Supermarkets",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/groceries.png",
-                  "color":"#444444",
+                  "title": "Groceries & Supermarkets",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/groceries.png",
+                  "color": "#444444",
                   "businessCategory": "Grocery and supermarkets",
                   "subCategory": "Grocery"
                },
                {
-                  "title":"Dairy Products",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/dairy_products.png",
-                  "color":"#444444",
+                  "title": "Dairy Products",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/dairy_products.png",
+                  "color": "#444444",
                   "businessCategory": "Goods Stores",
                   "subCategory": "Dairy Products Stores"
                },
                {
-                  "title":"Variety Stores",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/variety_stores.png",
-                  "color":"#444444",
+                  "title": "Variety Stores",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/variety_stores.png",
+                  "color": "#444444",
                   "businessCategory": "Retail",
                   "subCategory": "Variety Shop"
                },
                {
-                  "title":"Stationary",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/stationary.png",
-                  "color":"#ffffff",
+                  "title": "Stationary",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/stationary.png",
+                  "color": "#ffffff",
                   "businessCategory": "ART CRAFT AND COLLECTIBLES",
                   "subCategory": "Stationary, printing and writing paper"
                },
                {
-                  "title":"Drug Stores, Pharmacy",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/drugs_bg.png",
-                  "color":"#444444",
+                  "title": "Drug Stores, Pharmacy",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/drugs_bg.png",
+                  "color": "#444444",
                   "businessCategory": "Health And PersonalCare",
                   "subCategory": "Pharmacy"
                },
                {
-                  "title":"Service Stations",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/service_stations.png",
-                  "color":"#ffffff",
+                  "title": "Service Stations",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/service_stations.png",
+                  "color": "#ffffff",
                   "businessCategory": "Automotive",
                   "subCategory": "Service Stations"
                },
                {
-                  "title":"Cigar Stores",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/cigar_stores.png",
-                  "color":"#444444",
+                  "title": "Cigar Stores",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/cigar_stores.png",
+                  "color": "#444444",
                   "businessCategory": "Liquor and Cigarette",
                   "subCategory": "Cigar Stores and Stands"
                },
                {
-                  "title":"Fast Food",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/fast_foods.png",
-                  "color":"#ffffff",
+                  "title": "Fast Food",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/fast_foods.png",
+                  "color": "#ffffff",
                   "businessCategory": "Restaurants",
                   "subCategory": "Fast Food"
                },
                {
-                  "title":"Apparel Stores",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/apparels.png",
-                  "color":"#444444",
+                  "title": "Apparel Stores",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/apparels.png",
+                  "color": "#444444",
                   "businessCategory": "Stores",
                   "subCategory": "CLOTHING ACCESSORIES AND SHOES"
                },
                {
-                  "title":"Educational Services",
-                  "imgUri":"https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/education.png",
-                  "color":"#ffffff",
+                  "title": "Educational Services",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/education.png",
+                  "color": "#ffffff",
                   "businessCategory": "EDUCATION AND JOBS",
                   "subCategory": "Personal Teaching"
                }
