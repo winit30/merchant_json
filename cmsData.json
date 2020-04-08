@@ -36,7 +36,7 @@
          },
          {
             "key": "homepageVideo",
-            "order": 5,
+            "order": 6,
             "show": true,
             "urls": [
                {
@@ -50,7 +50,7 @@
          },
          {
             "key": "categories",
-            "order": 6,
+            "order": 5,
             "show": true,
             "items": [
                {
