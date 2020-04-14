@@ -96,6 +96,7 @@
          }
       ],
       "globalConfig": {
+         "showRating":true,
          "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
          "forceUpdate": {
             "android": {
