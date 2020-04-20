@@ -9,7 +9,7 @@
          {
             "key": "campaignBanner",
             "order": 2,
-            "show": false,
+            "show": true,
             "redirectionUrl": [
                {
                   "navigation": "newPage",
