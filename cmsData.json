@@ -9,7 +9,7 @@
          {
             "key": "campaignBanner",
             "order": 2,
-            "show": true,
+            "show": false,
             "redirectionUrl": [
                {
                   "navigation": "newPage",
@@ -20,7 +20,7 @@
          {
             "key": "homePageBanner",
             "order": 3,
-            "show": false,
+            "show": true,
             "redirectionUrl": [
                {
                   "url": "http://bit.ly/2xLP3g1?isOpenInApp=false",
