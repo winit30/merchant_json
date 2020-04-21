@@ -96,7 +96,11 @@
          }
       ],
       "globalConfig": {
-         "showRating":true,
+         "rating":{
+            "showRating":true,
+            "countTillPopUpShow": 3,
+            "timeAfterWhichPopShow": 30000
+            },
          "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
          "forceUpdate": {
             "android": {
