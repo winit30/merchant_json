@@ -97,7 +97,7 @@
       ],
       "globalConfig": {
          "rating":{
-            "showRating":true,
+            "showRating":false,
             "countTillPopUpShow": 3,
             "timeAfterWhichPopShow": 30000
             },
