@@ -43,7 +43,10 @@
                   "id": 1,
                   "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
                   "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
-                  "desc": "PaisaPlus ke saath business badao",
+                  "desc": {
+                    "en": "PaisaPlus ke saath business badao",
+                    "hi": "पैसा प्लस से बढाओ अपना बिज़नेस"
+                  },
                   "autoPlay": false
                }
             ]
