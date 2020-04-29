@@ -152,70 +152,100 @@
             "key": "categoryStoreList",
             "items": [
                {
-                  "title": "Groceries & Supermarkets",
+                  "title": {
+                    "en": "Groceries & Supermarkets",
+                    "hi": "किराने का सामान और सुपरमार्केट"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/groceries.png",
                   "color": "#444444",
                   "businessCategory": "Grocery and supermarkets",
                   "subCategory": "Grocery"
                },
                {
-                  "title": "Dairy Products",
+                  "title": {
+                    "en": "Dairy Products",
+                    "hi": "दुग्ध उत्पाद"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/dairy_products.png",
                   "color": "#444444",
                   "businessCategory": "Goods Stores",
                   "subCategory": "Dairy Products Stores"
                },
                {
-                  "title": "Variety Stores",
+                  "title": {
+                    "en": "Variety Stores",
+                    "hi": "विभिन्न प्रकार के स्टोर"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/variety_stores.png",
                   "color": "#444444",
                   "businessCategory": "Retail",
                   "subCategory": "Variety Shop"
                },
                {
-                  "title": "Stationary",
+                  "title": {
+                    "en": "Stationary",
+                    "hi": "स्थावर"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/stationary.png",
                   "color": "#ffffff",
                   "businessCategory": "ART CRAFT AND COLLECTIBLES",
                   "subCategory": "Stationary, printing and writing paper"
                },
                {
-                  "title": "Drug Stores, Pharmacy",
+                  "title":{
+                    "en": "Drug Stores, Pharmacy",
+                    "hi": "ड्रग स्टोर्स, फार्मेसी"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/drugs_bg.png",
                   "color": "#444444",
                   "businessCategory": "Health And PersonalCare",
                   "subCategory": "Pharmacy"
                },
                {
-                  "title": "Service Stations",
+                  "title": {
+                    "en": "Service Stations",
+                    "hi": "सर्विस स्टेशन"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/service_stations.png",
                   "color": "#ffffff",
                   "businessCategory": "Automotive",
                   "subCategory": "Service Stations"
                },
                {
-                  "title": "Cigar Stores",
+                  "title": {
+                    "en": "Cigar Stores",
+                    "hi": "सिगार स्टोर"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/cigar_stores.png",
                   "color": "#444444",
                   "businessCategory": "Liquor and Cigarette",
                   "subCategory": "Cigar Stores and Stands"
                },
                {
-                  "title": "Fast Food",
+                  "title": {
+                    "en": "Fast Food",
+                    "hi": "फास्ट फूड"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/fast_foods.png",
                   "color": "#ffffff",
                   "businessCategory": "Restaurants",
                   "subCategory": "Fast Food"
                },
                {
-                  "title": "Apparel Stores",
+                  "title": {
+                    "en": "Apparel Stores",
+                    "hi": "परिधान भंडार"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/apparels.png",
                   "color": "#444444",
                   "businessCategory": "Stores",
                   "subCategory": "CLOTHING ACCESSORIES AND SHOES"
                },
                {
-                  "title": "Educational Services",
+                  "title": {
+                    "en": "Educational Services",
+                    "hi": "शैक्षणिक सेवाएं"
+                  },
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/education.png",
                   "color": "#ffffff",
                   "businessCategory": "EDUCATION AND JOBS",
