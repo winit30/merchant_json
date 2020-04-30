@@ -43,7 +43,8 @@
                   "id": 1,
                   "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
                   "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
-                  "desc": {
+                  "desc": "PaisaPlus ke saath business badao",
+                  "descLocale": {
                     "en": "PaisaPlus ke saath business badao",
                     "hi": "पैसा प्लस से बढाओ अपना बिज़नेस"
                   },
@@ -134,6 +135,10 @@
                      "#22ebff"
                   ],
                   "cardText": "Individual",
+                  "cardTextLocale": {
+                     "en": "Individual",
+                     "hi": "व्यक्ति"
+                   },
                   "value": "Individual",
                   "id": "individual"
                },
@@ -143,6 +148,10 @@
                      "#ffa330"
                   ],
                   "cardText": "Sole Trader",
+                  "cardTextLocale": {
+                     "en": "Sole Trader",
+                     "hi": "एकमात्र व्यापारी"
+                   },
                   "value": "Sole Trader",
                   "id": "soleTrader"
                }
@@ -152,100 +161,110 @@
             "key": "categoryStoreList",
             "items": [
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Groceries & Supermarkets",
                     "hi": "किराने का सामान और सुपरमार्केट"
                   },
+                  "title": "Groceries & Supermarkets",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/groceries.png",
                   "color": "#444444",
                   "businessCategory": "Grocery and supermarkets",
                   "subCategory": "Grocery"
                },
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Dairy Products",
                     "hi": "दुग्ध उत्पाद"
                   },
+                  "title": "Dairy Products",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/dairy_products.png",
                   "color": "#444444",
                   "businessCategory": "Goods Stores",
                   "subCategory": "Dairy Products Stores"
                },
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Variety Stores",
                     "hi": "विभिन्न प्रकार के स्टोर"
                   },
+                  "title": "Variety Stores",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/variety_stores.png",
                   "color": "#444444",
                   "businessCategory": "Retail",
                   "subCategory": "Variety Shop"
                },
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Stationary",
                     "hi": "स्थावर"
                   },
+                  "title": "Stationary",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/stationary.png",
                   "color": "#ffffff",
                   "businessCategory": "ART CRAFT AND COLLECTIBLES",
                   "subCategory": "Stationary, printing and writing paper"
                },
                {
-                  "title":{
+                  "titleLocale":{
                     "en": "Drug Stores, Pharmacy",
                     "hi": "ड्रग स्टोर्स, फार्मेसी"
                   },
+                  "title": "Drug Stores, Pharmacy",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/drugs_bg.png",
                   "color": "#444444",
                   "businessCategory": "Health And PersonalCare",
                   "subCategory": "Pharmacy"
                },
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Service Stations",
                     "hi": "सर्विस स्टेशन"
                   },
+                  "title": "Service Stations",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/service_stations.png",
                   "color": "#ffffff",
                   "businessCategory": "Automotive",
                   "subCategory": "Service Stations"
                },
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Cigar Stores",
                     "hi": "सिगार स्टोर"
                   },
+                  "title": "Cigar Stores",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/cigar_stores.png",
                   "color": "#444444",
                   "businessCategory": "Liquor and Cigarette",
                   "subCategory": "Cigar Stores and Stands"
                },
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Fast Food",
                     "hi": "फास्ट फूड"
                   },
+                  "title": "Fast Food",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/fast_foods.png",
                   "color": "#ffffff",
                   "businessCategory": "Restaurants",
                   "subCategory": "Fast Food"
                },
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Apparel Stores",
                     "hi": "परिधान भंडार"
                   },
+                  "title": "Apparel Stores",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/apparels.png",
                   "color": "#444444",
                   "businessCategory": "Stores",
                   "subCategory": "CLOTHING ACCESSORIES AND SHOES"
                },
                {
-                  "title": {
+                  "titleLocale": {
                     "en": "Educational Services",
                     "hi": "शैक्षणिक सेवाएं"
                   },
+                  "title": "Educational Services",
                   "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/education.png",
                   "color": "#ffffff",
                   "businessCategory": "EDUCATION AND JOBS",
