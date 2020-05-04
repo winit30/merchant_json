@@ -1,242 +1,254 @@
 {
-	"data": [{
-			"key": "लेन-देन संबंधित",
-			"value": [{
-					"label": "ग्राहक लेनदेन की पुष्टि प्राप्त नहीं हुई",
-					"value": "फ़्रीचार्ज सभी सफल लेनदेन के लिए एक एसएमएस भेजता है। \n यदि आपको एसएमएस नहीं मिला है, तो कृपया नीचे दिए गए चरणों का पालन करें \n1. नीचे नेविगेशन से लेनदेन पर क्लिक करें \n2। आप सभी लेनदेन देख सकते हैं जो हैं आपके क्यूआर कोड या अन्य माध्यम से किया गया हैः। ",
-					"showContactUs": false
-				},
-				{
-					"label": "बैंक खाते में जमा नहीं की गई राशि",
-					"value": "सभी सफल लेनदेन अगले कार्य दिवस (बैंक की छुट्टियों को छोड़कर) पर तय किए जाते हैं। आगे सहायता के मामले में कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें।",
-					"showContactUs": true
-				},
-				{
-					"label": "गलत लेन-देन की स्थिति",
-					"value": "कृपया कुछ मिनटों में लेनदेन की स्थिति को फिर से जांचने का प्रयास करें। आगे सहायता के मामले में कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें।",
-					"showContactUs": true
-				}
-			]
-		},
-		{
-			"key": "निपटान संबंधित",
-			"value": [{
-					"label": "मुझे मेरा निपटान नहीं मिला है",
-					"value": "कृपया नीचे दिए गए चरणों का पालन करें \n \n1 . नीचे नेविगेशन से निपटान पर जाएं।\n2  उस तिथि पर क्लिक करें जिसके लिए आपको अपना निपटान नहीं मिला है \n3 सफल निपटान के लिए, आपको राशि दिखाई देगी। और बैंक खाते का विवरण जिसमें धनराशि निपटान की गई थी। \n आगे की सहायता के मामले में, कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें।",
-					"showContactUs": true
-				},
-				{
-					"label": "मेरे निपटान में समस्याएँ हैं",
-					"value": "कृपया नीचे दिए गए चरणों का पालन करें \n \n1 . नीचे नेविगेशन से निपटान पर जाएं।\n2  उस तारीख पर क्लिक करें जिसके लिए आपके पास आपके निपटान में समस्याएँ हैं।\n3 सफल निपटान के लिए, आपको राशि दिखाई देगी और बैंक खाते का विवरण जिसमें धनराशि निपटान की गई थी। \n4। कोई निपटान नहीं होने की स्थिति में आपको एक वैध संदेश दिखाई देगा। आगे की सहायता के मामले में कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें। ",
-					"showContactUs": true
-				},
-				{
-					"label": "निपटान रिपोर्ट में गलत डेटा",
-					"value": "कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें।",
-					"showContactUs": true
-				}
-			]
-		},
-		{
-			"key": "अन्य मुद्दे",
-			"value": [{
-					"key": "अकाउंट संबंधित",
-					"value": [{
-							"label": "मेरा पासवर्ड कैसे बदलें",
-							"value": "कृपया नीचे दिए गए चरणों का पालन करें \n \n 1। नीचे नेविगेशन से अकाउंट पर जाएं। \n2 अब पासवर्ड बदलें पर क्लिक करें। \n3 अपना नया पासवर्ड दर्ज करने के बाद पोस्ट सहेजें पर क्लिक करें। \n अपने नए पासवर्ड के साथ अपने खाते में प्रवेश करें। ",
-							"showContactUs": false
-						},
-						{
-							"label": "मेरे बैंक खाते के विवरण कैसे बदलें",
-							"value": "कृपया नीचे दिए गए चरणों का पालन करें \n \n 1। नीचे नेविगेशन से अकाउंट पर जाएं।  \n2 बैंक और पैन सूचना पर क्लिक करें। \n3 बैंक जानकारी के दाईं ओर संपादित करें क्लिक करें।\n4 दर्ज करें खाता संख्या और आईएफएससी कोड \n5  बैंक खाते की जानकारी को सहेजने के लिए अद्यतन पर क्लिक करें। आगे की सहायता के मामले में कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें। ",
-							"showContactUs": true
-						},
-						{
-							"label": "मेरे पंजीकृत ईमेल और मोबाइल को कैसे बदलें",
-							"value": "कृपया नीचे दिए चरणों का पालन करें \n \n 1। नीचे नेविगेशन से अकाउंट पर जाएं।\n2 अब संपर्क जानकारी पर क्लिक करें। \n3 मोबाइल / ईमेल पर 'परिवर्तन' लिंक पर क्लिक करें जो भी आप बदलना चाहते हैं। \n4 आपसे मोबाइल या ईमेल पर भेजे गए ओटीपी को दर्ज करने के लिए कहा जाएगा, जो भी आप को अपडेट कर रहे हैं \n5 नए विवरण दर्ज करें और ईमेल और मोबाइल को अपडेट करने के लिए सहेजें पर क्लिक करें। \n यदि आप ईमेल या मोबाइल को अपडेट करने में असमर्थ हैं, तो कृपया कुछ समय बाद प्रयास करें। समय।",
-							"showContactUs": false
-						},
-						{
-							"label": "वह शुल्क जो शुल्क लिया जा रहा है",
-							"value": "कृपया नीचे दिए चरणों का पालन करें \n \n1 नीचे दिए गए नेविगेशन से अकाउंट पर  जाएं।\n2 अब शुल्क और मासिक सीमा पर क्लिक करें। \n3 आप अपना शुल्क और मासिक सीमा सेट देख पाएंगे।\n यदि आप अपनी मासिक सीमा बढ़ाना चाहते हैं तो समर्थन टिकट बढ़ाने के लिए नीचे दिए गए यस बटन पर क्लिक करें ",
-							"showContactUs": true
-						},
-						{
-							"label": "मैं अन्य विवरण कैसे संपादित कर सकता हूं",
-							"value": "ईमेल, मोबाइल, बैंक खाता संख्या के अलावा, पहली बार जीएसटी पंजीकरण के दौरान हम किसी अन्य विवरण को अपडेट करने की अनुमति नहीं देते हैं। आगे सहायता के मामले में कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें।",
-							"showContactUs": true
-						}
-					]
-				},
-				{
-					"key": "जीएसटी संबंधित",
-					"value": [{
-							"label": "मैं अपने जीएसटी विवरणों का इनपुट कैसे करूं",
-							"value": "कृपया नीचे दिए चरणों का पालन करें \n \n1 नीचे दिए गए खाते पर क्लिक करें  \n2जीएसटी सूचना पर क्लिक करें। \n3आवश्यक विवरण दर्ज करें और सहेजने के लिए सबमिट करें",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं अपना जीएसटी विवरण कैसे संपादित कर सकता हूं",
-							"value": "जीएसटी विवरण एक बार सहेजे जाने पर संपादित नहीं किया जा सकता। \n आगे की सहायता के मामले में कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए यस बटन पर क्लिक करें।",
-							"showContactUs": true
-						}
-					]
-				},
-				{
-					"key": "केवाईसी संबंधित",
-					"value": [{
-						"label": "मैं अपना केवाईसी कैसे अपडेट करूं",
-						"value": "नीचे नेविगेशन से अकाउंट पर जाएं और केवाईसी पर क्लिक करें। यहां आप अपने केवाईसी को अपडेट कर सकते हैं। आगे की सहायता के मामले में कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें।",
-						"showContactUs": true
-					}]
-				},
-				{
-					"key": "क्यूआर संबंधित",
-					"value": [{
-							"label": "मैं अपना क्यूआर कहां देख सकता हूं",
-							"value": "कृपया नीचे दिए चरणों का पालन करें \n \n 1। नीचे नेविगेशन से क्यूआर पर जाएं \n2 आप अपना क्यूआर कोड देख पाएंगे",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं एक नया क्यूआर कैसे उत्पन्न कर सकता हूं",
-							"value": "कृपया नीचे दिए चरणों का पालन करें \n \n 1। नीचे नेविगेशन से क्यूआर पे क्लिक करें ।\n2  जनरेट क्यूआर पर क्लिक करें। \n3 आवश्यक राशि दर्ज करें और यदि आवश्यक हो तो टिप्पणी करें। \n4 जनरेट क्यूआर बटन पर क्लिक करें। क्यूआर दिख जाएगा ",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं अपना क्यूआर कैसे डाउनलोड या साझा कर सकता हूं",
-							"value": "कृपया नीचे दिए गए चरणों का पालन करें \n \n 1। नीचे नेविगेशन से क्यूआर पर जाएं \n2 क्यूआर कोड के नीचे, आप डाउनलोड / शेयर विकल्प देख पाएंगे। \n3 यदि आप क्लिक करते हैं क्यूआर आपके डाउनलोड / गैलरी में सहेजा जाएगा ",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं अपना क्यूआर नहीं देख पा रहा हूं",
-							"value": "कृपया कुछ समय बाद पुन: प्रयास करें। \n यदि आप अभी भी समस्या का सामना कर रहे हैं तो कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें।",
-							"showContactUs": true
-						},
-						{
-							"label": "मैं एक नया क्यूआर स्टैंड ऑर्डर करना चाहता हूं",
-							"value": "कृपया समर्थन टिकट बढ़ाने के लिए नीचे दिए गए हां बटन पर क्लिक करें। हमको न पता बताएं जहां आप क्यूआर प्राप्त करना चाहते हैं,।",
-							"showContactUs": true
-						}
-					]
-				},
-				{
-					"key": "पैसा प्लस संबंधित",
-					"value": [{
-							"label": "मैं ग्राहक को पेसा प्लस वाउचर कैसे जारी करूं",
-							"value": "आप 3 चरणों में पैसा प्लस वाउचर जारी कर सकते हैं: \n \n1। अपने ऐप के पैसा प्लस अनुभाग में वांछित ग्राहक चुनें / खोजें। \n2। 'वाउचर जोड़ें' बटन पर क्लिक करें; छूट का चयन करें; ग्राहक को देना चाहते हैं। \n3। अब खरीद राशि दर्ज करें \n4। ग्राहक के नंबर पर भेजे गए ओटीपी को सत्यापित करें ",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं एक मुफ्त वाउचर कैसे जारी करूं",
-							"value": "आप 3 चरणों में पैसा प्लस वाउचर जारी कर सकते हैं: \n \n1। अपने ऐप के पैसा प्लस अनुभाग में वांछित ग्राहक चुनें / खोजें। \n2। 'वाउचर जोड़ें' बटन पर क्लिक करें; 100% छूट का चयन करें और दिया जाने वाला वाउचर राशि दर्ज करें। \n3 ग्राहक के मोबाइल नंबर पर भेजे गए ओटीपी को सत्यापित करें ",
-							"showContactUs": false
-						},
-						{
-							"label": "ग्राहक मुझे पेसा प्लस वाउचर खरीदने के लिए भुगतान कैसे करेंगे",
-							"value": "आप ग्राहक से भुगतान किसी भी मोड में ले सकते हैं अर्थात् नकद, डेबिट कार्ड, यूपीआई otpआदि। आपको इस तरह के भुगतानों का रिकॉर्ड इस ऐप में रखना होगा।",
-							"showContactUs": false
-						},
-						{
-							"label": "क्या वाउचर जारी करने की कोई सीमा है",
-							"value": "हां, नीचे नई सीमाएं जारी करने पर लागू होने वाली सीमाएं हैं: \n1। आप एक ही बार में 10,000 रुपये से अधिक का वाउचर जारी नहीं कर सकते। \n2। आपको केवल 500 सफल प्रयास जारी किए जाएंगे। आपके ग्राहक। ",
-							"showContactUs": false
-						},
-						{
-							"label": "मेरे ग्राहक इन वाउचर का उपयोग कैसे करेंगे",
-							"value": "ग्राहक इन वाउचर का उपयोग करके आपके स्टोर से किसी भी उत्पाद / सेवा को खरीद सकते हैं। मोचन आरंभ करने के लिए निम्न चरणों का पालन करें: \n \n1। अपने ऐप के Paisa प्लस अनुभाग में 'ग्राहकों' टैब से ग्राहक खोजें। \n2। चयनित ग्राहक पृष्ठ खोलें, रिडीम वाउचर पर क्लिक करें। \n3। वह वाउचर राशि दर्ज करें जिसे ग्राहक खरीद के लिए उपयोग करना चाहता है। \n4। OTP की पुष्टि करें, जिसे ग्राहक के मोबाइल नंबर पर भेजा जाएगा। ",
-							"showContactUs": false
-						},
-						{
-							"label": "मुझे ग्राहकों को शेष वाउचर शेष कहां दिखाई देता है",
-							"value": "आप नीचे दिए गए चरणों का पालन करते हुए ग्राहक विवरण देख सकते हैं: \n \n1। अपने ऐप के पैसा प्लस अनुभाग में ग्राहक 'टैब' से ग्राहक खोजें। \n2। अगला पृष्ठ आपको इतिहास दिखाएगा। & ग्राहक के शेष वाउचर शेष। ",
-							"showContactUs": false
-						},
-						{
-							"label": "क्या जारी वाउचर की कोई समाप्ति अवधि है",
-							"value": "वाउचर की कोई समाप्ति नहीं है जो आपके ग्राहकों को जारी किए गए हैं।",
-							"showContactUs": false
-						},
-						{
-							"label": "क्या कोई उपयोगकर्ता अपना पंजीकृत मोबाइल नंबर बदल सकता है",
-							"value": "नहीं, ग्राहक मोबाइल नंबर नहीं बदल सकते हैं।",
-							"showContactUs": false
-						}
-					]
-				},
-				{
-					"key": "खाता संबंधित",
-					"value": [{
-							"label": "मैं एक नए ग्राहक का खाता कैसे खोलूं",
-							"value": "आप नीचे दिए गए चरणों का पालन करके एक नए ग्राहक का खाता खोल सकते हैं: \n \n1। अपने ऐप के खाता अनुभाग में 'नया जोड़ें' बटन पर क्लिक करें। \n2। ग्राहक का विवरण दर्ज करें। \n3। ओटीपी पुष्टिकरण के साथ या बिना ग्राहक बनाने के लिए चुनें ",
-							"showContactUs": false
-						},
-						{
-							"label": "क्या मुझे हर बार ओटीपी सत्यापित करना है",
-							"value": "नहीं, आप ओटीपी सत्यापन के बिना भी ग्राहक बना सकते हैं।",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं एक मौजूदा ग्राहक के खाता में एक नई प्रविष्टि कैसे जोड़ूं",
-							"value": "आप नीचे दिए गए चरणों का पालन करके किसी मौजूदा ग्राहक के खाटा पर एक नई प्रविष्टि जोड़ सकते हैं: \n \n1। अपने ऐप के खाटा अनुभाग में वांछित ग्राहक चुनें / खोजें। \n2। 'जोड़ें राशि पर क्लिक करें बटन। ग्राहकों को जोड़ने और जमा करने के लिए राशि दर्ज करें। ",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं किया गया प्रविष्टि कैसे संशोधित कर सकता हूं",
-							"value": "हम खाता  प्रविष्टि बनाने के 5 मिनट बाद तक संशोधन करने की अनुमति देते हैं। ग्राहकों के पेज पर नीचे दिए गए चरणों का पालन करने के लिए, जिनकी प्रविष्टि को संशोधित करने की आवश्यकता है। \n2 प्रविष्टि पर क्लिक करें। शीर्ष दाएं कोने पर संशोधित करें।\n3  प्रविष्टि पर क्लिक करें और सहेजें पर क्लिक करें। आपकी प्रविष्टि सहेज ली जाएगी ",
-							"showContactUs": false
-						},
-						{
-							"label": "क्या मैं खाता बनाते समय बिल की प्रति संलग्न कर सकता हूं",
-							"value": "हाँ, आप खाता प्रविष्टि बनाते समय बिल की प्रति संलग्न कर सकते हैं",
-							"showContactUs": false
-						},
-						{
-							"label": "ग्राहक मेरे साथ राशि का निपटान कैसे करेगा",
-							"value": "आप कैश, डेबिट कार्ड, वॉलेट आदि का उपयोग करके ग्राहक से भुगतान ले सकते हैं, नीचे दिए गए चरणों का पालन करके अपने खाता में प्रविष्टि दर्ज करें \n \n 1। अपने के अनुभाग में वांछित ग्राहक चुनें / खोजें। \n2। ग्राहक पृष्ठ पर, निपटान करें बटन पर क्लिक करें। \n3। वह राशि दर्ज करें जिसे उपयोगकर्ता आपके साथ जमा करना चाहता है और सबमिट करें। ",
-							"showContactUs": false
-						},
-						{
-							"label": "मुझे अपने सभी ग्राहकों द्वारा बकाया बकाया राशि कहां दिखाई देती है",
-							"value": "जैसे ही आप ऐप के खाता खंड को खोलते हैं। शीर्ष पर आपको कुल लंबित राशि उपयोगकर्ता दिखाई देंगे, जिनके लिए क्रेडिट दिया गया था और जिन उपयोगकर्ताओं ने खाता सीमा पार कर ली है।",
-							"showContactUs": false
-						},
-						{
-							"label": "मुझे ग्राहक की बकाया राशि कहाँ दिखती है",
-							"value": "आप नीचे दिए गए चरणों के बाद ग्राहक विवरण देख सकते हैं: \n \n1। अपने ऐप के खाता अनुभाग में वांछित ग्राहक खोजें। \n2। ग्राहक प्रविष्टि पर क्लिक करें और आपको इतिहास और बकाया राशि दिखाई देगी। । ",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं अपनी बकाया राशि के ग्राहकों को कैसे सूचित कर सकता हूं",
-							"value": "आप केवल ओटीपी सत्यापित ग्राहकों को सूचित कर पाएंगे। \n \n कृपया सूचित करने के लिए नीचे दिए गए चरणों का पालन करें: \n \n1। खाता पृष्ठ पर, नीचे में नोटिफाई बटन पर क्लिक करें।\n2 जिन ग्राहकों को आप उनकी लंबित राशि के बारे में सूचित करना चाहते हैं उनका चयन करें,\n3 उन उपयोगकर्ताओं को एसएमएस भेजने के लिए 'नोटिफिकेशन भेजें' बटन पर क्लिक करें।",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं एक नए खाता के लिए सीमा कैसे निर्धारित कर सकता हूं",
-							"value": "हां आप उसकी प्रोफाइल बनाते / संपादित करते समय हर ग्राहक के लिए खाता  की सीमा जोड़ सकते हैं।",
-							"showContactUs": false
-						},
-						{
-							"label": "क्या मैं किसी उपयोगकर्ता का मोबाइल नंबर बदल सकता हूं",
-							"value": "हम उपयोगकर्ता के मोबाइल नंबर को बदलने की अनुमति नहीं देते हैं।",
-							"showContactUs": false
-						}
-					]
-				},
-				{
-					"key": "रिपोर्ट संबंधित",
-					"value": [{
-							"label": "मैं अपनी लेनदेन रिपोर्ट कैसे डाउनलोड / देख सकता हूं",
-							"value": "हमारे पास ऐप पर अपनी लेन-देन रिपोर्ट डाउनलोड / देखने का विकल्प नहीं है। आप हमारी वेबसाइट https://merchant.freecharge.in पर लॉगिन कर सकते हैं। लॉगिन के बाद आप रिपोर्ट अनुभाग में देख सकते हैं। ",
-							"showContactUs": false
-						},
-						{
-							"label": "मैं अपनी निपटान रिपोर्ट कैसे डाउनलोड / देख सकता हूं",
-							"value": "हमारे पास ऐप पर अपनी लेन-देन रिपोर्ट डाउनलोड / देखने का विकल्प नहीं है। आप हमारी वेबसाइट https://merchant.freecharge.in पर लॉगिन कर सकते हैं। लॉगिन के बाद आप रिपोर्ट अनुभाग में देख सकते हैं। ",
-							"showContactUs": false
-						}
-					]
-				}
-			]
-		}
-	]
+  "data": [
+    {
+      "key": "Transaction Related",
+      "value": [
+        {
+          "label": "Customer transaction confirmation not received",
+          "value": "Freecharge sends an SMS for all successful transactions.\nIn case you have not received the SMS, please follow the below steps\n1.Go to Transactions from the bottom navigation bar\n2.You can find all transactions that are done from your QR code or other modes out there.",
+          "showContactUs": false
+        },
+        {
+          "label": "Amount not credited to bank account",
+          "value": "All the successful transactions are settled on the next working day (excluding bank holidays).\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+          "showContactUs": true
+        },
+        {
+          "label": "Incorrect Transaction status",
+          "value": "Please try to re-check the transaction status in a few minutes.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+          "showContactUs": true
+        }
+      ]
+    },
+    {
+      "key": "Settlement Related",
+      "value": [
+        {
+          "label": "I have not received my settlement",
+          "value": "Please follow the below steps\n\n1.Go to Settlements from the bottom navigation bar\n2. Click on the date for which you have not received your settlement\n3. For successful settlement, you will see the amount and bank account details in which the funds were transferred.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+          "showContactUs": true
+        },
+        {
+          "label": "Have issues in my settlement",
+          "value": "Please follow the below steps\n\n1.Go to Settlements from the bottom navigation bar\n2. Click on the date for which you have issues in your settlement\n3. For successful settlement, you will see the amount and bank account details in which the funds were transferred.\n4. In case of no settlement you will see a valid message stating reason for no settlement.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+          "showContactUs": true
+        },
+        {
+          "label": "Incorrect data in Settlement report",
+          "value": "Please click on Yes button below to raise a support ticket.",
+          "showContactUs": true
+        }
+      ]
+    },
+    {
+      "key": "Other Issues",
+      "value": [
+        {
+          "key": "Account related",
+          "value": [
+            {
+              "label": "How to change my password",
+              "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+              "showContactUs": false
+            },
+            {
+              "label": "How to change my bank account details",
+              "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on Bank & PAN Information\n3. Click on Edit on the right side of Bank Information\n4. Enter the Account Number and IFSC code\n5. Click on Update to save the Bank Account Information\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+              "showContactUs": true
+            },
+            {
+              "label": "How to change my registered email and mobile",
+              "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on Contact Information\n3. Click on 'Change' link on mobile/email whichever you like to change\n4. You will be asked to enter OTP sent to mobile or email whichever you are updating\n5. Enter new details and click save to update the email and mobile.\nIn case you are unable to update the email or mobile please try after some time.",
+              "showContactUs": false
+            },
+            {
+              "label": "What is the fee that is getting charged",
+              "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on fee and monthly limit\n3. You will be able to see the current fee and monthly limit set for the account\nIn case you want to increase your monthly limit click on Yes button below to raise a support ticket",
+              "showContactUs": true
+            },
+            {
+              "label": "How can I edit other details",
+              "value": "Apart from email, mobile, bank account number, first time GST registration we don't allow any other details to be updated.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+              "showContactUs": true
+            }
+          ]
+        },
+        {
+          "key": "GST Related",
+          "value": [
+            {
+              "label": "How do I input my GST details",
+              "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on GST Information\n3. Enter the necessary details and submit to save ",
+              "showContactUs": false
+            },
+            {
+              "label": "How can I edit my GST details",
+              "value": "GST details once saved cannot be edited.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+              "showContactUs": true
+            }
+          ]
+        },
+        {
+          "key": "KYC Related",
+          "value": [
+            {
+              "label": "How do I update my KYC",
+              "value": "Go to Account from the bottom navigation bar and click on KYC. Here you can update your KYC\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+              "showContactUs": true
+            }
+          ]
+        },
+        {
+          "key": "QR Related",
+          "value": [
+            {
+              "label": "Where can I see my QR",
+              "value": "Please follow the below steps\n\n1. Go to Show QR from the bottom navigation bar\n2. You will be able to see your QR Code ",
+              "showContactUs": false
+            },
+            {
+              "label": "How can I generate a new QR",
+              "value": "Please follow the below steps\n\n1. Go to Show QR from the bottom navigation bar\n2. Click on Generate QR\n3. Enter Amount and remarks if required\n4. Click on Generate QR button and your QR will be shown",
+              "showContactUs": false
+            },
+            {
+              "label": "How can I download or share my QR",
+              "value": "Please follow the below steps\n\n1. Go to Show QR from the bottom navigation bar\n2. Below the QR code, you will be able to see the download/share option\n3. If you click Download, QR will be saved in your Downloads/Gallery",
+              "showContactUs": false
+            },
+            {
+              "label": "I am not able to see my QR",
+              "value": "Please try again after some time.\nIn case you still face the issue please click on Yes button below to raise a support ticket.",
+              "showContactUs": true
+            },
+            {
+              "label": "I want to order a new QR Stand",
+              "value": "Please click on Yes button below to raise a support ticket. Do specify the address where you want to receive the QR.",
+              "showContactUs": true
+            }
+          ]
+        },
+        {
+          "key": "Paisa Plus Related",
+          "value": [
+            {
+              "label": "How do I issue Paisa Plus voucher to customer",
+              "value": "You can issue Paisa Plus voucher in 3 steps:\n\n1. Choose/Search the desired customer in the Paisa Plus section of your app.\n2. Click on 'Add Voucher' button; select the discount you would want to give to the customer.\n3. Now enter Purchase Amount\n4. Verify the OTP sent to the customer mobile number",
+              "showContactUs": false
+            },
+            {
+              "label": "How do I issue a free voucher",
+              "value": "You can issue Paisa Plus voucher in 3 steps:\n\n1. Choose/Search the desired customer in the Paisa Plus section of your app.\n2. Click on 'Add Voucher' button; select 100% discount and enter Voucher Amount to be given.\n4. Verify the OTP sent to the customer mobile number",
+              "showContactUs": false
+            },
+            {
+              "label": "How will the customers pay me to purchase Paisa Plus voucher",
+              "value": "You can take the payment from the customer in any mode i.e. cash, debit cards, wallets, etc. You just have to keep the record of such payments, in this app.",
+              "showContactUs": false
+            },
+            {
+              "label": "Are there any limits on issuing voucher",
+              "value": "Yes, below are the limits that are applicable on issuing new vouchers:\n1. You cannot issue more than Rs 10,000 voucher in a single go.\n2. You will get only 500 successful attempts to issue the vouchers to your customers.",
+              "showContactUs": false
+            },
+            {
+              "label": "How will my customers use these vouchers",
+              "value": "Customers can purchase any product/service from your store using these vouchers. Follow the below steps to initiate redemption:\n\n1. Search the customer from the 'customers' tab in the Paisa Plus section of your app .\n2. Open the selected customer page, click on Redeem Voucher.\n3. Enter the voucher amount which the customer wants to utilize for the purchase.\n4. Verify the OTP, which will be sent to the mobile number of the customer.",
+              "showContactUs": false
+            },
+            {
+              "label": "Where do I see a customers' remaining voucher balance",
+              "value": "You can see the customer details following the below steps:\n\n1. Search the customer from the 'customers' tab in the Paisa Plus section of your app .\n2. The next page will show you the history & the remaining voucher balance of the customer.",
+              "showContactUs": false
+            },
+            {
+              "label": "Is there any expiry period of the issued voucher",
+              "value": "There is no any expiry of the voucher which have been issued to your customers.",
+              "showContactUs": false
+            },
+            {
+              "label": "Can a user change its registered mobile number",
+              "value": "No, the customers can not change the mobile number.",
+              "showContactUs": false
+            }
+          ]
+        },
+        {
+          "key": "Khata Related",
+          "value": [
+            {
+              "label": "How do I open a Khata of a new customer",
+              "value": "You can open the Khata of a new customer by following the below steps:\n\n1. Click on 'Add New' button in the Khata section of your app.\n2. Enter the details of the customer.\n3. Choose to create the customer with or without OTP Confirmation",
+              "showContactUs": false
+            },
+            {
+              "label": "Do I have to verify OTP everytime",
+              "value": "No, you can create the customer without OTP verification too.",
+              "showContactUs": false
+            },
+            {
+              "label": "How do I add a new entry in the Khata of an existing customer",
+              "value": "You can add a new entry on the Khata of an existing customer by following below steps:\n\n1. Choose/Search the desired customer in the Khata section of your app.\n2. Click on 'Add Amount' button ; enter the amount to add in customers khata and submit.",
+              "showContactUs": false
+            },
+            {
+              "label": "How can I modify the khata entry done",
+              "value": "We allow modification to be done till 5 minutes of creating the khata entry. To edit follow the below steps\n\n1.Go to the customers page whose entry needs to be modified\n2.Click on the entry and tap on Modify on top right corner\n3.Edit the entry and click on Save. Your entry will be saved",
+              "showContactUs": false
+            },
+            {
+              "label": "Can I attach a bill copy while creating the khata",
+              "value": "Yes you can attach a bill copy while creating the khata entry",
+              "showContactUs": false
+            },
+            {
+              "label": "How will the customer settle the amount with me",
+              "value": "You can take payment from the customer using cash, debit cards, wallets, etc. Record the entry in your khata by following the below steps\n\n1. Choose/Search the desired customer in the Khata section of your app.\n2. On the customer page click on the Settle Up button.\n3. Enter the amount which user wants to pay/settle with you and Submit.",
+              "showContactUs": false
+            },
+            {
+              "label": "Where do I see the total outstanding amount owed to me by all my customers",
+              "value": "As soon you open the Khata section of the app. On the top you will see total pending amount users to whom credit was given and users who have exceeded the khata limit.",
+              "showContactUs": false
+            },
+            {
+              "label": "Where do I see a customer's outstanding amount",
+              "value": "You can see the customer details following below steps:\n\n1. Search the desired customer in the Khata section of your app.\n2. Click on the customer entry and you will see the history & the outstanding amount.",
+              "showContactUs": false
+            },
+            {
+              "label": "How can I notify the customers of their outstanding amount",
+              "value": "You will be able to notify only OTP verified customers.\n\n Please follow the below steps to notify:\n\n1. On the Khata page, click on the Notify Button in the bottom\n2. Select the customers you would want to notify of their pending amount\n3. Click on the 'Send Notifications' button to send SMS to the users",
+              "showContactUs": false
+            },
+            {
+              "label": "How can I set a limits for a new Khata",
+              "value": "Yes you can add a limit to the Khata for every customer while creating/editing her profile.",
+              "showContactUs": false
+            },
+            {
+              "label": "Can I change a user's mobile number",
+              "value": "Currently we don't allow the user's mobile number to be changed.",
+              "showContactUs": false
+            }
+          ]
+        },
+        {
+          "key": "Report Related",
+          "value": [
+            {
+              "label": "How can I download/view my transaction report",
+              "value": "Currently we don't have option to download/view your transaction reports on the app. You may login with your credentials on our website https://merchant.freecharge.in. Post login you can view the same in the reports section.",
+              "showContactUs": false
+            },
+            {
+              "label": "How can I download/view my settlement report",
+              "value": "Currently we don't have option to download/view your transaction reports on the app. You may login with your credentials on our website https://merchant.freecharge.in. Post login you can view the same in the reports section.",
+              "showContactUs": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
