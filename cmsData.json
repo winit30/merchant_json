@@ -105,7 +105,7 @@
             "countTillPopUpShow": 3,
             "timeAfterWhichPopShow": 30000
             },
-         "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
+         "legalPolicy": "https://fc-cdn.freecharge.in/terms/policyData5642.html",
          "forceUpdate": {
             "android": {
                "version": 2,
