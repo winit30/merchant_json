@@ -105,7 +105,7 @@
             "countTillPopUpShow": 3,
             "timeAfterWhichPopShow": 30000
             },
-         "legalPolicy": "https://fc-cdn.freecharge.in/terms/policyData5642.html",
+         "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
          "forceUpdate": {
             "android": {
                "version": 2,
@@ -121,7 +121,7 @@
             "ios": "https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
          },
          "termsAndCondition": {
-            "url": "https://fc-cdn.freecharge.in/terms/policyData74364.html",
+            "url": "https://fc-cdn.freecharge.in/terms/policyData5642.html",
             "policyId": 95460
          }
       },
