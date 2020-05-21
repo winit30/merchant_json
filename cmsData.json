@@ -103,10 +103,10 @@
          "homeSplash": {
             "show": true,
             "version": "1",
-            "isDeepLink": true,
-            "deepLinkedRoute": "ChangeLanguageScreen",
-            "openInWebview": false,
-            "redirectionUrl": "",
+            "isDeepLink": false,
+            "deepLinkedRoute": "",
+            "openInWebview": true,
+            "redirectionUrl": "https://www.amazon.in",
             "imageUrl": "https://i2.wp.com/techstory.in/wp-content/uploads/2018/08/Freecharge.png"
          },
          "rating":{
