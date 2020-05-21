@@ -103,10 +103,10 @@
          "homeSplash": {
             "show": true,
             "version": "1",
-            "isDeepLink": false,
-            "deepLinkedRoute": "",
+            "isDeepLink": true,
+            "deepLinkedRoute": "KycPopupScreen",
             "openInWebview": false,
-            "redirectionUrl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png",
+            "redirectionUrl": "",
             "imageUrl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png"
          },
          "rating":{
