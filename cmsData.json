@@ -1,5 +1,14 @@
 {
    "data": {
+      "homeSplash": {
+         "show": true,
+         "version": 1,
+         "isDeepLink": false,
+         "deepLinkedRoute": "",
+         "openInWebview": false,
+         "redirectionUrl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png",
+         "imageUrl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png"
+      }
       "homeConfig": [
          {
             "key": "notification",
