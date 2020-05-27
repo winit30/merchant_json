@@ -107,7 +107,7 @@
       "globalConfig": {
          "homeSplash": {
             "show": true,
-            "version": "3",
+            "version": "7",
             "isDeepLink": false,
             "deepLinkedRoute": "https://fcbiz.page.link/Go1D",
             "openInWebview": true,
