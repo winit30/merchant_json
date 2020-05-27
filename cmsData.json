@@ -107,7 +107,7 @@
       "globalConfig": {
          "homeSplash": {
             "show": true,
-            "version": "3",
+            "version": "4",
             "isDeepLink": false,
             "deepLinkedRoute": "",
             "openInWebview": false,
