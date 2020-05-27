@@ -107,9 +107,9 @@
       "globalConfig": {
          "homeSplash": {
             "show": true,
-            "version": "4",
-            "isDeepLink": false,
-            "deepLinkedRoute": "",
+            "version": "5",
+            "isDeepLink": true,
+            "deepLinkedRoute": "https://fcbiz.page.link/Go1D",
             "openInWebview": false,
             "redirectionUrl": "https://www.freecharge.in/",
             "imageUrl": "https://i2.wp.com/techstory.in/wp-content/uploads/2018/08/Freecharge.png"
@@ -117,7 +117,7 @@
          "rating":{
             "showRating":true,
             "countTillPopUpShow": 3,
-            "timeAfterWhichPopShow": 30000
+            "timeAfterWhichPopShow": 5000
             },
          "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
          "forceUpdate": {
