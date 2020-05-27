@@ -137,7 +137,8 @@
          "termsAndCondition": {
             "url": "https://fc-cdn.freecharge.in/terms/policyData5642.html",
             "policyId": 95460
-         }
+         },
+         "isInAppUpdateAllowed": true
       },
       "registrationConfig": [
          {
