@@ -101,11 +101,11 @@
       ],
       "globalConfig": {
          "homeSplash": {
-            "show": true,
-            "version": "2",
+            "show": false,
+            "version": "3",
             "isDeepLink": false,
             "deepLinkedRoute": "",
-            "openInWebview": true,
+            "openInWebview": false,
             "redirectionUrl": "https://www.freecharge.in/",
             "imageUrl": "https://i2.wp.com/techstory.in/wp-content/uploads/2018/08/Freecharge.png"
          },
