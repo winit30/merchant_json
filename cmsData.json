@@ -23,10 +23,15 @@
             "show": true,
             "redirectionUrl": [
                {
-                  "url": "http://bit.ly/2xLP3g1?isOpenInApp=false",
-                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=1",
-                  "omnitureTrackParam": "coronaBanner"
-               }
+                 "url": "https://bit.ly/2zK6C1d?isOpenInApp=false",
+                 "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=2",
+                 "omnitureTrackParam": "coronaBanner"
+              },
+              {
+                  "url": "https://bit.ly/2TGq8T6?isOpenInApp=true",
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign3.png",
+                  "omnitureTrackParam": "NewPaisaPlusBanner"
+              }
             ]
          },
          {
