@@ -107,9 +107,9 @@
       "globalConfig": {
          "homeSplash": {
             "show": true,
-            "version": "9",
+            "version": "10",
             "isDeepLink": true,
-            "deepLinkedRoute": "OnBoardingPaisaPlus",
+            "deepLinkedRoute": "Settlements",
             "openInWebview": true,
             "redirectionUrl": "https://www.freecharge.in/",
             "imageUrl": "https://images.unsplash.com/photo-1548230572-afb5c1028a60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
