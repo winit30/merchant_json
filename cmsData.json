@@ -107,12 +107,12 @@
       "globalConfig": {
          "homeSplash": {
             "show": true,
-            "version": "12",
+            "version": "13",
             "isDeepLink": true,
-            "deepLinkedRoute": "ChangeLanguageScreen",
+            "deepLinkedRoute": "Transaction",
             "openInWebview": true,
             "redirectionUrl": "https://www.freecharge.in/",
-            "imageUrl": "https://images.unsplash.com/photo-1533299346856-b1a85808f2ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80"
+            "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg"
          },
          "rating":{
             "showRating":true,
