@@ -106,7 +106,7 @@
       ],
       "globalConfig": {
          "homeSplash": {
-            "show": true,
+            "show": false,
             "version": "1",
             "isDeepLink": true,
             "deepLinkedRoute": "Transaction",
