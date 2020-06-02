@@ -106,9 +106,9 @@
       ],
       "globalConfig": {
          "homeSplash": {
-            "show": false,
+            "show": true,
             "version": "1",
-            "isDeepLink": true,
+            "isDeepLink": false,
             "deepLinkedRoute": "Transaction",
             "openInWebview": true,
             "redirectionUrl": "https://www.freecharge.in/",
