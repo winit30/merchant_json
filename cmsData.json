@@ -116,8 +116,8 @@
             "deepLinkedRoute": "OnBoardingKhata",
             "openInWebview": true,
             "webViewHeaderTitleLocale": {
-              "en": "Back to App",
-              "hi": "ऐप में वापस जाएं"
+              "en": "Back to Home",
+              "hi": "वापस जाएं"
             },
             "redirectionUrl": "https://www.freecharge.in/",
             "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg"
