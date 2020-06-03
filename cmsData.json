@@ -108,8 +108,8 @@
          "homeSplash": {
             "show": true,
             "version": "1",
-            "isDeepLink": false,
-            "deepLinkedRoute": "Transaction",
+            "isDeepLink": true,
+            "deepLinkedRoute": "OnBoardingKhata",
             "openInWebview": true,
             "redirectionUrl": "https://www.freecharge.in/",
             "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg"
