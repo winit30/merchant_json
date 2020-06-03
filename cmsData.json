@@ -29,6 +29,10 @@
               },
               {
                   "url": "https://bit.ly/2XHd4hw?isOpenInApp=true",
+                  "webViewHeaderTitleLocale": {
+                    "en": "Back To Home",
+                    "hi": "बापस जाओ"
+                  },
                   "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign3.png",
                   "omnitureTrackParam": "NewPaisaPlusBanner"
               }
@@ -111,7 +115,7 @@
             "isDeepLink": false,
             "deepLinkedRoute": "OnBoardingKhata",
             "openInWebview": true,
-            "webviewHeaderTitleLocale": {
+            "webViewHeaderTitleLocale": {
               "en": "Back To Home",
               "hi": "बापस जाओ"
             },
