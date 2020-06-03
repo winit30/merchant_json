@@ -30,8 +30,8 @@
               {
                   "url": "https://bit.ly/2XHd4hw?isOpenInApp=true",
                   "webViewHeaderTitleLocale": {
-                    "en": "Back To Home",
-                    "hi": "बापस जाओ"
+                    "en": "Back to App",
+                    "hi": "ऐप में वापस जाएं"
                   },
                   "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign3.png",
                   "omnitureTrackParam": "NewPaisaPlusBanner"
@@ -116,8 +116,8 @@
             "deepLinkedRoute": "OnBoardingKhata",
             "openInWebview": true,
             "webViewHeaderTitleLocale": {
-              "en": "Back To Home",
-              "hi": "बापस जाओ"
+              "en": "Back to App",
+              "hi": "ऐप में वापस जाएं"
             },
             "redirectionUrl": "https://www.freecharge.in/",
             "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg"
