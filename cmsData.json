@@ -116,7 +116,7 @@
             "deepLinkedRoute": "OnBoardingKhata",
             "openInWebview": true,
             "webViewHeaderTitleLocale": {
-              "en": "Back to Home",
+              "en": "Testing title",
               "hi": "वापस जाएं"
             },
             "redirectionUrl": "https://www.freecharge.in/",
