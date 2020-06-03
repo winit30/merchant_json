@@ -141,7 +141,7 @@
          "inAppUpdate": {
             "isInAppUpdateAllowed": true,
             "maxAppUpdateComputation": 3,
-            "minimumAppVersion": "2.1.5"
+            "minimumAppVersion": "2.1.4"
          }
       },
       "registrationConfig": [
