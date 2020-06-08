@@ -120,7 +120,8 @@
               "hi": "वापस जाएं"
             },
             "redirectionUrl": "https://www.freecharge.in/",
-            "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg"
+            "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg",
+            "omnitureEvent": "SplashScreen1"
          },
          "rating":{
             "showRating":true,
