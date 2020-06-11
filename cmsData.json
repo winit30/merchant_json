@@ -72,7 +72,8 @@
                   "localIconName": "dashboard",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_dash.png",
                   "order": 1,
-                  "active": true
+                  "active": true,
+                  "restrictView":[]
                },
                {
                   "title": "Khata",
@@ -81,7 +82,7 @@
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_khata.png",
                   "order": 2,
                   "active": true,
-                  "restrictView":['DEALER']
+                  "restrictView":["DEALER"]
                },
                {
                   "title": "Paisa Plus",
@@ -90,14 +91,15 @@
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_settlement.png",
                   "order": 3,
                   "active": true,
-                  "restrictView":['DEALER']
+                  "restrictView":["DEALER"]
                },
                {
                   "title": "Campaigns",
                   "screen": "Campaigns",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
                   "order": 4,
-                  "active": false
+                  "active": false,
+                  "restrictView":[]
                }
             ]
          },
