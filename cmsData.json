@@ -80,7 +80,8 @@
                   "localIconName": "khata",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_khata.png",
                   "order": 2,
-                  "active": true
+                  "active": true,
+                  "restrictView":['DEALER']
                },
                {
                   "title": "Paisa Plus",
@@ -88,7 +89,8 @@
                   "localIconName": "paisa",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_settlement.png",
                   "order": 3,
-                  "active": true
+                  "active": true,
+                  "restrictView":['DEALER']
                },
                {
                   "title": "Campaigns",
