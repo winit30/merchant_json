@@ -71,7 +71,7 @@
                   "screen": "Dashboard",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_dash.png",
                   "order": 1,
-                  "active": false
+                  "active": true
                },
                {
                   "title": "Khata",
