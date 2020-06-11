@@ -68,7 +68,7 @@
             "items": [
                {
                   "title": "Dashboard",
-                  "screen": "Dashboard",
+                  "screen": "DashboardScreen",
                   "localIconName": "dashboard",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_dash.png",
                   "order": 1,
