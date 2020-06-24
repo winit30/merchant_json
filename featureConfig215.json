@@ -1,5 +1,6 @@
 {
-    "Home": [
+    data:{
+        "Home": [
         {
             "image": "",
             "isImageLocal": true,
@@ -46,4 +47,5 @@
         },
         
     ]
+    }
 };
