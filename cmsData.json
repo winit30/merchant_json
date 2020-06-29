@@ -156,7 +156,8 @@
             "isInAppUpdateAllowed": true,
             "maxAppUpdateComputation": 3,
             "minimumAppVersion": "2.1.4"
-         }
+         },
+         "dashboardTransactionLimit": 80
       },
       "registrationConfig": [
          {
