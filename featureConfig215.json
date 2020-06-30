@@ -2,7 +2,7 @@
     "data":{
         "Home": [
         {
-            "image": "",
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
             "isImageLocal": true,
             "onPageURL": "",
             "toPageURL": "OnBoardingKhata",
@@ -24,7 +24,7 @@
             "id": 1
         },
         {
-            "image": "",
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
             "isImageLocal": true,
             "onPageURL": "",
             "toPageURL": "OnBoardingKhata",
