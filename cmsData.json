@@ -115,7 +115,7 @@
       ],
       "globalConfig": {
          "homeSplash": {
-            "show": false,
+            "show": true,
             "version": "3",
             "isDeepLink": false,
             "deepLinkedRoute": "OnBoardingKhata",
