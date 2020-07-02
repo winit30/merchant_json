@@ -36,7 +36,7 @@
                 "hi":
                     "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
             },
-            "priority": 1,
+            "priority": 3,
             "buttonText": {
                 "en": "GO TO SUPERCOIN",
                 "hi": "KHATA पर जाएंं"
@@ -48,7 +48,7 @@
             "onPageURL": "",
             "toPageURL": "ContactUsScreen",
             "titleText": {
-                "en": "Import SUPERCOIN Records",
+                "en": "Test Feature",
                 "hi": "आयात खाता रिकॉर्ड"
             },
             "description": {
@@ -57,7 +57,7 @@
                 "hi":
                     "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
             },
-            "priority": 1,
+            "priority": 2,
             "buttonText": {
                 "en": "GO TO SUPERCOIN",
                 "hi": "KHATA पर जाएंं"
