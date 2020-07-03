@@ -4,7 +4,7 @@
         {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
             "onPageURL": "",
-            "toPageURL": "OnBoardingKhata",
+            "toPageURL": "",
             "titleText": {
                 "en": "Import Khata Records",
                 "hi": "आयात खाता रिकॉर्ड"
