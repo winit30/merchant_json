@@ -3,31 +3,31 @@
         "HOME": [
         {
             image: "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
-            onPageURL: '',
+            onPageURL: "",
             titleText: {
-                en: 'Import Khata Records',
-                hi: 'आयात खाता रिकॉर्ड'
+                en: "Import Khata Records",
+                hi: "आयात खाता रिकॉर्ड"
             },
             description: {
                 en:
-                    'Were you finding it difficult to manage different Khata records in different places? Now you can Import Khata Records from other apps.',
+                    "Were you finding it difficult to manage different Khata records in different places? Now you can Import Khata Records from other apps.",
                 hi:
-                    'क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।'
+                    "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
             },
-            priority: '1',
+            priority: "1",
             buttonText: {
-                en: 'GO TO KHATA',
-                hi: 'KHATA पर जाएंं'
+                en: "GO TO KHATA",
+                hi: "KHATA पर जाएंं"
             },
             id: 1,
-            toPageURL: '',
-            redirectionUrl: 'https://www.freecharge.in/',
+            toPageURL: "",
+            redirectionUrl: "https://www.freecharge.in/",
             openInWebview: true,
             webViewHeaderTitleLocale: {
-                en: 'Testing title',
-                hi: 'वापस जाएं'
+                en: "Testing title",
+                hi: "वापस जाएं"
             },
-            omnitureEvent: 'newFeature1'
+            omnitureEvent: "newFeature1"
         },
        
             {
