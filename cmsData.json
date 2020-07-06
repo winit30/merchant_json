@@ -129,7 +129,7 @@
             "omnitureEvent": "SplashScreen1"
          },
          "rating":{
-            "showRating":true,
+            "showRating":false,
             "countTillPopUpShow": 3,
             "timeAfterWhichPopShow": 5000
             },
