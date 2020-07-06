@@ -17,6 +17,11 @@
           "label": "Incorrect Transaction status",
           "value": "Please try to re-check the transaction status in a few minutes.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
           "showContactUs": true
+        },
+        {
+          "label": "Need to update my Transaction Limit",
+          "value": "In case you need to increase your transaction limit please click on Yes button below to raise a support ticket.",
+          "showContactUs": true
         }
       ]
     },
