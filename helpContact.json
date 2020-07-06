@@ -21,7 +21,8 @@
         {
           "label": "Need to update my Transaction Limit",
           "value": "In case you need to increase your transaction limit please click on Yes button below to raise a support ticket.",
-          "showContactUs": true
+          "showContactUs": true,
+          "isDataAvailable": false
         }
       ]
     },
