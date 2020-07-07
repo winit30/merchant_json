@@ -1,0 +1,65 @@
+{
+    "data":{
+        "Home": [
+       
+            {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
+            "onPageURL": "",
+            "toPageURL": "",
+            "titleText": {
+                "en": "Test Feature",
+                "hi": "आयात खाता रिकॉर्ड"
+            },
+            "description": {
+                "en":
+                    "Testing this feature",
+                "hi":
+                    "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
+            },
+            "priority": 2,
+            "id": 2
+        },
+                 {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
+            "onPageURL": "",
+            "toPageURL": "Settlements",
+            "titleText": {
+                "en": "Test Feature",
+                "hi": "आयात खाता रिकॉर्ड"
+            },
+            "description": {
+                "en":
+                    "Testing this feature",
+                "hi":
+                    "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
+            },
+            "priority": 3,
+            "buttonText": {
+                "en": "Go to settlement",
+                "hi": "KHATA पर जाएंं"
+            },
+            "id": 3
+        }
+        
+    ],
+        "AccountScreen": [
+        {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
+            "onPageURL": "",
+            "toPageURL": "",
+            "titleText": {
+                "en": "Test Feature",
+                "hi": "आयात खाता रिकॉर्ड"
+            },
+            "description": {
+                "en":
+                    "Testing this feature",
+                "hi":
+                    "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
+            },
+            "priority": 1,
+            "id": 1
+        }
+    ]
+    }
+}
