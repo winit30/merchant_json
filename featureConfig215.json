@@ -50,7 +50,7 @@
                  {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
             "onPageURL": "",
-            "toPageURL": "DashboardScreen",
+            "toPageURL": "Settlements",
             "titleText": {
                 "en": "Test Feature",
                 "hi": "आयात खाता रिकॉर्ड"
@@ -63,12 +63,76 @@
             },
             "priority": 3,
             "buttonText": {
-                "en": "Go to Dashboard",
+                "en": "Go to Settlement",
                 "hi": "KHATA पर जाएंं"
             },
             "id": 3
-        }
+        },
+                     {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
+            "onPageURL": "",
+            "toPageURL": "Settlements",
+            "titleText": {
+                "en": "Test Feature",
+                "hi": "आयात खाता रिकॉर्ड"
+            },
+            "description": {
+                "en":
+                    "Testing this feature",
+                "hi":
+                    "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
+            },
+            "priority": 4,
+            "buttonText": {
+                "en": "Go to Account",
+                "hi": "KHATA पर जाएंं"
+            },
+            "id": 4
+        },
         
+             {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
+            "onPageURL": "",
+            "toPageURL": "AccountScreen",
+            "titleText": {
+                "en": "Test Feature",
+                "hi": "आयात खाता रिकॉर्ड"
+            },
+            "description": {
+                "en":
+                    "Testing this feature",
+                "hi":
+                    "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
+            },
+            "priority": 5,
+            "buttonText": {
+                "en": "Go to Account",
+                "hi": "KHATA पर जाएंं"
+            },
+            "id": 5
+        },
+            {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
+            "onPageURL": "",
+            "toPageURL": "ShowQR",
+            "titleText": {
+                "en": "Test Feature",
+                "hi": "आयात खाता रिकॉर्ड"
+            },
+            "description": {
+                "en":
+                    "Testing this feature",
+                "hi":
+                    "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
+            },
+            "priority": 6,
+            "buttonText": {
+                "en": "Go to ShowQR",
+                "hi": "KHATA पर जाएंं"
+            },
+            "id": 6
+        }
+            
     ],
         "DashboardScreen": [
         {
