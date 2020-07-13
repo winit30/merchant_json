@@ -50,7 +50,7 @@
                  {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
             "onPageURL": "",
-            "toPageURL": "Settlements",
+            "toPageURL": "DashboardScreen",
             "titleText": {
                 "en": "Test Feature",
                 "hi": "आयात खाता रिकॉर्ड"
@@ -63,14 +63,14 @@
             },
             "priority": 3,
             "buttonText": {
-                "en": "Go to settlement",
+                "en": "Go to Dashboard",
                 "hi": "KHATA पर जाएंं"
             },
             "id": 3
         }
         
     ],
-        "AccountScreen": [
+        "DashboardScreen": [
         {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
             "onPageURL": "",
