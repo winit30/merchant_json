@@ -114,9 +114,9 @@
             {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/import_khata.png",
             "onPageURL": "",
-            "toPageURL": "ShowQR",
+            "toPageURL": "DashboardScreen",
             "titleText": {
-                "en": "Test Feature",
+                "en": "Dashboard",
                 "hi": "आयात खाता रिकॉर्ड"
             },
             "description": {
@@ -127,7 +127,7 @@
             },
             "priority": 6,
             "buttonText": {
-                "en": "Go to ShowQR",
+                "en": "Go to Dashboard",
                 "hi": "KHATA पर जाएंं"
             },
             "id": 6
