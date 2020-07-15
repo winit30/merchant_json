@@ -1,0 +1,27 @@
+{
+    "data":{
+        "Home": [
+                 {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/dashboard_illustration.png",
+            "onPageURL": "",
+            "toPageURL": "DashboardScreen",
+            "titleText": {
+                "en": "Dashboard",
+                "hi": "डैशबोर्ड"
+            },
+            "description": {
+                "en":
+                    "Now track your transaction count and amount on a hourly, daily, weekly and monthly level. The dashboard icon is available in your My Products section on Home.",
+                "hi":
+                    "क्या आपको अलग-अलग जगहों पर अलग-अलग खता रिकॉर्ड को प्रबंधित करना मुश्किल हो रहा है? अब आप अन्य एप्लिकेशन से खाता रिकॉर्ड आयात कर सकते हैं।"
+            },
+            "priority": 3,
+            "buttonText": {
+                "en": "Go to DASHBOARD",
+                "hi": "डैशबोर्ड पर जाएंं"
+            },
+            "id": 1
+        }
+    ]
+    }
+}
