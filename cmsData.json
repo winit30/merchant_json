@@ -74,8 +74,7 @@
                   "order": 1,
                   "active": true,
                   "restrictView": [],
-                   "minVersion": "2.1.4",
-                   "maxVersion": "0.0.0"
+                   "minVersion": "2.1.5"
                },
                {
                   "title": "Khata",
@@ -85,7 +84,7 @@
                   "order": 2,
                   "active": true,
                   "restrictView":["DEALER"],
-                   "minVersion": "2.1.5"
+                   "minVersion": "0.0.0"
                },
                {
                   "title": "Paisa Plus",
@@ -95,8 +94,7 @@
                   "order": 3,
                   "active": true,
                   "restrictView":["DEALER"],
-                   "minVersion": "2.1.4",
-                   "maxVersion": "2.1.5"
+                   "minVersion": "0.0.0"
                },
                {
                   "title": "Campaigns",
