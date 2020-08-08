@@ -143,8 +143,10 @@
         "order": 7,
         "show": true,
         "urls": [
-          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel1.png",
-          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel2.png"
+          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_hindi.png",
+          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_notification.png",
+          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_payment_link.png",
+          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/gold_footer_banner.png"
         ]
       }
     ],
