@@ -41,7 +41,7 @@
             "omnitureTrackParam": "InsuranceBanner"
           },
           {
-            "url": "https://fcbiz.page.link/Go1D?isOpenInApp=true",
+            "url": "",
             "webViewHeaderTitleLocale": {
               "en": "Back to App",
               "hi": "ऐप में वापस जाएं"
@@ -50,7 +50,6 @@
             "omnitureTrackParam": "KhataBanner"
           },
           {
-            "url": "https://fcbiz.page.link/oN6u?isOpenInApp=true",
             "webViewHeaderTitleLocale": {
               "en": "Back to App",
               "hi": "ऐप में वापस जाएं"
