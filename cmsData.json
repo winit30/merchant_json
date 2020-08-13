@@ -1,352 +1,323 @@
 {
-  "data": {
-    "homeConfig": [
-      {
-        "key": "notification",
-        "order": 1,
-        "show": true
-      },
-      {
-        "key": "campaignBanner",
-        "order": 2,
-        "show": true,
-        "redirectionUrl": [
-          {
-            "navigation": "newPage",
-            "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png"
-          }
-        ]
-      },
-      {
-        "key": "homePageBanner",
-        "order": 3,
-        "show": true,
-        "redirectionUrl": [
-          {
-            "url": "https://bit.ly/2XHd4hw?isOpenInApp=true",
-            "webViewHeaderTitleLocale": {
-              "en": "Back to App",
-              "hi": "ऐप में वापस जाएं"
-            },
-            "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign3.png",
-            "omnitureTrackParam": "NewPaisaPlusBanner"
-          },
-          {
-            "url": "https://bit.ly/306DeNi?isOpenInApp=true",
-            "webViewHeaderTitleLocale": {
-              "en": "Back to App",
-              "hi": "ऐप में वापस जाएं"
-            },
-            "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/top_banner_insurance.png",
-            "omnitureTrackParam": "InsuranceBanner"
-          },
-          {
-            "url": "",
-            "webViewHeaderTitleLocale": {
-              "en": "Back to App",
-              "hi": "ऐप में वापस जाएं"
-            },
-            "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/top_banner_khata.png",
-            "omnitureTrackParam": "KhataBanner"
-          },
-          {
-            "webViewHeaderTitleLocale": {
-              "en": "Back to App",
-              "hi": "ऐप में वापस जाएं"
-            },
-            "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/top_banner_paisaplus.png",
-            "omnitureTrackParam": "NewPaisaPlusBanner"
-          }
-        ]
-      },
-      {
-        "key": "generatePaymentLink",
-        "order": 4,
-        "show": true
-      },
-      {
-        "key": "homepageVideo",
-        "order": 6,
-        "show": true,
-        "urls": [
-          {
-            "id": 1,
-            "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
-            "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
-            "desc": "PaisaPlus ke saath business badao",
-            "descLocale": {
-              "en": "PaisaPlus ke saath business badao",
-              "hi": "पैसा प्लस से बढाओ अपना बिज़नेस"
-            },
-            "autoPlay": false
-          }
-        ]
-      },
-      {
-        "key": "categories",
-        "order": 5,
-        "show": true,
-        "items": [
-          {
-            "title": "Dashboard",
-            "screen": "DashboardScreen",
-            "localIconName": "dashboard",
-            "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_dash.png",
+   "data": {
+      "homeConfig": [
+         {
+            "key": "notification",
             "order": 1,
-            "active": false,
-            "restrictView": [
-              
-            ],
-            "minVersion": "2.1.5"
-          },
-          {
-            "title": "Khata",
-            "screen": "OnBoardingKhata",
-            "localIconName": "khata",
-            "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_khata.png",
+            "show": true
+         },
+         {
+            "key": "campaignBanner",
             "order": 2,
-            "active": true,
-            "restrictView": [
-              "DEALER"
-            ],
-            "minVersion": "0.0.0"
-          },
-          {
-            "title": "Paisa Plus",
-            "screen": "OnBoardingPaisaPlus",
-            "localIconName": "paisa",
-            "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_settlement.png",
+            "show": false,
+            "redirectionUrl": [
+               {
+                  "navigation": "newPage",
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign1.png"
+               }
+            ]
+         },
+         {
+            "key": "homePageBanner",
             "order": 3,
-            "active": true,
-            "restrictView": [
-              "DEALER"
-            ],
-            "minVersion": "0.0.0"
-          },
-          {
-            "title": "Campaigns",
-            "screen": "Campaigns",
-            "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
+            "show": true,
+            "redirectionUrl": [
+              {
+                 "url": "https://bit.ly/2ZYtG79?isOpenInApp=true",
+                 "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign4.png?v=1",
+                 "omnitureTrackParam": "GoldloanBanner",
+                 "webViewHeaderTitleLocale": {
+                    "en": "Gold Loan",
+                    "hi": "गोल्ड लोन"
+                 }
+              },
+              {
+                 "url": "https://bit.ly/2zK6C1d?isOpenInApp=false",
+                 "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=2",
+                 "omnitureTrackParam": "coronaBanner"
+              }
+            ]
+         },
+         {
+            "key": "generatePaymentLink",
             "order": 4,
-            "active": false,
-            "restrictView": [
-              
-            ],
-            "minVersion": "0.0.0",
-            "maxVersion": "0.0.0"
-          }
-        ]
+            "show": true
+         },
+         {
+            "key": "homepageVideo",
+            "order": 6,
+            "show": true,
+            "urls": [
+               {
+                  "id": 1,
+                  "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
+                  "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
+                  "desc": "PaisaPlus ke saath business badao",
+                  "descLocale": {
+                    "en": "PaisaPlus ke saath business badao",
+                    "hi": "पैसा प्लस से बढाओ अपना बिज़नेस"
+                  },
+                  "autoPlay": false
+               }
+            ]
+         },
+         {
+            "key": "categories",
+            "order": 5,
+            "show": true,
+            "items": [
+               {
+                  "title": "Dashboard",
+                  "screen": "DashboardScreen",
+                  "localIconName": "dashboard",
+                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_dash.png",
+                  "order": 1,
+                  "active": false,
+                  "restrictView": [],
+                  "minVersion": "2.1.7"
+               },
+               {
+                  "title": "Khata",
+                  "screen": "OnBoardingKhata",
+                  "localIconName": "khata",
+                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_khata.png",
+                  "order": 2,
+                  "active": true,
+                  "restrictView": ["DEALER"],
+                  "minVersion": "0.0.0"
+               },
+               {
+                  "title": "Paisa Plus",
+                  "screen": "OnBoardingPaisaPlus",
+                  "localIconName": "paisa",
+                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_settlement.png",
+                  "order": 3,
+                  "active": true,
+                  "restrictView": ["DEALER"],
+                  "minVersion": "0.0.0"
+               },
+               {
+                  "title": "Campaigns",
+                  "screen": "Campaigns",
+                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
+                  "order": 4,
+                  "active": false,
+                  "restrictView": [],
+                  "minVersion": "0.0.0",
+                  "maxVersion": "0.0.0"
+               }
+            ]
+         },
+         {
+            "key": "banner",
+            "order": 7,
+            "show": true,
+            "urls": [
+               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel1.png",
+               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel2.png",
+               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel3.png",
+               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel4.png"
+            ]
+         }
+      ],
+      "globalConfig": {
+         "homeSplash": {
+            "show": false,
+            "version": "1",
+            "isDeepLink": false,
+            "deepLinkedRoute": "OnBoardingKhata",
+            "openInWebview": true,
+            "webViewHeaderTitleLocale": {
+               "en": "Testing title",
+               "hi": "वापस जाएं"
+            },
+            "redirectionUrl": "https://www.freecharge.in/",
+            "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg",
+            "omnitureEvent": "SplashScreen1"
+         },
+         "rating":{
+            "showRating":true,
+            "countTillPopUpShow": 3,
+            "timeAfterWhichPopShow": 10000
+            },
+         "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
+         "forceUpdate": {
+            "android": {
+               "version": 2,
+               "url": "https://play.google.com/store/apps/details?id=com.freecharge.business"
+            },
+            "ios": {
+               "version": 1,
+               "url": "https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
+            }
+         },
+         "rateApp": {
+            "android": "https://play.google.com/store/apps/details?id=com.freecharge.business",
+            "ios": "https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
+         },
+         "termsAndCondition": {
+            "url": "https://www.freecharge.in/mobile/merchantoffers/terms",
+            "policyId": 95460
+         },
+         "inAppUpdate": {
+            "isInAppUpdateAllowed": true,
+            "maxAppUpdateComputation": 2,
+            "minimumAppVersion": "3.0.0"
+         },
+         "dashboardTransactionLimit": 90
       },
-      {
-        "key": "banner",
-        "order": 7,
-        "show": true,
-        "urls": [
-          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_hindi.png",
-          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_notification.png",
-          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_payment_link.png",
-          "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/gold_footer_banner.png"
-        ]
+      "registrationConfig": [
+         {
+            "key": "businessCategory",
+            "items": [
+               {
+                  "cardColors": [
+                     "#008bc2",
+                     "#22ebff"
+                  ],
+                  "cardText": "Individual",
+                  "cardTextLocale": {
+                     "en": "Individual",
+                     "hi": "व्यक्ति"
+                   },
+                  "value": "Individual",
+                  "id": "individual"
+               },
+               {
+                  "cardColors": [
+                     "#c46000",
+                     "#ffa330"
+                  ],
+                  "cardText": "Sole Trader",
+                  "cardTextLocale": {
+                     "en": "Sole Trader",
+                     "hi": "एकमात्र व्यापारी"
+                   },
+                  "value": "Sole Trader",
+                  "id": "soleTrader"
+               }
+            ]
+         },
+         {
+            "key": "categoryStoreList",
+            "items": [
+               {
+                  "titleLocale": {
+                    "en": "Groceries & Supermarkets",
+                    "hi": "किराने का सामान और सुपरमार्केट"
+                  },
+                  "title": "Groceries & Supermarkets",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/groceries.png",
+                  "color": "#444444",
+                  "businessCategory": "Grocery and supermarkets",
+                  "subCategory": "Grocery"
+               },
+               {
+                  "titleLocale": {
+                    "en": "Dairy Products",
+                    "hi": "दुग्ध उत्पाद"
+                  },
+                  "title": "Dairy Products",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/dairy_products.png",
+                  "color": "#444444",
+                  "businessCategory": "Goods Stores",
+                  "subCategory": "Dairy Products Stores"
+               },
+               {
+                  "titleLocale": {
+                    "en": "Variety Stores",
+                    "hi": "विभिन्न प्रकार के स्टोर"
+                  },
+                  "title": "Variety Stores",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/variety_stores.png",
+                  "color": "#444444",
+                  "businessCategory": "Retail",
+                  "subCategory": "Variety Shop"
+               },
+               {
+                  "titleLocale": {
+                    "en": "Stationary",
+                    "hi": "स्थावर"
+                  },
+                  "title": "Stationary",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/stationary.png",
+                  "color": "#ffffff",
+                  "businessCategory": "ART CRAFT AND COLLECTIBLES",
+                  "subCategory": "Stationary, printing and writing paper"
+               },
+               {
+                  "titleLocale":{
+                    "en": "Drug Stores, Pharmacy",
+                    "hi": "ड्रग स्टोर्स, फार्मेसी"
+                  },
+                  "title": "Drug Stores, Pharmacy",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/drugs_bg.png",
+                  "color": "#444444",
+                  "businessCategory": "Health And PersonalCare",
+                  "subCategory": "Pharmacy"
+               },
+               {
+                  "titleLocale": {
+                    "en": "Service Stations",
+                    "hi": "सर्विस स्टेशन"
+                  },
+                  "title": "Service Stations",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/service_stations.png",
+                  "color": "#ffffff",
+                  "businessCategory": "Automotive",
+                  "subCategory": "Service Stations"
+               },
+               {
+                  "titleLocale": {
+                    "en": "Cigar Stores",
+                    "hi": "सिगार स्टोर"
+                  },
+                  "title": "Cigar Stores",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/cigar_stores.png",
+                  "color": "#444444",
+                  "businessCategory": "Liquor and Cigarette",
+                  "subCategory": "Cigar Stores and Stands"
+               },
+               {
+                  "titleLocale": {
+                    "en": "Fast Food",
+                    "hi": "फास्ट फूड"
+                  },
+                  "title": "Fast Food",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/fast_foods.png",
+                  "color": "#ffffff",
+                  "businessCategory": "Restaurants",
+                  "subCategory": "Fast Food"
+               },
+               {
+                  "titleLocale": {
+                    "en": "Apparel Stores",
+                    "hi": "परिधान भंडार"
+                  },
+                  "title": "Apparel Stores",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/apparels.png",
+                  "color": "#444444",
+                  "businessCategory": "Stores",
+                  "subCategory": "CLOTHING ACCESSORIES AND SHOES"
+               },
+               {
+                  "titleLocale": {
+                    "en": "Educational Services",
+                    "hi": "शैक्षणिक सेवाएं"
+                  },
+                  "title": "Educational Services",
+                  "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/education.png",
+                  "color": "#ffffff",
+                  "businessCategory": "EDUCATION AND JOBS",
+                  "subCategory": "Personal Teaching"
+               }
+            ]
+         }
+      ],
+      "validationRegex": {
+         "panNumber": "^([a-zA-Z]){5}([0-9]){4}([a-zA-Z]){1}?",
+         "bankAccountNumber": "^\\d{9,18}$",
+         "ifscCode": "^[A-Za-z]{4}0[A-Z0-9a-z]{6}$"
       }
-    ],
-    "globalConfig": {
-      "homeSplash": {
-        "show": true,
-        "version": "3",
-        "isDeepLink": false,
-        "deepLinkedRoute": "OnBoardingKhata",
-        "openInWebview": true,
-        "webViewHeaderTitleLocale": {
-          "en": "Testing title",
-          "hi": "वापस जाएं"
-        },
-        "redirectionUrl": "https://www.freecharge.in/",
-        "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg",
-        "omnitureEvent": "SplashScreen1"
-      },
-      "rating": {
-        "showRating": true,
-        "countTillPopUpShow": 3,
-        "timeAfterWhichPopShow": 5000
-      },
-      "legalPolicy": "https://fcapp-cdn.freecharge.in/merchant/tnc/Online_merchant_terms_conditions.html",
-      "forceUpdate": {
-        "android": {
-          "version": 2,
-          "url": "https://play.google.com/store/apps/details?id=com.freecharge.business"
-        },
-        "ios": {
-          "version": 1,
-          "url": "https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
-        }
-      },
-      "rateApp": {
-        "android": "https://play.google.com/store/apps/details?id=com.freecharge.business",
-        "ios": "https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
-      },
-      "termsAndCondition": {
-        "url": "https://fc-cdn.freecharge.in/terms/policyData5642.html",
-        "policyId": 95460
-      },
-      "inAppUpdate": {
-        "isInAppUpdateAllowed": true,
-        "maxAppUpdateComputation": 3,
-        "minimumAppVersion": "2.1.4"
-      },
-      "dashboardTransactionLimit": 1
-    },
-    "registrationConfig": [
-      {
-        "key": "businessCategory",
-        "items": [
-          {
-            "cardColors": [
-              "#008bc2",
-              "#22ebff"
-            ],
-            "cardText": "Individual",
-            "cardTextLocale": {
-              "en": "Individual",
-              "hi": "व्यक्ति"
-            },
-            "value": "Individual",
-            "id": "individual"
-          },
-          {
-            "cardColors": [
-              "#c46000",
-              "#ffa330"
-            ],
-            "cardText": "Sole Trader",
-            "cardTextLocale": {
-              "en": "Sole Trader",
-              "hi": "एकमात्र व्यापारी"
-            },
-            "value": "Sole Trader",
-            "id": "soleTrader"
-          }
-        ]
-      },
-      {
-        "key": "categoryStoreList",
-        "items": [
-          {
-            "titleLocale": {
-              "en": "Groceries & Supermarkets",
-              "hi": "किराने का सामान और सुपरमार्केट"
-            },
-            "title": "Groceries & Supermarkets",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/groceries.png",
-            "color": "#444444",
-            "businessCategory": "Grocery and supermarkets",
-            "subCategory": "Grocery"
-          },
-          {
-            "titleLocale": {
-              "en": "Dairy Products",
-              "hi": "दुग्ध उत्पाद"
-            },
-            "title": "Dairy Products",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/dairy_products.png",
-            "color": "#444444",
-            "businessCategory": "Goods Stores",
-            "subCategory": "Dairy Products Stores"
-          },
-          {
-            "titleLocale": {
-              "en": "Variety Stores",
-              "hi": "विभिन्न प्रकार के स्टोर"
-            },
-            "title": "Variety Stores",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/variety_stores.png",
-            "color": "#444444",
-            "businessCategory": "Retail",
-            "subCategory": "Variety Shop"
-          },
-          {
-            "titleLocale": {
-              "en": "Stationary",
-              "hi": "स्थावर"
-            },
-            "title": "Stationary",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/stationary.png",
-            "color": "#ffffff",
-            "businessCategory": "ART CRAFT AND COLLECTIBLES",
-            "subCategory": "Stationary, printing and writing paper"
-          },
-          {
-            "titleLocale": {
-              "en": "Drug Stores, Pharmacy",
-              "hi": "ड्रग स्टोर्स, फार्मेसी"
-            },
-            "title": "Drug Stores, Pharmacy",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/drugs_bg.png",
-            "color": "#444444",
-            "businessCategory": "Health And PersonalCare",
-            "subCategory": "Pharmacy"
-          },
-          {
-            "titleLocale": {
-              "en": "Service Stations",
-              "hi": "सर्विस स्टेशन"
-            },
-            "title": "Service Stations",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/service_stations.png",
-            "color": "#ffffff",
-            "businessCategory": "Automotive",
-            "subCategory": "Service Stations"
-          },
-          {
-            "titleLocale": {
-              "en": "Cigar Stores",
-              "hi": "सिगार स्टोर"
-            },
-            "title": "Cigar Stores",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/cigar_stores.png",
-            "color": "#444444",
-            "businessCategory": "Liquor and Cigarette",
-            "subCategory": "Cigar Stores and Stands"
-          },
-          {
-            "titleLocale": {
-              "en": "Fast Food",
-              "hi": "फास्ट फूड"
-            },
-            "title": "Fast Food",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/fast_foods.png",
-            "color": "#ffffff",
-            "businessCategory": "Restaurants",
-            "subCategory": "Fast Food"
-          },
-          {
-            "titleLocale": {
-              "en": "Apparel Stores",
-              "hi": "परिधान भंडार"
-            },
-            "title": "Apparel Stores",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/apparels.png",
-            "color": "#444444",
-            "businessCategory": "Stores",
-            "subCategory": "CLOTHING ACCESSORIES AND SHOES"
-          },
-          {
-            "titleLocale": {
-              "en": "Educational Services",
-              "hi": "शैक्षणिक सेवाएं"
-            },
-            "title": "Educational Services",
-            "imgUri": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/registration/store-list/education.png",
-            "color": "#ffffff",
-            "businessCategory": "EDUCATION AND JOBS",
-            "subCategory": "Personal Teaching"
-          }
-        ]
-      }
-    ],
-    "validationRegex": {
-      "panNumber": "^([a-zA-Z]){5}([0-9]){4}([a-zA-Z]){1}?",
-      "bankAccountNumber": "^\\d{9,18}$",
-      "ifscCode": "^[A-Za-z]{4}0[A-Z0-9a-z]{6}$"
-    }
-  }
+   }
 }
