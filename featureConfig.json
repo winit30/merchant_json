@@ -1,0 +1,48 @@
+{
+   "data":{
+      "Home": [
+         {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/dashboard_illustration.png",
+            "onPageURL": "",
+            "toPageURL": "DashboardScreen",
+            "titleText": {
+               "en": "Dashboard",
+               "hi": "डैशबोर्ड"
+            },
+            "description": {
+               "en":
+               "Now track your transaction count and amount on a hourly, daily, weekly and monthly level. The dashboard icon is available in your My Products section on Home.",
+               "hi":
+               "अब हर घंटे, दिन, सप्ताह और मासिक स्तर पर अपनी लेन-देन की गणना और राशि को ट्रैक करें। डैशबोर्ड सुविधा होम पर आपके मेरे प्रोड्कट अनुभाग में उपलब्ध है।"
+            },
+            "priority": 1,
+            "buttonText": {
+               "en": "Go to DASHBOARD",
+               "hi": "डैशबोर्ड पर जाएंं"
+            },
+            "id": 1
+         }
+      ],
+      "PaisaPlusLandingPage": [
+         {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/paisaplus_paymentlink_feature.png",
+            "imageHeight": 107,
+            "imageWidth": 125,
+            "isImageLocal": true,
+            "toPageURL": "",
+            "description": {
+               "en":
+               "Now you can take payments for issuing Paisa Plus voucher by sending your customers Payment Link. This is available for our QR Active Merchants.",
+               "hi":
+               "अब आप अपने ग्राहकों को पेमेंट लिंक भेजकर पेसा प्लस वाउचर जारी करने के लिए भुगतान ले सकते हैं। यह हमारे क्यूआर सक्रिय व्यापारियों के लिए उपलब्ध है।"
+            },
+            "titleText": {
+               "en": "Accept Voucher Payments via Link",
+               "hi": "पेमेंट लिंक से वाउचर साझा करें"
+            },
+            "priority": "1",
+            "id": 2
+         }
+      ]
+   }
+}
