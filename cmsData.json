@@ -122,7 +122,7 @@
       ],
       "globalConfig": {
          "homeSplash": {
-            "show": false,
+            "show": true,
             "version": "1",
             "isDeepLink": false,
             "deepLinkedRoute": "OnBoardingKhata",
@@ -136,7 +136,7 @@
             "omnitureEvent": "SplashScreen1"
          },
          "rating":{
-            "showRating":false,
+            "showRating":true,
             "countTillPopUpShow": 3,
             "timeAfterWhichPopShow": 10000
             },
