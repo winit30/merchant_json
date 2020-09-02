@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "description": "Talks about Paisa Plus helped his Paan shop",
+            "name": "Raghav Kumar",
+            "videoThumbnail": "",
+            "videoFile": "",
+            "image": "https://www.image.com",
+            "isVideo": false
+        },
+        {
+            "description": "Talks about Khata helping him keep track of his debtors",
+            "videoThumbnail": "https://www.thumbnail.com",
+            "videoFile": "https://www.video.com",
+            "name": "Bhuvan Manohar Joshi",
+            "image": "",
+            "isVideo": true
+        },
+        {
+            "description": "Talks about Paisa Plus helped his Paan shop",
+            "name": "Raghav Kumar",
+            "videoThumbnail": "",
+            "videoFile": "",
+            "image": "https://www.image.com",
+            "isVideo": false
+        },
+        {
+            "description": "Talks about Paisa Plus helped his Paan shop",
+            "name": "Raghav Kumar",
+            "videoThumbnail": "https://www.thumbnail.com",
+            "videoFile": "https://www.video.com",
+            "image": "",
+            "isVideo": true
+        },
+        {
+            "description": "Talks about Khata helping him keep track of his debtors",
+            "videoThumbnail": "https://www.thumbnail.com",
+            "videoFile": "https://www.video.com",
+            "name": "Bhuvan Manohar Joshi",
+            "image": "",
+            "isVideo": true
+        }
+    ]
+}
