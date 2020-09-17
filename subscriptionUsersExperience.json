@@ -3,15 +3,33 @@
         {
             "description": "Talks about Paisa Plus helped his Paan shop",
             "name": "Raghav Kumar",
-            "videoThumbnail": "",
-            "videoFile": "",
+            "video": {
+                "id": 1,
+                "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
+                "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
+                "desc": "Talks about Paisa Plus helped his Paan shop",
+                "descLocale": {
+                    "en": "Talks about Paisa Plus helped his Paan shop",
+                    "hi": "Talks about Paisa Plus helped his Paan shop"
+                },
+                "autoPlay": false
+            },
             "image": "https://www.image.com",
-            "isVideo": false
+            "isVideo": true
         },
         {
             "description": "Talks about Khata helping him keep track of his debtors",
-            "videoThumbnail": "https://www.thumbnail.com",
-            "videoFile": "https://www.video.com",
+            "video": {
+                "id": 1,
+                "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
+                "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
+                "desc": "Talks about Khata helping him keep track of his debtors",
+                "descLocale": {
+                    "en": "Talks about Khata helping him keep track of his debtors",
+                    "hi": "Talks about Khata helping him keep track of his debtors"
+                },
+                "autoPlay": false
+            },
             "name": "Bhuvan Manohar Joshi",
             "image": "",
             "isVideo": true
@@ -19,16 +37,23 @@
         {
             "description": "Talks about Paisa Plus helped his Paan shop",
             "name": "Raghav Kumar",
-            "videoThumbnail": "",
-            "videoFile": "",
             "image": "https://www.image.com",
             "isVideo": false
         },
         {
             "description": "Talks about Paisa Plus helped his Paan shop",
             "name": "Raghav Kumar",
-            "videoThumbnail": "https://www.thumbnail.com",
-            "videoFile": "https://www.video.com",
+            "video": {
+                "id": 1,
+                "url": "https://fcapp-cdn.freecharge.in/merchant/vidoes/paisa-plus-promotional-video.mp4",
+                "placeholder": "https://fcapp-cdn.freecharge.in/merchant/vidoes/placeholders/paisa-plus-promotional-video.JPG",
+                "desc": "Talks about Paisa Plus helped his Paan shop",
+                "descLocale": {
+                    "en": "Talks about Paisa Plus helped his Paan shop",
+                    "hi": "Talks about Paisa Plus helped his Paan shop"
+                },
+                "autoPlay": false
+            },
             "image": "",
             "isVideo": true
         }
