@@ -24,6 +24,8 @@
          },
          {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/instant_settlement.png",
+            "imageHeight": 116,
+            "imageWidth": 109,
             "onPageURL": "",
             "toPageURL": "",
             "titleText": {
