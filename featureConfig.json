@@ -21,6 +21,25 @@
                "hi": "डैशबोर्ड पर जाएंं"
             },
             "id": 1
+         },
+         {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/instant_settlement.png",
+            "onPageURL": "",
+            "toPageURL": "",
+            "titleText": {
+               "en": "Instant Settlement",
+               "hi": "तत्काल निपटान"
+            },
+            "description": {
+               "en": "Now transfer money received during the day to your bank account any time.",
+               "hi": "अब दिन के दौरान क्यूआर से प्राप्त धन को अपने बैंक खाते में तुरंत भेजें।"
+            },
+            "priority": 2,
+            "buttonText": {
+               "en": "",
+               "hi": ""
+            },
+            "id": 2
          }
       ],
       "PaisaPlusLandingPage": [
@@ -39,7 +58,7 @@
                "en": "Accept Voucher Payments via Link",
                "hi": "पेमेंट लिंक से वाउचर साझा करें"
             },
-            "priority": "2",
+            "priority": "1",
             "id": 2
          }
       ]
