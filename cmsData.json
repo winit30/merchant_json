@@ -23,18 +23,31 @@
             "show": true,
             "redirectionUrl": [
                {
-                  "url": "https://bit.ly/2ZYtG79?isOpenInApp=true",
-                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign4.png?v=1",
-                  "omnitureTrackParam": "GoldloanBanner",
+                  "url": "https://bit.ly/2F1p7kr?isOpenInApp=true",
                   "webViewHeaderTitleLocale": {
-                     "en": "Gold Loan",
-                     "hi": "गोल्ड लोन"
-                  }
+                     "en": "Back to App",
+                     "hi": "ऐप में वापस जाएं"
+                  },
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/top_banner_Instant_edc.png",
+                  "omnitureTrackParam": "EDCMachine"
                },
                {
-                  "url": "https://bit.ly/2zK6C1d?isOpenInApp=false",
-                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/campaign2.png?v=2",
-                  "omnitureTrackParam": "coronaBanner"
+                  "url": "https://bit.ly/3hD0kRd?isOpenInApp=true",
+                  "webViewHeaderTitleLocale": {
+                     "en": "Back to App",
+                     "hi": "ऐप में वापस जाएं"
+                  },
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/instant_settlement.png",
+                  "omnitureTrackParam": "InstantSettlement"
+               },
+               {
+                  "url": "https://bit.ly/306DeNi?isOpenInApp=true",
+                  "webViewHeaderTitleLocale": {
+                     "en": "Back to App",
+                     "hi": "ऐप में वापस जाएं"
+                  },
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/top_banner_insurance.png",
+                  "omnitureTrackParam": "InsuranceBanner"
                }
             ]
          },
@@ -83,9 +96,7 @@
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_khata.png",
                   "order": 2,
                   "active": true,
-                  "restrictView": [
-                     "DEALER"
-                  ],
+                  "restrictView": ["DEALER"],
                   "minVersion": "0.0.0"
                },
                {
@@ -95,9 +106,7 @@
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_settlement.png",
                   "order": 3,
                   "active": true,
-                  "restrictView": [
-                     "DEALER"
-                  ],
+                  "restrictView": ["DEALER"],
                   "minVersion": "0.0.0"
                },
                {
@@ -117,10 +126,9 @@
             "order": 6,
             "show": true,
             "urls": [
-               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel1.png",
-               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel2.png",
-               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel3.png",
-               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/calrousel4.png"
+               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_hindi.png",
+               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_notification.png",
+               "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_payment_link.png"
             ]
          }
       ],
@@ -139,8 +147,8 @@
             "imageUrl": "https://www.gamersyde.com/newsv3/e3_cyberpunk_2077_new_demo_screenshots_hq_trailer-20908.jpg",
             "omnitureEvent": "SplashScreen1"
          },
-         "rating": {
-            "showRating": false,
+         "rating":{
+            "showRating":true,
             "countTillPopUpShow": 3,
             "timeAfterWhichPopShow": 10000
          },
@@ -160,7 +168,7 @@
             "ios": "https://apps.apple.com/in/app/freecharge-payments-wallet/id877495926"
          },
          "termsAndCondition": {
-            "url": "https://www.freecharge.in/mobile/merchantoffers/terms",
+            "url": "/.",
             "policyId": 95460
          },
          "inAppUpdate": {
@@ -168,7 +176,7 @@
             "maxAppUpdateComputation": 2,
             "minimumAppVersion": "3.0.0"
          },
-         "dashboardTransactionLimit": 1
+         "dashboardTransactionLimit": 90
       },
       "registrationConfig": [
          {
@@ -250,7 +258,7 @@
                   "subCategory": "Stationary, printing and writing paper"
                },
                {
-                  "titleLocale": {
+                  "titleLocale":{
                      "en": "Drug Stores, Pharmacy",
                      "hi": "ड्रग स्टोर्स, फार्मेसी"
                   },
