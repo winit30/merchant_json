@@ -240,6 +240,51 @@
           ]
         },
         {
+          "key": "Subscription",
+          "value": [
+            {
+              "key": "Plan Benefits",
+              "value": [
+                {
+                  "label": "What are plan benefits",
+                  "value": "Plan Benefits",
+                  "showContactUs": true
+                }
+              ]
+            },
+            {
+              "key": "Plan Cancellation",
+              "value": [
+                {
+                  "label": "How can I cancel my plan?",
+                  "value": "Plan Cancellation",
+                  "showContactUs": true
+                }
+              ]
+            },
+            {
+              "key": "Plan Upgrade",
+              "value": [
+                {
+                  "label": "How can I upgrade my plan",
+                  "value": "Plan Upgrade",
+                  "showContactUs": true
+                }
+              ]
+            },
+            {
+              "key": "Plan Renewal",
+              "value": [
+                {
+                  "label": "How can I renew my plan",
+                  "value": "Plan Renewal",
+                  "showContactUs": true
+                }
+              ]
+            }
+          ]
+        },
+        {
           "key": "Report Related",
           "value": [
             {
