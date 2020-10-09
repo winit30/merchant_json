@@ -111,13 +111,12 @@
                },
                {
                   "title": "Campaigns",
-                  "screen": "Campaigns",
+                  "screen": "MyOffersTabsLayout",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
                   "order": 4,
-                  "active": false,
+                  "active": true,
                   "restrictView": [],
-                  "minVersion": "0.0.0",
-                  "maxVersion": "0.0.0"
+                  "minVersion": "0.0.0"
                }
             ]
          },
