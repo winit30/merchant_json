@@ -23,13 +23,31 @@
             "show": true,
             "redirectionUrl": [
                {
+                  "url": "https://bit.ly/3cmOREr?isOpenInApp=false",
+                  "webViewHeaderTitleLocale": {
+                     "en": "Back to App",
+                     "hi": "ऐप में वापस जाएं"
+                  },
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/top_banner_current_account.png",
+                  "omnitureTrackParam": "CurrentAccount"
+               },
+               {
                   "url": "https://bit.ly/2F1p7kr?isOpenInApp=true",
                   "webViewHeaderTitleLocale": {
                      "en": "Back to App",
                      "hi": "ऐप में वापस जाएं"
                   },
-                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/top_banner_Instant_edc.png",
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/top_banner_Instant_edc_new.png",
                   "omnitureTrackParam": "EDCMachine"
+               },
+               {
+                  "url": "https://bit.ly/2ZYtG79?isOpenInApp=true",
+                  "webViewHeaderTitleLocale": {
+                     "en": "Gold Loan",
+                     "hi": "गोल्ड लोन"
+                  },
+                  "imgurl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/campaign/gold_loan_banner.png",
+                  "omnitureTrackParam": "GoldloanBanner"
                },
                {
                   "url": "https://bit.ly/3hD0kRd?isOpenInApp=true",
@@ -111,12 +129,13 @@
                },
                {
                   "title": "Campaigns",
-                  "screen": "MyOffersTabsLayout",
+                  "screen": "Campaigns",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
                   "order": 4,
-                  "active": true,
+                  "active": false,
                   "restrictView": [],
-                  "minVersion": "0.0.0"
+                  "minVersion": "0.0.0",
+                  "maxVersion": "0.0.0"
                }
             ]
          },
@@ -133,7 +152,7 @@
       ],
       "globalConfig": {
          "homeSplash": {
-            "show": true,
+            "show": false,
             "version": "1",
             "isDeepLink": false,
             "deepLinkedRoute": "",
@@ -173,7 +192,7 @@
          "inAppUpdate": {
             "isInAppUpdateAllowed": true,
             "maxAppUpdateComputation": 2,
-            "minimumAppVersion": "3.0.0"
+            "minimumAppVersion": "3.0.00"
          },
          "dashboardTransactionLimit": 90
       },
