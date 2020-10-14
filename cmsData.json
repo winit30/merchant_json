@@ -128,13 +128,13 @@
                   "minVersion": "0.0.0"
                },
                {
-                  "title": "Campaigns",
-                  "screen": "Campaigns",
+                  "title": "Deals",
+                  "screen": "MyOffersTabsLayout",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
                   "order": 4,
-                  "active": false,
-                  "restrictView": [],
-                  "minVersion": "2.1.7"
+                  "active": true,
+                  "restrictView": ["DEALER"],
+                  "minVersion": "0.0.0"
                }
             ]
          },
