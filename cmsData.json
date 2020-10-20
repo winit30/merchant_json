@@ -130,7 +130,7 @@
                {
                   "title": "Deals",
                   "screen": "MyOffersTabsLayout",
-                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/ic_campaign.png",
+                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/myOffers.png",
                   "order": 4,
                   "active": true,
                   "restrictView": ["DEALER"],
