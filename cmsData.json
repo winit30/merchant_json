@@ -142,7 +142,7 @@
                   "localIconName": "invoice",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/invoice.png",
                   "order": 5,
-                  "active": false,
+                  "active": true,
                   "restrictView": [],
                   "minVersion": "0.0.0"
                }
