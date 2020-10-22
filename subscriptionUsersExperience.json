@@ -58,5 +58,5 @@
             "isVideo": true
         }
     ],
-    featureInfoUrl: "https://www.google.com"
+    "featureInfoUrl": "https://www.google.com"
 }
