@@ -144,7 +144,9 @@
                   "order": 5,
                   "active": true,
                   "restrictView": [],
-                  "minVersion": "0.0.0"
+                  "minVersion": "0.0.0",
+                  "staging": "https://parchi-dev.web.app/dashboard",
+                  "prod": ""
                }
             ]
          },
