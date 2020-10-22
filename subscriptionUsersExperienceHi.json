@@ -12,7 +12,7 @@
                     "en": "Talks about Paisa Plus helped his Paan shop",
                     "hi": "पेसा प्लस ने उनकी पान की दुकान में मदद क"
                 },
-                "autoPlay": false
+                "autoPlay": true
             },
             "image": "https://www.image.com",
             "isVideo": true
@@ -28,7 +28,7 @@
                     "en": "Talks about Khata helping him keep track of his debtors",
                     "hi": "खाटा के बारे में बात करने से उन्हें अपने देनदारों पर नज़र रखने में मदद मिली"
                 },
-                "autoPlay": false
+                "autoPlay": true
             },
             "name": "भुवन मनोहर जोशी",
             "image": "",
@@ -52,7 +52,7 @@
                     "en": "Talks about Paisa Plus helped his Paan shop",
                     "hi": "पेसा प्लस ने उनकी पान की दुकान में मदद की"
                 },
-                "autoPlay": false
+                "autoPlay": true
             },
             "image": "",
             "isVideo": true
