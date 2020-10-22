@@ -86,7 +86,7 @@
                   "desc": "PaisaPlus ke saath business badao",
                   "descLocale": {
                      "en": "PaisaPlus ke saath business badao",
-                     "hi": "पैसा प्लस से बढाओ अपना बिज़नेस"
+                     "hi": "पैसा प्लस से बढाओ अपना बिज़नेस"
                   },
                   "autoPlay": false
                }
@@ -134,6 +134,16 @@
                   "order": 4,
                   "active": true,
                   "restrictView": ["DEALER"],
+                  "minVersion": "0.0.0"
+               },
+               {
+                  "title": "Invoice Generation",
+                  "screen": "webRedirection",
+                  "localIconName": "invoice",
+                  "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/invoice.png",
+                  "order": 5,
+                  "active": true,
+                  "restrictView": [],
                   "minVersion": "0.0.0"
                }
             ]
