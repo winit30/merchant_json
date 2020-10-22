@@ -3,12 +3,12 @@
         {
             "title": "टेस्ट बेनिफिट ",
             "description": "लाभ 1 के लिए परीक्षण विवरण!",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/subscription_choose_plan.png"
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/ods_large.png"
         },
         {
             "title": "ऑन डिमांड सेटलमेंट",
             "description": "कम शुल्क पर अपने बैंक पर त्वरित निपटान प्राप्त करें!",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/subscription_choose_plan.png"
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/insurance.png"
         },
         {
              "title": "ऑन डिमांड सेटलमेंट",
@@ -18,12 +18,12 @@
         {
             "title": "ऑन डिमांड सेटलमेंट",
             "description": "कम शुल्क पर अपने बैंक पर त्वरित निपटान प्राप्त करें!",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/subscription_choose_plan.png"
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/creditcard_large.png"
         },
         {
             "title": "ऑन डिमांड सेटलमेंट",
             "description": "कम शुल्क पर अपने बैंक पर त्वरित निपटान प्राप्त करें!",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/subscription_choose_plan.png"
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/invoice_large.png"
         }
     ]
 }
