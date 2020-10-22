@@ -12,7 +12,7 @@
                     "en": "Talks about Paisa Plus helped his Paan shop",
                     "hi": "Talks about Paisa Plus helped his Paan shop"
                 },
-                "autoPlay": false
+                "autoPlay": true
             },
             "image": "https://www.image.com",
             "isVideo": true
@@ -28,7 +28,7 @@
                     "en": "Talks about Khata helping him keep track of his debtors",
                     "hi": "Talks about Khata helping him keep track of his debtors"
                 },
-                "autoPlay": false
+                "autoPlay": true
             },
             "name": "Bhuvan Manohar Joshi",
             "image": "",
@@ -52,7 +52,7 @@
                     "en": "Talks about Paisa Plus helped his Paan shop",
                     "hi": "Talks about Paisa Plus helped his Paan shop"
                 },
-                "autoPlay": false
+                "autoPlay": true
             },
             "image": "",
             "isVideo": true
