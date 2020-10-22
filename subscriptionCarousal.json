@@ -3,22 +3,26 @@
         {
             "title": "On-Demand Settlement",
             "description": "Get Instant settlement on your bank at reduced charges!'",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/ods_large.png"
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/ods_large.png",
+            "backgroundColor":"#311f48"
         },
         {
             "title": "Free Health & Life insurance",
             "description": "Get Instant settlement on your bank at reduced charges!",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/insurance.png"
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/insurance.png",
+            "backgroundColor":"#27263d"
         },
         {
             "title": "Reduced Credit Crad Charges",
             "description": "Avail Reduced Credit Crad Charges",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/creditcard_large.png"
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/creditcard_large.png",
+            "backgroundColor":"#30263a"
         },
         {
             "title": "Invoice Generation",
             "description": "Avail Invoice Generation",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/invoice_large.png"
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/invoice_large.png",
+            "backgroundColor":"#30222d"
         }
     ]
 }
