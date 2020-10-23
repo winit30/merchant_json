@@ -128,7 +128,7 @@
                   "minVersion": "0.0.0"
                },
                {
-                  "title": "Deals",
+                  "title": "My Offers",
                   "screen": "MyOffersTabsLayout",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/myOffers.png",
                   "order": 4,
