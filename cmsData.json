@@ -142,14 +142,14 @@
                   "minVersion": "0.0.0"
                },
                {
-                  "title": "Invoice Generation",
+                  "title": "Generate Bill",
                   "screen": "webRedirection",
                   "localIconName": "invoice",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/invoice.png",
                   "order": 5,
                   "active": false,
                   "restrictView": [],
-                  "minVersion": "2.1.24",
+                  "minVersion": "2.1.23",
                   "staging": "https://parchi-dev.web.app/dashboard",
                   "prod": ""
                }
