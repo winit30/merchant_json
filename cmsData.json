@@ -7,8 +7,13 @@
             "show": true
          },
          {
+            "key": "subscription_banner",
+            "order": 2,
+            "show": true
+         },
+         {
             "key": "campaignBanner",
-            "order": 7,
+            "order": 8,
             "show": true,
             "redirectionUrl": [
                {
@@ -19,7 +24,7 @@
          },
          {
             "key": "homePageBanner",
-            "order": 3,
+            "order": 4,
             "show": true,
             "redirectionUrl": [
                {
@@ -71,12 +76,12 @@
          },
          {
             "key": "generatePaymentLink",
-            "order": 4,
+            "order": 5,
             "show": true
          },
          {
             "key": "homepageVideo",
-            "order": 5,
+            "order": 6,
             "show": true,
             "urls": [
                {
@@ -94,7 +99,7 @@
          },
          {
             "key": "categories",
-            "order": 2,
+            "order": 3,
             "show": true,
             "items": [
                {
@@ -152,7 +157,7 @@
          },
          {
             "key": "banner",
-            "order": 6,
+            "order": 7,
             "show": true,
             "urls": [
                "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_hindi.png",
