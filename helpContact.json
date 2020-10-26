@@ -263,8 +263,34 @@
                     "key": "Plan Benefits",
                     "value": [
                         {
-                            "label": "What are plan benefits",
-                            "value": "Plan Benefits",
+                            "label": "What are my Plan Benefits?",
+                            "value": "Plan Benefits are available on the Choose Plan page in case you have not subscribed",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What are monthly plan benefits?",
+                            "value": "a.You will be charged only 0.1% of instant settlement\n
+                                      b.Credit Card charges will be reduced for you depending on your merchant category\n
+                                      c.Order upto 1 QR per quarter as free replacement\n
+                                      d.Issue bills/invoice to your customers with link for payment collection\n
+                                      e.Get Life Insurance of 1 Lakh from Max Life\n
+                                      f.Get Personal Accident covered from Tata AIG of Rs 2,00,000\n
+                                      g.Get Rewards upto Rs 100 coupons on plan renewals which you can use on Freecharge App for bill payments and recharges",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What are my Plan Benefits?",
+                            "value": "Plan Benefits are available on the Choose Plan page in case you have not subscribed",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What are my Plan Benefits?",
+                            "value": "Plan Benefits are available on the Choose Plan page in case you have not subscribed",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What are my Plan Benefits?",
+                            "value": "Plan Benefits are available on the Choose Plan page in case you have not subscribed",
                             "showContactUs": true
                         }
                     ]
