@@ -2,27 +2,27 @@
     "data": [
         {
             "title": "On-Demand Settlement",
-            "description": "Get Instant settlement on your bank at reduced charges!'",
+            "description": "Zero* fees for doing instant settlement in bank account",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/ods_large.png",
             "backgroundColor":"#311f48"
         },
         {
-            "title": "Free Health & Life insurance",
-            "description": "Get Instant settlement on your bank at reduced charges!",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/insurance.png",
-            "backgroundColor":"#27263d"
-        },
-        {
             "title": "Reduced Credit Card Charges",
-            "description": "Avail Reduced Credit Crad Charges",
+            "description": "Get paid via Credit Card at lower charges than industry rates",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/creditcard_large.png",
             "backgroundColor":"#30263a"
         },
         {
             "title": "Invoice Generation",
-            "description": "Avail Invoice Generation",
+            "description": "Issue digital invoice for your customers with Payment Link",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/invoice_large.png",
             "backgroundColor":"#30222d"
+        },
+        {
+            "title": "Free Health & Life insurance",
+            "description": "Get yourself insurance covered and get ready for future",
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/insurance.png",
+            "backgroundColor":"#27263d"
         }
     ]
 }
