@@ -269,22 +269,22 @@
                         },
                         {
                             "label": "What are monthly plan benefits?",
-                            "value": "a.You will be charged only 0.1% of instant settlement",
+                            "value": "a. You will be charged only 0.1% of instant settlement\nb. Credit Card charges will be reduced for you depending on your merchant category\nc. Order upto 1 QR per quarter as free replacement\nd. Issue bills/invoice to your customers with link for payment collection\ne. Get Life Insurance of 1 Lakh from Max Life\nf. Get Personal Accident covered from Tata AIG of Rs 2,00,000\ng. Get Rewards upto Rs 100 coupons on plan renewals which you can use on Freecharge App for bill payments and recharges",
                             "showContactUs": true
                         },
                         {
-                            "label": "What are my Plan Benefits?",
-                            "value": "Plan Benefits are available on the Choose Plan page in case you have not subscribed",
+                            "label": "What are yearly plan benefits?",
+                            "value": "a. Get instant settlement for Free all year long. No charges.\nCredit Card charges will be reduced for you depending on your merchant category\n b. Order upto 1 QR per quarter as free replacement\nc. Issue bills/invoice to your customers with link for payment collection\nd. Get Life Insurance of 1 Lakh from Max Life\ne. Get Rs 500/day for 30 days Hospital Cash in case of emergency covered from Tata AIG\nf. Get Rewards upto Rs 1000 cash on taking payments from customers",
                             "showContactUs": true
                         },
                         {
-                            "label": "What are my Plan Benefits?",
-                            "value": "Plan Benefits are available on the Choose Plan page in case you have not subscribed",
+                            "label": "What is the validity of Plans?",
+                            "value": "Monthly Plan is valid for a Month from the date of Purchase/Sign Up. Similarly, the Annual Plan is valid for a Year from the date of Purchase.Subsequently, your plan will be automatically renewed and the validity will be extended according to the Plan you have Subscribed to.",
                             "showContactUs": true
                         },
                         {
-                            "label": "What are my Plan Benefits?",
-                            "value": "Plan Benefits are available on the Choose Plan page in case you have not subscribed",
+                            "label": "I haven’t got Insurance details after subscription to a Plan?",
+                            "value": "You would need to fill in the insurance details for issuance of insurance by our partners. In case you have not done please click the star icon from the bottom bar and fill in. If you have submitted the details your details are there in the star section for reference.",
                             "showContactUs": true
                         }
                     ]
