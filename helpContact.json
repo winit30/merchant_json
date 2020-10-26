@@ -293,8 +293,23 @@
                     "key": "Plan Cancellation",
                     "value": [
                         {
-                            "label": "How can I cancel my plan?",
-                            "value": "Plan Cancellation",
+                            "label": "How can I cancel Subscription?",
+                            "value": "We would want you to keep enjoying the subscription benefits but in case you still want to do please submit your request by clicking Yes below. Our team will contact you for further action.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Will I get Refund for Cancellation?",
+                            "value": "No. Refunds will not be processed. On cancellation, your request will be taken and Auto Renewal will be stopped at the end of Billing Cycle will not take effect. You can utilize the Plan benefits until the end of the validity period.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "How will I get offers or Cashback mentioned in the Plan?",
+                            "value": "You will receive offers on every alternate month renewal. 1st, 3rd, 5th, 8th, 12th month.If you discontinue in between, you will not be eligible for rewards again upto next 6 months.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Will I be eligible for Insurance Claims if my Subscription gets canceled?",
+                            "value": "Your insurance policy is valid till the time you are subscribed with us. As soon as your subscription ends your policy also ends.",
                             "showContactUs": true
                         }
                     ]
@@ -303,8 +318,13 @@
                     "key": "Plan Upgrade",
                     "value": [
                         {
-                            "label": "How can I upgrade my plan",
-                            "value": "Plan Upgrade",
+                            "label": "How can I upgrade to an Annual Plan?",
+                            "value": "On Freecharge Business App, you will see an option to Upgrade. You will be required to pay for the Plan Amount, and you will be upgraded to the new plan after the validity of Current Plan ends.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "How can I downgrade from Annual Plan to Monthly Plan?",
+                            "value": "We would not want you to downgrade your Annual Plan but in case you still want to do please submit your request by clicking Yes below. Our team will contact you for further action.",
                             "showContactUs": true
                         }
                     ]
@@ -313,8 +333,13 @@
                     "key": "Plan Renewal",
                     "value": [
                         {
-                            "label": "How can I renew my plan",
-                            "value": "Plan Renewal",
+                            "label": "What does Auto Renewal mean?",
+                            "value": "Your plan will be auto-renewd automatically post your first payment. Towards the end of Plan validity, Freecharge will attempt to deduct payments from your Settlements directly.\n\nWith Auto Renewal, you don’t have to worry about validity. All you are required to do is keep accepting Payments from the Customers.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What if I don’t have enough Settlement balance?",
+                            "value": "Freecharge will attempt to deduct Plan Amount from Settlement for a few days until validity ends for your subscription. Your Settlement will be put on HOLD until Amount equal to Plan Amount is accumulated.\n\nIf at the end of validity, Freecharge is not able to deduct Amount from Settlement, your Subscription will be canceled and any pending Settlements will be released the next day.",
                             "showContactUs": true
                         }
                     ]
