@@ -9,7 +9,7 @@
          {
             "key": "campaignBanner",
             "order": 7,
-            "show": true,
+            "show": false,
             "redirectionUrl": [
                {
                   "navigation": "newPage",
@@ -132,9 +132,9 @@
                   "screen": "MyOffersTabsLayout",
                   "icon": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/myOffers.png",
                   "order": 4,
-                  "active": true,
+                  "active": false,
                   "restrictView": ["DEALER"],
-                  "minVersion": "0.0.0"
+                  "minVersion": "2.1.25"
                },
                {
                   "title": "Generate Bill",
@@ -144,7 +144,7 @@
                   "order": 5,
                   "active": false,
                   "restrictView": [],
-                  "minVersion": "2.1.23",
+                  "minVersion": "2.1.25",
                   "staging": "https://parchi-dev.web.app/dashboard",
                   "prod": ""
                }
@@ -163,7 +163,7 @@
       ],
       "globalConfig": {
          "homeSplash": {
-            "show": true,
+            "show": false,
             "version": "1",
             "isDeepLink": false,
             "deepLinkedRoute": "",
