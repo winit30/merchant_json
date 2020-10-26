@@ -1,28 +1,28 @@
 {
     "data": [
         {
-            "title": "टेस्ट बेनिफिट ",
-            "description": "लाभ 1 के लिए परीक्षण विवरण!",
+            "title": "ऑन डिमांड सेटलमेंट",
+            "description": "शून्य * बैंक खाते में तत्काल निपटान करने की फीस",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/ods_large.png",
             "backgroundColor":"#311f48"
         },
         {
             "title": "ऑन डिमांड सेटलमेंट",
-            "description": "कम शुल्क पर अपने बैंक पर त्वरित निपटान प्राप्त करें!",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/insurance.png",
-            "backgroundColor":"#27263d"
-        },
-        {
-            "title": "ऑन डिमांड सेटलमेंट",
-            "description": "कम शुल्क पर अपने बैंक पर त्वरित निपटान प्राप्त करें!",
+            "description": "उद्योग दरों की तुलना में कम शुल्क पर क्रेडिट कार्ड के माध्यम से भुगतान करें",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/creditcard_large.png",
             "backgroundColor":"#30263a"
         },
         {
             "title": "ऑन डिमांड सेटलमेंट",
-            "description": "कम शुल्क पर अपने बैंक पर त्वरित निपटान प्राप्त करें!",
+            "description": "भुगतान लिंक के साथ अपने ग्राहकों के लिए डिजिटल चालान जारी करें",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/invoice_large.png",
             "backgroundColor":"#30222d"
+        },
+        {
+            "title": "ऑन डिमांड सेटलमेंट",
+            "description": "अपने आप को बीमा करवाएं और भविष्य के लिए तैयार रहें",
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/insurance.png",
+            "backgroundColor":"#27263d"
         }
     ]
 }
