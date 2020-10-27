@@ -205,7 +205,7 @@
             "maxAppUpdateComputation": 2,
             "minimumAppVersion": "3.0.00"
          },
-         "dashboardTransactionLimit": 90
+         "dashboardTransactionLimit": 1
       },
       "registrationConfig": [
          {
