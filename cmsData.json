@@ -145,7 +145,7 @@
                   "active": false,
                   "restrictView": [],
                   "minVersion": "2.1.25",
-                  "staging": "",
+                  "staging": "https://parchi-dev.web.app/dashboard",
                   "prod": ""
                }
             ]
