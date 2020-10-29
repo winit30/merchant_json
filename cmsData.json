@@ -23,7 +23,7 @@
             "show": true,
             "redirectionUrl": [
                {
-                  "url": "https://shorturl.at/stuMY?isOpenInApp=true",
+                  "url": "https://bit.ly/35CrfIE?isOpenInApp=false",
                   "webViewHeaderTitleLocale": {
                      "en": "Back to App",
                      "hi": "ऐप में वापस जाएं"
