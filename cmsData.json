@@ -196,7 +196,7 @@
             ],
             "homeSplash": {
                "show": true,
-               "version": "2",
+               "version": "3",
                "isDeepLink": false,
                "deepLinkedRoute": "",
                "openInWebview": true,
