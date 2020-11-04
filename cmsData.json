@@ -195,18 +195,18 @@
                 }
             ],
             "homeSplash": {
-                "show": false,
-                "version": "1",
-                "isDeepLink": false,
-                "deepLinkedRoute": "",
-                "openInWebview": false,
-                "webViewHeaderTitleLocale": {
-                    "en": "Instant Settlement",
-                    "hi": "Instant Settlement"
-                },
-                "redirectionUrl": "https://play.google.com/store/apps/details?id=com.freecharge.business",
-                "imageUrl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/homeSplash/instant_settlement_splash.jpg",
-                "omnitureEvent": "instant_settlement_splash"
+               "show": true,
+               "version": "2",
+               "isDeepLink": false,
+               "deepLinkedRoute": "",
+               "openInWebview": true,
+               "webViewHeaderTitleLocale": {
+                  "en": "",
+                  "hi": ""
+               },
+               "redirectionUrl": "https://bit.ly/3mzNTID",
+               "imageUrl": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/homeSplash/diwali_boost_splash.jpg",
+               "omnitureEvent": "diwali_boost_splash"
             },
             "rating": {
                 "showRating": true,
