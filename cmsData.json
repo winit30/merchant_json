@@ -174,11 +174,11 @@
                     "popUpType": "Kyc"
                 },
                 {
-                    "priority": 1,
+                    "priority": 2,
                     "popUpType": "New Feature"
                 },
                 {
-                    "priority": 2,
+                    "priority": 4,
                     "popUpType": "Rating"
                 },
                 {
@@ -186,7 +186,7 @@
                     "popUpType": "Splash"
                 },
                 {
-                    "priority": 4,
+                    "priority": 1,
                     "popUpType": "CreateQr"
                 }
             ],
