@@ -161,9 +161,10 @@
                 "order": 6,
                 "show": true,
                 "urls": [
-                    "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_hindi.png",
-                    "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_notification.png",
-                    "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/fc_payment_link.png"
+                   "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/1-diwali-khata.png",
+                   "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/2-diwali-paisa-plus.png",
+                   "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/3-diwali-instant-settlement.png",
+                   "https://fcapp-cdn.freecharge.in/merchant/mobile/images/carousel/4-diwali-payment-link.png"
                 ]
             }
         ],
