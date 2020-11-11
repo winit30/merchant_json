@@ -171,12 +171,12 @@
         "globalConfig": {
             "popUpList": [
                 {
-                    "priority": 5,
+                    "priority": 2,
                     "popUpType": "Kyc",
                     "show": true
                 },
                 {
-                    "priority": 2,
+                    "priority": 5,
                     "popUpType": "New Feature",
                     "show": true
                 },
