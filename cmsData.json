@@ -172,23 +172,28 @@
             "popUpList": [
                 {
                     "priority": 5,
-                    "popUpType": "Kyc"
+                    "popUpType": "Kyc",
+                    "show": true
                 },
                 {
                     "priority": 2,
-                    "popUpType": "New Feature"
+                    "popUpType": "New Feature",
+                    "show": true
                 },
                 {
                     "priority": 4,
-                    "popUpType": "Rating"
+                    "popUpType": "Rating",
+                    "show": true
                 },
                 {
                     "priority": 3,
-                    "popUpType": "Splash"
+                    "popUpType": "Splash",
+                    "show": true
                 },
                 {
                     "priority": 1,
-                    "popUpType": "CreateQr"
+                    "popUpType": "CreateQr",
+                    "show": true
                 }
             ],
             "homeSplash": {
