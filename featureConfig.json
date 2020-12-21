@@ -39,26 +39,6 @@
             "priority": 2,
             "id": 2
          }
-      ],
-      "PaisaPlusLandingPage": [
-         {
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/paisaplus_paymentlink_feature.png",
-            "imageHeight": 107,
-            "imageWidth": 125,
-            "toPageURL": "",
-            "description": {
-               "en":
-               "Now you can take payments for issuing Paisa Plus voucher by sending your customers Payment Link. This is available for our QR Active Merchants.",
-               "hi":
-               "अब आप अपने ग्राहकों को पेमेंट लिंक भेजकर पेसा प्लस वाउचर जारी करने के लिए भुगतान ले सकते हैं। यह हमारे क्यूआर सक्रिय व्यापारियों के लिए उपलब्ध है।"
-            },
-            "titleText": {
-               "en": "Accept Voucher Payments via Link",
-               "hi": "पेमेंट लिंक से वाउचर साझा करें"
-            },
-            "priority": "3",
-            "id": 3
-         }
       ]
    }
 }
