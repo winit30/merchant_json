@@ -56,8 +56,8 @@
                "en": "Accept Voucher Payments via Link",
                "hi": "पेमेंट लिंक से वाउचर साझा करें"
             },
-            "priority": "1",
-            "id": 2
+            "priority": "3",
+            "id": 3
          }
       ]
    }
