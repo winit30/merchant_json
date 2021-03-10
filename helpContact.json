@@ -1,83 +1,249 @@
-{
-    "data": [
+"data": [
         {
-            "key": "Transaction Related",
-            "value": [
-                {
-                    "label": "Customer transaction confirmation not received",
-                    "value": "Freecharge sends an SMS for all successful transactions.\nIn case you have not received the SMS, please follow the below steps\n1.Go to Transactions from the bottom navigation bar\n2.You can find all transactions that are done from your QR code or other modes out there.",
-                    "showContactUs": false
-                },
-                {
-                    "label": "Amount not credited to bank account",
-                    "value": "All the successful transactions are settled on the next working day (excluding bank holidays).\nIn case of further assistance please click on Yes button below to raise a support ticket.",
-                    "showContactUs": true
-                },
-                {
-                    "label": "Incorrect Transaction status",
-                    "value": "Please try to re-check the transaction status in a few minutes.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
-                    "showContactUs": true
-                },
-                {
-                    "label": "Need to update my Transaction Limit",
-                    "value": "In case you need to increase your transaction limit please click on Yes button below to raise a support ticket.",
-                    "showContactUs": true,
-                    "isDataAvailable": false
-                }
-            ]
-        },
-        {
-            "key": "Settlement Related",
-            "value": [
-                {
-                    "label": "I have not received my settlement",
-                    "value": "Please follow the below steps\n\n1.Go to Settlements from the bottom navigation bar\n2. Click on the date for which you have not received your settlement\n3. For successful settlement, you will see the amount and bank account details in which the funds were transferred.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
-                    "showContactUs": true
-                },
-                {
-                    "label": "Have issues in my settlement",
-                    "value": "Please follow the below steps\n\n1.Go to Settlements from the bottom navigation bar\n2. Click on the date for which you have issues in your settlement\n3. For successful settlement, you will see the amount and bank account details in which the funds were transferred.\n4. In case of no settlement you will see a valid message stating reason for no settlement.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
-                    "showContactUs": true
-                },
-                {
-                    "label": "Incorrect data in Settlement report",
-                    "value": "Please click on Yes button below to raise a support ticket.",
-                    "showContactUs": true
-                }
-            ]
-        },
-        {
-            "key": "Other Issues",
+            "key": "Transactions",
+            "subHeading": "Get Help regarding your recent transactions",
             "value": [
                 {
                     "key": "Account related",
                     "value": [
                         {
-                            "label": "How to change my password",
-                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                            "key": "Transactions1",
+                            "value": [
+                                {
+                                    "label": "How to change my password",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "How to change my bank account details",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on Bank & PAN Information\n3. Click on Edit on the right side of Bank Information\n4. Enter the Account Number and IFSC code\n5. Click on Update to save the Bank Account Information\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How to change my registered email and mobile",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on Contact Information\n3. Click on 'Change' link on mobile/email whichever you like to change\n4. You will be asked to enter OTP sent to mobile or email whichever you are updating\n5. Enter new details and click save to update the email and mobile.\nIn case you are unable to update the email or mobile please try after some time.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "What is the fee that is getting charged",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on fee and monthly limit\n3. You will be able to see the current fee and monthly limit set for the account\nIn case you want to increase your monthly limit click on Yes button below to raise a support ticket",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How can I edit other details",
+                                    "value": "Apart from email, mobile, bank account number, first time GST registration we don't allow any other details to be updated.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        },
+                        {
+                            "key": "Transactions2",
+                            "value": [
+                                {
+                                    "label": "How to change my password",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "How to change my bank account details",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on Bank & PAN Information\n3. Click on Edit on the right side of Bank Information\n4. Enter the Account Number and IFSC code\n5. Click on Update to save the Bank Account Information\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How to change my registered email and mobile",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on Contact Information\n3. Click on 'Change' link on mobile/email whichever you like to change\n4. You will be asked to enter OTP sent to mobile or email whichever you are updating\n5. Enter new details and click save to update the email and mobile.\nIn case you are unable to update the email or mobile please try after some time.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "What is the fee that is getting charged",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on fee and monthly limit\n3. You will be able to see the current fee and monthly limit set for the account\nIn case you want to increase your monthly limit click on Yes button below to raise a support ticket",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How can I edit other details",
+                                    "value": "Apart from email, mobile, bank account number, first time GST registration we don't allow any other details to be updated.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        }]
+
+
+                },
+                {
+                    "key": "TransactionsDashboard",
+                    "value": [
+                        {
+                            "label": "Customer transaction confirmation not received",
+                            "value": "Freecharge sends an SMS for all successful transactions.\nIn case you have not received the SMS, please follow the below steps\n1.Go to Transactions from the bottom navigation bar\n2.You can find all transactions that are done from your QR code or other modes out there.",
                             "showContactUs": false
                         },
                         {
-                            "label": "How to change my bank account details",
-                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on Bank & PAN Information\n3. Click on Edit on the right side of Bank Information\n4. Enter the Account Number and IFSC code\n5. Click on Update to save the Bank Account Information\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                            "label": "Amount not credited to bank account",
+                            "value": "All the successful transactions are settled on the next working day (excluding bank holidays).\nIn case of further assistance please click on Yes button below to raise a support ticket.",
                             "showContactUs": true
                         },
                         {
-                            "label": "How to change my registered email and mobile",
-                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on Contact Information\n3. Click on 'Change' link on mobile/email whichever you like to change\n4. You will be asked to enter OTP sent to mobile or email whichever you are updating\n5. Enter new details and click save to update the email and mobile.\nIn case you are unable to update the email or mobile please try after some time.",
-                            "showContactUs": false
-                        },
-                        {
-                            "label": "What is the fee that is getting charged",
-                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on fee and monthly limit\n3. You will be able to see the current fee and monthly limit set for the account\nIn case you want to increase your monthly limit click on Yes button below to raise a support ticket",
+                            "label": "Incorrect Transaction status",
+                            "value": "Please try to re-check the transaction status in a few minutes.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
                             "showContactUs": true
                         },
                         {
-                            "label": "How can I edit other details",
-                            "value": "Apart from email, mobile, bank account number, first time GST registration we don't allow any other details to be updated.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
-                            "showContactUs": true
+                            "label": "Need to update my Transaction Limit",
+                            "value": "In case you need to increase your transaction limit please click on Yes button below to raise a support ticket.",
+                            "showContactUs": true,
+                            "isDataAvailable": false
                         }
                     ]
+                }]
+
+        },
+        {
+            "key": "Settlements",
+            "subHeading": "Get Help regarding your recent settlements",
+            "value": [
+                {
+                    "key": "Account related",
+                    "value": [
+                        {
+                            "key": "Transactions1",
+                            "value": [
+                                {
+                                    "label": "How to change my password",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "How to change my bank account details",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on Bank & PAN Information\n3. Click on Edit on the right side of Bank Information\n4. Enter the Account Number and IFSC code\n5. Click on Update to save the Bank Account Information\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How to change my registered email and mobile",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on Contact Information\n3. Click on 'Change' link on mobile/email whichever you like to change\n4. You will be asked to enter OTP sent to mobile or email whichever you are updating\n5. Enter new details and click save to update the email and mobile.\nIn case you are unable to update the email or mobile please try after some time.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "What is the fee that is getting charged",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on fee and monthly limit\n3. You will be able to see the current fee and monthly limit set for the account\nIn case you want to increase your monthly limit click on Yes button below to raise a support ticket",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How can I edit other details",
+                                    "value": "Apart from email, mobile, bank account number, first time GST registration we don't allow any other details to be updated.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        },
+                        {
+                            "key": "Transactions2",
+                            "value": [
+                                {
+                                    "label": "How to change my password",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "How to change my bank account details",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on Bank & PAN Information\n3. Click on Edit on the right side of Bank Information\n4. Enter the Account Number and IFSC code\n5. Click on Update to save the Bank Account Information\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How to change my registered email and mobile",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on Contact Information\n3. Click on 'Change' link on mobile/email whichever you like to change\n4. You will be asked to enter OTP sent to mobile or email whichever you are updating\n5. Enter new details and click save to update the email and mobile.\nIn case you are unable to update the email or mobile please try after some time.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "What is the fee that is getting charged",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on fee and monthly limit\n3. You will be able to see the current fee and monthly limit set for the account\nIn case you want to increase your monthly limit click on Yes button below to raise a support ticket",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How can I edit other details",
+                                    "value": "Apart from email, mobile, bank account number, first time GST registration we don't allow any other details to be updated.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        }]
+
+
+                }]
+
+        },
+        {
+            "key": "Other Issues",
+            "subHeading": "Issue regarding Login,Refund,Coupons etc",
+            "value": [
+                {
+                    "key": "Account related",
+                    "value": [
+                        {
+                            "key": "Transactions1",
+                            "value": [
+                                {
+                                    "label": "How to change my password",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "How to change my bank account details",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on Bank & PAN Information\n3. Click on Edit on the right side of Bank Information\n4. Enter the Account Number and IFSC code\n5. Click on Update to save the Bank Account Information\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How to change my registered email and mobile",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on Contact Information\n3. Click on 'Change' link on mobile/email whichever you like to change\n4. You will be asked to enter OTP sent to mobile or email whichever you are updating\n5. Enter new details and click save to update the email and mobile.\nIn case you are unable to update the email or mobile please try after some time.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "What is the fee that is getting charged",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on fee and monthly limit\n3. You will be able to see the current fee and monthly limit set for the account\nIn case you want to increase your monthly limit click on Yes button below to raise a support ticket",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How can I edit other details",
+                                    "value": "Apart from email, mobile, bank account number, first time GST registration we don't allow any other details to be updated.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        },
+                        {
+                            "key": "Transactions2",
+                            "value": [
+                                {
+                                    "label": "How to change my password",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "How to change my bank account details",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Click on Bank & PAN Information\n3. Click on Edit on the right side of Bank Information\n4. Enter the Account Number and IFSC code\n5. Click on Update to save the Bank Account Information\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How to change my registered email and mobile",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on Contact Information\n3. Click on 'Change' link on mobile/email whichever you like to change\n4. You will be asked to enter OTP sent to mobile or email whichever you are updating\n5. Enter new details and click save to update the email and mobile.\nIn case you are unable to update the email or mobile please try after some time.",
+                                    "showContactUs": false
+                                },
+                                {
+                                    "label": "What is the fee that is getting charged",
+                                    "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on fee and monthly limit\n3. You will be able to see the current fee and monthly limit set for the account\nIn case you want to increase your monthly limit click on Yes button below to raise a support ticket",
+                                    "showContactUs": true
+                                },
+                                {
+                                    "label": "How can I edit other details",
+                                    "value": "Apart from email, mobile, bank account number, first time GST registration we don't allow any other details to be updated.\nIn case of further assistance please click on Yes button below to raise a support ticket.",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        }]
+
+
                 },
                 {
                     "key": "GST Related",
@@ -258,6 +424,7 @@
         },
         {
             "key": "Subscription",
+            "subHeading": "Get Help regarding subscription",
             "value": [
                 {
                     "key": "Plan Benefits",
@@ -342,4 +509,3 @@
             ]
         }
     ]
-}
