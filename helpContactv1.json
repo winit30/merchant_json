@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "key": "Transactions",
+            "subHeading": "Get Help regarding your recent transactions only in one click on freecharge business app ",
+            "value": [
+                {
+                    "key": "Test Account1",
+                    "value": [
+                        {
+                            "label": "How to change my password",
+                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                            "showContactUs": true
+                        }
+                    ]
+
+                }
+            ]
+        },
+        {
+            "key": "Settlements",
+            "subHeading": "Get Help regarding your recent transactions only in one click on freecharge business app ",
+            "value": [
+                {
+                    "key": "Test Account1",
+                    "value": [
+                        {
+                            "label": "How to change my password",
+                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                            "showContactUs": false
+                        }
+                    ]
+
+                }
+            ]
+        },
+        {
+            "key": "Other Issues",
+            "subHeading": "Get Help regarding your recent transactions only in one click on freecharge business app ",
+            "value": [
+                {
+                    "key": "Test Account1",
+                    "value": [
+                        {
+                            "label": "How to change my password",
+                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                            "showContactUs": false
+                        }
+                    ]
+
+                }
+            ]
+        },
+        {
+            "key": "Subscription",
+            "subHeading": "Get Help regarding your recent transactions only in one click on freecharge business app ",
+            "value": [
+                {
+                    "key": "Test Account1",
+                    "value": [
+                        {
+                            "label": "How to change my password",
+                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                            "showContactUs": false
+                        }
+                    ]
+
+                },
+                {
+                    "key": "Test Account2",
+                    "value": [
+                        {
+                            "label": "How to change my password",
+                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                            "showContactUs": true
+                        }
+                    ]
+
+                }
+            ]
+        }
+    ]
+}
