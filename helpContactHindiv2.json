@@ -52,20 +52,20 @@
             ]
         },
         {
-            "key": "स्टार सदस्यत",
+            "key": "स्टार सदस्यता",
             "subHeading": "Get Help regarding your recent transactions only in one click on freecharge business app ",
             "value": [
                 {
                     "key": "Test Account1",
                     "value": [ 
                         {
-                            "key": "Test Account11",
+                            "key": "Test Account1.1",
                             "value": [
 
                                 {
                                      "label": "How to change my password",
                                      "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
-                                    "showContactUs": false
+                                    "showContactUs": true
                                 }
                              ]   
                         }
