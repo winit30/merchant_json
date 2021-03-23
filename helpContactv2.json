@@ -57,11 +57,17 @@
             "value": [
                 {
                     "key": "Test Account1",
-                    "value": [
+                    "value": [ 
                         {
-                            "label": "How to change my password",
-                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
-                            "showContactUs": false
+                            "key": "Test Account11",
+                            "value": [
+
+                                {
+                                     "label": "How to change my password",
+                                     "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
+                                    "showContactUs": false
+                                }
+                             ]   
                         }
                     ]
 
