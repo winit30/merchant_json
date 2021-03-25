@@ -11,11 +11,6 @@
                             "label": "How to change my password",
                             "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
                             "showContactUs": true
-                        },
-                        {
-                            "label": "How to change my password",
-                            "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
-                            "showContactUs": true
                         }
                     ]
 
@@ -64,13 +59,13 @@
                     "key": "Test Account1",
                     "value": [ 
                         {
-                            "key": "Test Account1.1",
+                            "key": "Test Account11",
                             "value": [
 
                                 {
                                      "label": "How to change my password",
                                      "value": "Please follow the below steps\n\n1. Go to Account from the bottom navigation bar\n2. Now click on reset password.\n3. Post entering your new password click on Save.\nYou would need to re-login into your account with the new password.",
-                                    "showContactUs": true
+                                    "showContactUs": false
                                 }
                              ]   
                         }
@@ -89,6 +84,31 @@
 
                 }
             ]
+        },
+        {
+            "key": "Khata",
+            "subHeading": "Get all the khata related queries clear here",
+            "value": [
+                {
+                    "key": "Khata account",
+                    "value": [
+                        {
+                            "key": "Khata account 2",
+                            "value": [
+                                {
+                                    "label": "How to do khata transaction",
+                                    "value": "Please follow the below steps",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        }
+                    ]
+
+
+                }
+            ]
+
         }
     ]
 }
