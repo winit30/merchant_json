@@ -90,7 +90,7 @@
             "subHeading": "Get all the khata related queries clear here",
             "value": [
                 {
-                    "key": "Khata account",
+                    "key": "Khata account 1",
                     "value": [
                         {
                             "key": "Khata account 2",
@@ -98,6 +98,66 @@
                                 {
                                     "label": "How to do khata transaction",
                                     "value": "Please follow the below steps",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        }
+                    ]
+
+
+                }
+            ]
+
+        },
+        {
+            "key": "Paisa Plus",
+            "subHeading": "Get all the khata related queries clear here",
+            "value": [
+                {
+                    "key": "Paisa account 1",
+                    "value": [
+                        {
+                            "key": "Paisa account 2",
+                            "value": [
+                                {
+                                    "label": "How to do Paisa transaction",
+                                    "value": "Please follow the below steps",
+                                    "showContactUs": true
+                                },
+                                {    
+                                    "label": "What is paisa plus pros",
+                                    "value": "please discuss with shopkeeper",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        }
+                    ]
+
+
+                }
+            ]
+
+        },
+         {
+            "key": "Manage User",
+            "subHeading": "Get all the manage user related queries clear here",
+            "value": [
+                {
+                    "key": "Add user",
+                    "value": [
+                        {
+                            "key": "Permission",
+                            "value": [
+                                {
+                                    "label": "How to do Paisa transaction",
+                                    "value": "Please follow the below steps",
+                                    "showContactUs": true
+                                },
+                                {    
+                                    "label": "What is paisa plus pros",
+                                    "value": "please discuss with shopkeeper",
                                     "showContactUs": true
                                 }
                             ]
