@@ -82,6 +82,32 @@
 
                 }
             ]
+        },
+        {   "key": "खता",
+            "subHeading": "Get all the khata related queries clear here",
+            "value": [
+                {
+                    "key": "Khata account",
+                    "value": [
+                        {
+                            "key": "Khata account 2",
+                            "value":[
+                                {
+                                     "label": "How to do khata transaction",
+                                    "value": "Please follow the below steps",
+                                    "showContactUs": true
+
+                                }
+
+                            ]
+
+                        }
+                    ]
+
+                }
+            ]
+
+
         }
     ]
 }
