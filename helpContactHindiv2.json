@@ -108,7 +108,68 @@
             ]
 
 
+        },
+        {
+            "key": "पायसा प्लस",
+            "subHeading": "Get all the khata related queries clear here",
+            "value": [
+                {
+                    "key": "पायसा प्लस 1",
+                    "value": [
+                        {
+                            "key": "पायसा प्लस 2",
+                            "value": [
+                                {
+                                    "label": "How to do Paisa transaction",
+                                    "value": "Please follow the below steps",
+                                    "showContactUs": true
+                                },
+                                {    
+                                    "label": "What is paisa plus pros",
+                                    "value": "please discuss with shopkeeper",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        }
+                    ]
+
+
+                }
+            ]
+
+        },
+        {
+            "key": "उपयोगकर्ता का प्रबंधन करें",
+            "subHeading": "Get all the manage user related queries clear here",
+            "value": [
+                {
+                    "key": "उपयोगकर्ता जोड़ें",
+                    "value": [
+                        {
+                            "key": "अनुमति",
+                            "value": [
+                                {
+                                    "label": "How to do Paisa transaction",
+                                    "value": "Please follow the below steps",
+                                    "showContactUs": true
+                                },
+                                {    
+                                    "label": "What is paisa plus pros",
+                                    "value": "please discuss with shopkeeper",
+                                    "showContactUs": true
+                                }
+                            ]
+
+                        }
+                    ]
+
+
+                }
+            ]
+
         }
+        
     ]
 }
 
