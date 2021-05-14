@@ -183,7 +183,7 @@
                 {
                     "priority": 4,
                     "popUpType": "Rating",
-                    "show": true
+                    "show": false
                 },
                 {
                     "priority": 3,
