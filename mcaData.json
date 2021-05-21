@@ -1,8 +1,8 @@
 {
     "data": {
         "loanRange": {
-            "minValue": "5000",
-            "maxValue": "1,50,500"
+            "minValue": 5000,
+            "maxValue": 150000
         },
         "rate": 7,
         "days": [
