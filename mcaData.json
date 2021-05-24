@@ -1,15 +1,28 @@
 {
-    "data": {
-        "loanRange": {
-            "minValue": 5000,
-            "maxValue": 150000
-        },
-        "rate": 7,
-        "days": [
-            90,
-            120,
-            180,
-            365
-        ]
-    }
+  "data": {
+    "loanRange": {
+      "minValue": 5000,
+      "maxValue": 150000
+    },
+    "rate": 7,
+    "days": [
+      90,
+      120,
+      180,
+      365
+    ],
+    "non_eligible_list": [
+      {
+        "heading": "QR Code Scanner",
+        "subHeading": "Keep accepting more payment from your customers through your QR."
+      },
+      {
+        "heading": "No of customers",
+        "subHeading": "Add your Repayment details, Khata, Paisa Plus details & upload the bank details"
+      },
+      {
+        "heading": "Number of days with Freecharge"
+      }
+    ]
+  }
 }
