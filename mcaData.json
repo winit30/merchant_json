@@ -21,6 +21,10 @@
         "subHeading": "Add your Repayment details, Khata, Paisa Plus details & upload the bank details"
       },
       {
+        "heading": "No of active days",
+        "subHeading": "Active days"
+      },
+      {
         "heading": "Number of days with Freecharge"
       }
     ]
