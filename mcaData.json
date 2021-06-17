@@ -7,8 +7,8 @@
     "rate": 7,
     "days": [
       90,
-      120,
       180,
+      270,
       365
     ],
     "non_eligible_list": [
