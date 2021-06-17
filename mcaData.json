@@ -13,16 +13,13 @@
     ],
     "non_eligible_list": [
       {
-        "heading": "QR Code Scanner",
-        "subHeading": "Keep accepting more payment from your customers through your QR."
+        "heading": "No of QR txns"
       },
       {
-        "heading": "No of customers",
-        "subHeading": "Add your Repayment details, Khata, Paisa Plus details & upload the bank details"
+        "heading": "No of Unique Customers"
       },
       {
-        "heading": "No of active days",
-        "subHeading": "Active days"
+        "heading": "No of Days consecutively active with Freecharge"
       },
       {
         "heading": "Number of days with Freecharge"
