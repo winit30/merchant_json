@@ -1,7 +1,7 @@
 {
     "data": {
         "loanRange": {
-            "minValue": 5000,
+            "minValue": 0000,
             "maxValue": 150000
         },
         "rate": 7,
