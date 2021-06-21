@@ -26,36 +26,60 @@
             }
         ],
         "loan_home_screen_benefits": {
-            "heading": "LOAN BENEFITS",
+            "heading": {
+                "en": "LOAN BENEFITS",
+                "hi": "LOAN BENEFITS"
+            },
             "list": [
                 {
-                    "title": "Zero Collaterals",
-                    "image":""
+                    "title": {
+                        "en": "Zero Collaterals",
+                        "hi": "Zero Collaterals"
+                    },
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_collaterals.png"
                 },
                 {
-                    "title": "Zero documentation",
-                    "image":""
+                    "title": {
+                        "en": "Zero Collaterals",
+                        "hi": "Zero Collaterals"
+                    },
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
                 },
                 {
-                    "title": "100% Digital",
-                    "image":""
+                    "title": {
+                        "en": "100% Digital",
+                        "hi": "100% Digital"
+                    },
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/digital_icon.png"
                 }
             ]
         },
         "loan_calculator_screen_benefits": {
-            "heading": "LOAN BENEFITS",
+            "heading": {
+                "en": "LOAN BENEFITS",
+                "hi": "LOAN BENEFITS"
+            },
             "list": [
                 {
-                    "title": "Zero Collaterals",
-                    "image":""
+                    "title": {
+                        "en": "Zero Collaterals",
+                        "hi": "Zero Collaterals"
+                    },
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_collaterals.png"
                 },
                 {
-                    "title": "Zero documentation",
-                    "image":""
+                    "title": {
+                        "en": "Zero Collaterals",
+                        "hi": "Zero Collaterals"
+                    },
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
                 },
                 {
-                    "title": "Daily installments",
-                    "image":""
+                    "title": {
+                        "en": "Daily installments",
+                        "hi": "Daily installments"
+                    },
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/daily_installments.png"
                 }
             ]
         }
