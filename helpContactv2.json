@@ -366,7 +366,7 @@
                 },
                 {
                     "label": "What is an EDI?",
-                    "value": "EDI is a daily installment which would be deducted from your Freecharge settlement on a daily basis.",
+                    "value": "a.EDI is a daily installment which would be deducted from your Freecharge settlement on a daily basis.",
                     "showContactUs": false
                 },
                 {
@@ -376,7 +376,7 @@
                 },
                 {
                     "label": "How can I repay my EDI?",
-                    "value": "FC will automatically deduct the EDI from the settlement amount, as a merchant you just need to accept payments from customers on the QR/payment link.",
+                    "value": "a.FC will automatically deduct the EDI from the settlement amount, as a merchant you just need to accept payments from customers on the QR/payment link.",
                     "showContactUs": false
                 },
                 {
