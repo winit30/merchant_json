@@ -1,29 +1,63 @@
 {
-  "data": {
-    "loanRange": {
-      "minValue": 5000,
-      "maxValue": 150000
-    },
-    "rate": 7,
-    "days": [
-      90,
-      180,
-      270,
-      365
-    ],
-    "non_eligible_list": [
-      {
-        "heading": "No of QR txns"
-      },
-      {
-        "heading": "No of Unique Customers"
-      },
-      {
-        "heading": "No of Days consecutively active with Freecharge"
-      },
-      {
-        "heading": "Number of days with Freecharge"
-      }
-    ]
-  }
+    "data": {
+        "loanRange": {
+            "minValue": 5000,
+            "maxValue": 150000
+        },
+        "rate": 7,
+        "days": [
+            90,
+            180,
+            270,
+            365
+        ],
+        "non_eligible_list": [
+            {
+                "heading": "No of QR txns"
+            },
+            {
+                "heading": "No of Unique Customers"
+            },
+            {
+                "heading": "No of Days consecutively active with Freecharge"
+            },
+            {
+                "heading": "Number of days with Freecharge"
+            }
+        ],
+        "loan_home_screen_benefits": {
+            "heading": "LOAN BENEFITS",
+            "list": [
+                {
+                    "title": "Zero Collaterals",
+                    "image":""
+                },
+                {
+                    "title": "Zero documentation",
+                    "image":""
+                },
+                {
+                    "title": "100% Digital",
+                    "image":""
+                }
+            ]
+        },
+        "loan_calculator_screen_benefits": {
+            "heading": "LOAN BENEFITS",
+            "list": [
+                {
+                    "title": "Zero Collaterals",
+                    "image":""
+                },
+                {
+                    "title": "Zero documentation",
+                    "image":""
+                },
+                {
+                    "title": "Daily instalments",
+                    "image":""
+                }
+            ]
+        }
+    }
 }
