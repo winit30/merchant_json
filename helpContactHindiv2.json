@@ -344,6 +344,57 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "Loan",
+            "subHeading": "Get Help regarding your loan",
+            "value": [
+                {
+                    "label": "If eligible what is the amount that I can get?",
+                    "value": "a. Disbursement Amount is at sole discretion of Axis Bank and the same would be mentioned to you in the journey.",
+                    "showContactUs": false
+                },
+                {
+                    "label": "What are the tenures available?",
+                    "value": "a. 3,6,9 and 12 month tenures are available as of now",
+                    "showContactUs": false
+                },
+                {
+                    "label": "If non eligible ,Does completion of the milestone guarantee me a loan?",
+                    "value": "a. Completion of a milestones doesn’t guarantee you a loan.\nb. Loan Disbursement is at the sole discretion of Axis Bank.",
+                    "showContactUs": false
+                },
+                {
+                    "label": "What is an EDI?",
+                    "value": "EDI is a daily installment which would be deducted from your Freecharge settlement on a daily basis.",
+                    "showContactUs": false
+                },
+                {
+                    "label": "Does EDI remain constant throughout the tenure?",
+                    "value": "a. EDI in the first month could be different.\nb. For the remaining months it remains constant",
+                    "showContactUs": false
+                },
+                {
+                    "label": "How can I repay my EDI?",
+                    "value": "FC will automatically deduct the EDI from the settlement amount, as a merchant you just need to accept payments from customers on the QR/payment link.",
+                    "showContactUs": false
+                },
+                {
+                    "label": "What happens if I miss my EDI?",
+                    "value": "a. EDI’s have to paid on time. If not paid a penalty amount can be imposed by Axis Bank on the Current Account.\nb. If you are still not able to payback at the end of each period , Axis bank reserves the right to recover the amount from your current account.",
+                    "showContactUs": false
+                },
+                {
+                    "label": "What is a period?",
+                    "value": "a. Each month is considered as a period.\nb. The maximum EDIs to be paid in a period is 25\nc. If in any period the number of days is less than 25, the EDI would be adjusted accordingly to the number of days left in the period",
+                    "showContactUs": false
+                },
+                {
+                    "label": "How would the amount be credited to my loan account?",
+                    "value": "a. The amount would be transferred to the loan account by Freecharge on a daily basis on the merchants behalf.",
+                    "showContactUs": false
+                }
+            ]
         }
     ]
 }
