@@ -41,15 +41,15 @@
                 },
                 {
                     "title": {
-                        "en": "Zero documentation",
-                        "hi": "Zero documentation"
+                        "en": "Zero documentation LOAN BENEFITS",
+                        "hi": "Zero documentation LOAN BENEFITS"
                     },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
                 },
                 {
                     "title": {
-                        "en": "100% Digital",
-                        "hi": "100% Digital"
+                        "en": "100% Digital LOAN BENEFITS",
+                        "hi": "100% Digital LOAN BENEFITS"
                     },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/digital_icon.png"
                 }
@@ -57,21 +57,21 @@
         },
         "loan_calculator_screen_benefits": {
             "heading": {
-                "en": "LOAN BENEFITS",
-                "hi": "LOAN BENEFITS"
+                "en": "LOAN BENEFITS LOAN BENEFITS LOAN BENEFITS",
+                "hi": "LOAN BENEFITS LOAN BENEFITS LOAN BENEFITS"
             },
             "list": [
                 {
                     "title": {
-                        "en": "Zero Collaterals",
-                        "hi": "Zero Collaterals"
+                        "en": "Zero Collaterals LOAN BENEFITS",
+                        "hi": "Zero Collaterals LOAN BENEFITS"
                     },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_collaterals.png"
                 },
                 {
                     "title": {
-                        "en": "Zero documentation",
-                        "hi": "Zero documentation"
+                        "en": "Zero documentation LOAN BENEFITS",
+                        "hi": "Zero documentation LOAN BENEFITS"
                     },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
                 },
