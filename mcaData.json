@@ -64,21 +64,21 @@
         },
         "loan_calculator_screen_benefits": {
             "heading": {
-                "en": "LOAN BENEFITS LOAN BENEFITS LOAN BENEFITS",
-                "hi": "LOAN BENEFITS LOAN BENEFITS LOAN BENEFITS"
+                "en": "LOAN BENEFITS",
+                "hi": "LOAN BENEFITS"
             },
             "list": [
                 {
                     "title": {
-                        "en": "Zero Collaterals LOAN BENEFITS",
-                        "hi": "Zero Collaterals LOAN BENEFITS"
+                        "en": "Zero Collaterals",
+                        "hi": "Zero Collaterals"
                     },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_collaterals.png"
                 },
                 {
                     "title": {
-                        "en": "Zero documentation LOAN BENEFITS",
-                        "hi": "Zero documentation LOAN BENEFITS"
+                        "en": "Zero documentation",
+                        "hi": "Zero documentation"
                     },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
                 },
