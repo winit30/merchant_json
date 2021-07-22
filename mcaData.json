@@ -7,10 +7,22 @@
         },
         "rate": 7,
         "days": [
-            90,
-            180,
-            270,
-            365
+            {
+                "month": "2 Months",
+                "value": 60
+            },
+             {
+                "month": "4 Months",
+                "value": 120
+            },
+             {
+                "month": "6 Months",
+                "value": 180
+            },
+             {
+                "month": "12 Months",
+                "value": 365
+            }
         ],
         "non_eligible_list": [
             {
