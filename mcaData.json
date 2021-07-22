@@ -9,19 +9,19 @@
         "days": [
             {
                 "month": "2 Months",
-                "value": 90
+                "value": 60
             },
              {
                 "month": "4 Months",
-                "value": 120
+                "value": 121
             },
              {
                 "month": "6 Months",
-                "value": 180
+                "value": 182
             },
              {
                 "month": "12 Months",
-                "value": 360
+                "value": 365
             }
         ],
         "non_eligible_list": [
