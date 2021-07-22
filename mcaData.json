@@ -41,15 +41,22 @@
                 },
                 {
                     "title": {
-                        "en": "Zero documentation LOAN BENEFITS",
-                        "hi": "Zero documentation LOAN BENEFITS"
+                        "en": "Zero documentation",
+                        "hi": "Zero documentation"
                     },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
                 },
                 {
                     "title": {
-                        "en": "100% Digital LOAN BENEFITS",
-                        "hi": "100% Digital LOAN BENEFITS"
+                        "en": "100% Digital",
+                        "hi": "100% Digital"
+                    },
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/digital_icon.png"
+                },
+                {
+                    "title": {
+                        "en": "Zero Balance Current Account",
+                        "hi": "Zero Balance Current Account"
                     },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/digital_icon.png"
                 }
