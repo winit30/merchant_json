@@ -49,7 +49,10 @@
                         "en": "Zero Collaterals",
                         "hi": "Zero Collaterals"
                     },
-                    "description": "Completely paperless. Every transaction done digitally.",
+                    "description": {
+                        "en": "Completely paperless. Every transaction done digitally.",
+                        "hi": "Completely paperless. Every transaction done digitally."
+                    },
                     "color": "#dee2f0",
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_collaterals.png"
                 },
@@ -59,7 +62,10 @@
                         "hi": "Zero documentation"
                     },
                     "color": "#f1e3dd",
-                    "description": "Completely paperless. Every transaction done digitally.",
+                    "description": {
+                        "en": "Completely paperless. Every transaction done digitally.",
+                        "hi": "Completely paperless. Every transaction done digitally."
+                    },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
                 },
                 {
@@ -68,7 +74,10 @@
                         "hi": "100% Digital"
                     },
                     "color": "#dee2f0",
-                    "description": "Completely paperless. Every transaction done digitally.",
+                    "description": {
+                        "en": "Completely paperless. Every transaction done digitally.",
+                        "hi": "Completely paperless. Every transaction done digitally."
+                    },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/digital_icon.png"
                 },
                 {
@@ -77,7 +86,10 @@
                         "hi": "Zero Balance Current Account"
                     },
                     "color": "#cff0f6",
-                    "description": "Completely paperless. Every transaction done digitally.",
+                    "description": {
+                        "en": "Completely paperless. Every transaction done digitally.",
+                        "hi": "Completely paperless. Every transaction done digitally."
+                    },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/digital_icon.png"
                 }
             ]
@@ -94,7 +106,10 @@
                         "hi": "Zero Collaterals"
                     },
                     "color": "#dee2f0",
-                    "description": "Completely paperless. Every transaction done digitally.",
+                    "description": {
+                        "en": "Completely paperless. Every transaction done digitally.",
+                        "hi": "Completely paperless. Every transaction done digitally."
+                    },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_collaterals.png"
                 },
                 {
@@ -103,7 +118,10 @@
                         "hi": "Zero documentation"
                     },
                     "color": "#dee2f0",
-                    "description": "Completely paperless. Every transaction done digitally.",
+                    "description": {
+                        "en": "Completely paperless. Every transaction done digitally.",
+                        "hi": "Completely paperless. Every transaction done digitally."
+                    },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
                 },
                 {
@@ -112,7 +130,10 @@
                         "hi": "Daily installments"
                     },
                     "color": "#dee2f0",
-                    "description": "Completely paperless. Every transaction done digitally.",
+                    "description": {
+                        "en": "Completely paperless. Every transaction done digitally.",
+                        "hi": "Completely paperless. Every transaction done digitally."
+                    },
                     "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/daily_installments.png"
                 }
             ]
