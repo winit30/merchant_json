@@ -11,15 +11,15 @@
                 "month": "3",
                 "value": 75
             },
-             {
+            {
                 "month": "6",
                 "value": 150
             },
-             {
+            {
                 "month": "9",
                 "value": 225
             },
-             {
+            {
                 "month": "12",
                 "value": 300
             }
@@ -29,14 +29,14 @@
                 "heading": "Collect more payments from Customers"
             },
             {
-                "heading": "Collect payments from many Customers",
+                "heading": "Collect payments from many Customers"
             },
             {
                 "heading": "Collect payments over multiple days"
             },
             {
                 "heading": "Be active on Freecharge for a long time"
-            }  
+            }
         ],
         "loan_home_screen_benefits": {
             "heading": {
