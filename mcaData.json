@@ -8,19 +8,19 @@
         "rate": 7,
         "days": [
             {
-                "month": "2 Months",
-                "value": 50
+                "month": "3",
+                "value": 75
             },
              {
-                "month": "4 Months",
-                "value": 100
-            },
-             {
-                "month": "6 Months",
+                "month": "6",
                 "value": 150
             },
              {
-                "month": "12 Months",
+                "month": "9",
+                "value": 225
+            },
+             {
+                "month": "12",
                 "value": 300
             }
         ],
@@ -41,7 +41,7 @@
         "loan_home_screen_benefits": {
             "heading": {
                 "en": "LOAN BENEFITS",
-                "hi": "LOAN BENEFITS"
+                "hi": "लोन बेनिफिट्स"
             },
             "list": [
                 {
@@ -97,7 +97,7 @@
         "loan_calculator_screen_benefits": {
             "heading": {
                 "en": "LOAN BENEFITS",
-                "hi": "LOAN BENEFITS"
+                "hi": "लोन बेनिफिट्स"
             },
             "list": [
                 {
