@@ -25,30 +25,22 @@
             }
         ],
         "non_eligible_list": [
-             {
-                "heading": {
-                    "en": "Collect more payments from Customers",
-                    "hi": "ग्राहकों से अधिक भुगतान एकत्र करें"
-                }
+            "heading": {
+                "en": "Collect more payments from Customers",
+                "hi": "ग्राहकों से अधिक भुगतान एकत्र करें"
             },
-            {
-                "heading": {
-                    "en": "Collect payments from many Customers",
-                    "hi": "कई ग्राहकों से भुगतान लीजिए"
-                }
+            "heading": {
+                "en": "Collect payments from many Customers",
+                "hi": "कई ग्राहकों से भुगतान लीजिए"
             },
-            {
-                "heading": {
-                    "en": "Collect payments over multiple days",
-                    "hi": "कई दिनों में भुगतान एकत्र करें"
-                }
+            "heading": {
+                "en": "Collect payments over multiple days",
+                "hi": "कई दिनों में भुगतान एकत्र करें"
             },
-            {
-                "heading": {
-                    "en": "Be active on Freecharge for a long time",
-                    "hi": "लंबे समय तक फ्रीचार्ज पर सक्रिय रहें"
-                }
-            }  
+            "heading": {
+                "en": "Be active on Freecharge for a long time",
+                "hi": "लंबे समय तक फ्रीचार्ज पर सक्रिय रहें"
+            }
         ],
         "loan_home_screen_benefits": {
             "heading": {
