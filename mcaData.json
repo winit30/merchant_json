@@ -58,51 +58,51 @@
             "list": [
                 {
                     "title": {
-                        "en": "Zero Collaterals",
-                        "hi": "Zero Collaterals"
+                        "en": "0 Balance Current Account",
+                        "hi": "0 बैलेंस  चालू खाता"
                     },
                     "description": {
-                        "en": "Completely paperless. Every transaction done digitally.",
-                        "hi": "Completely paperless. Every transaction done digitally."
+                        "en": "Exclusive Account with no minimum balance requirement",
+                        "hi": "बिना किसी न्यूनतम शेष राशि के एक्सक्लूसिव खाता"
                     },
-                    "color": "#dee2f0",
-                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_collaterals.png"
+                    "color": "#f9d1d7",
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/mca/lending_zero_balance.png"
                 },
                 {
                     "title": {
-                        "en": "Zero documentation",
-                        "hi": "Zero documentation"
+                        "en": "Automatic Daily Repayments",
+                        "hi": "ऑटोमैटिक दैनिक भुगतान"
                     },
-                    "color": "#f1e3dd",
+                    "color": "#cef0ed",
                     "description": {
-                        "en": "Completely paperless. Every transaction done digitally.",
-                        "hi": "Completely paperless. Every transaction done digitally."
+                        "en": "25 Installments in a month on days of your choice from Settlements",
+                        "hi": "सेट्लमेंट्स से अपनी पसंद के दिनों में एक महीने में 25 किश्तें"
                     },
-                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/mca/daily_repayments.png"
                 },
                 {
                     "title": {
-                        "en": "100% Digital",
-                        "hi": "100% Digital"
+                        "en": "Low Interest Rates",
+                        "hi": "कम ब्याज दर"
                     },
-                    "color": "#dee2f0",
+                    "color": "#ffedd0",
                     "description": {
-                        "en": "Completely paperless. Every transaction done digitally.",
-                        "hi": "Completely paperless. Every transaction done digitally."
+                        "en": "Low Interest Rates starting as low as 1.02% per month",
+                        "hi": "कम ब्याज दरें 1.02% प्रति माह के रूप में शुरू हो रही हैं"
                     },
-                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/digital_icon.png"
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/mca/lending_low_interest_rate.png"
                 },
                 {
                     "title": {
-                        "en": "Zero Balance Current Account",
-                        "hi": "Zero Balance Current Account"
+                        "en": "Trust of Axis Bank",
+                        "hi": "एक्सिस बैंक का ट्रस्ट"
                     },
-                    "color": "#cff0f6",
+                    "color": "#e7eafd",
                     "description": {
-                        "en": "Completely paperless. Every transaction done digitally.",
-                        "hi": "Completely paperless. Every transaction done digitally."
+                        "en": "Trusted Bank with 300+ Loan centres across India for support",
+                        "hi": "सपोर्ट  के लिए पूरे भारत में 300+ लोन केंद्रों के साथ विश्वसनीय बैंक"
                     },
-                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/digital_icon.png"
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/mca/lending_trust_of_axis.png"
                 }
             ]
         },
@@ -114,39 +114,51 @@
             "list": [
                 {
                     "title": {
-                        "en": "Zero Collaterals",
-                        "hi": "Zero Collaterals"
+                        "en": "0 Balance Current Account",
+                        "hi": "0 बैलेंस  चालू खाता"
                     },
-                    "color": "#dee2f0",
                     "description": {
-                        "en": "Completely paperless. Every transaction done digitally.",
-                        "hi": "Completely paperless. Every transaction done digitally."
+                        "en": "Exclusive Account with no minimum balance requirement",
+                        "hi": "बिना किसी न्यूनतम शेष राशि के एक्सक्लूसिव खाता"
                     },
-                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_collaterals.png"
+                    "color": "#f9d1d7",
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/mca/lending_zero_balance.png"
                 },
                 {
                     "title": {
-                        "en": "Zero documentation",
-                        "hi": "Zero documentation"
+                        "en": "Automatic Daily Repayments",
+                        "hi": "ऑटोमैटिक दैनिक भुगतान"
                     },
-                    "color": "#dee2f0",
+                    "color": "#cef0ed",
                     "description": {
-                        "en": "Completely paperless. Every transaction done digitally.",
-                        "hi": "Completely paperless. Every transaction done digitally."
+                        "en": "25 Installments in a month on days of your choice from Settlements",
+                        "hi": "सेट्लमेंट्स से अपनी पसंद के दिनों में एक महीने में 25 किश्तें"
                     },
-                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/zero_document.png"
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/mca/daily_repayments.png"
                 },
                 {
                     "title": {
-                        "en": "Daily installments",
-                        "hi": "Daily installments"
+                        "en": "Low Interest Rates",
+                        "hi": "कम ब्याज दर"
                     },
-                    "color": "#dee2f0",
+                    "color": "#ffedd0",
                     "description": {
-                        "en": "Completely paperless. Every transaction done digitally.",
-                        "hi": "Completely paperless. Every transaction done digitally."
+                        "en": "Low Interest Rates starting as low as 1.02% per month",
+                        "hi": "कम ब्याज दरें 1.02% प्रति माह के रूप में शुरू हो रही हैं"
                     },
-                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/icons/daily_installments.png"
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/mca/lending_low_interest_rate.png"
+                },
+                {
+                    "title": {
+                        "en": "Trust of Axis Bank",
+                        "hi": "एक्सिस बैंक का ट्रस्ट"
+                    },
+                    "color": "#e7eafd",
+                    "description": {
+                        "en": "Trusted Bank with 300+ Loan centres across India for support",
+                        "hi": "सपोर्ट  के लिए पूरे भारत में 300+ लोन केंद्रों के साथ विश्वसनीय बैंक"
+                    },
+                    "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/mca/lending_trust_of_axis.png"
                 }
             ]
         }
