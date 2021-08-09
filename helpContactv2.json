@@ -352,7 +352,7 @@
                 {
                     "label": "If eligible what is the amount that I can get?",
                     "value": "a. Disbursement Amount is at sole discretion of Axis Bank and the same would be mentioned to you in the journey.",
-                    "showContactUs": true
+                    "showContactUs": false
                 },
                 {
                     "label": "What are the tenures available?",
