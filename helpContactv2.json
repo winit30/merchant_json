@@ -350,49 +350,134 @@
             "subHeading": "Get Help regarding your loan",
             "value": [
                 {
-                    "label": "If eligible what is the amount that I can get?",
-                    "value": "a. Disbursement Amount is at sole discretion of Axis Bank and the same would be mentioned to you in the journey.",
-                    "showContactUs": false
+                    "key": "Loan Details & Eligibility",
+                    "value": [
+                        {
+                            "label": "What is a Business Loan?",
+                            "value": "Business Loan is service offered by Freecharge in partnership with Axis Bank to help merchants grow their Business.\n\nThis can be used for renovation, inventory purchase or business expansion.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "How will I know if I am eligible?",
+                            "value": "Tap on Loan Icon on Home Screen to check if you are eligible or not. If you are eligible, you will be prompted to Apply for Loan. Actual Loan eligibility will be decided y our partner Axis Bank.\n\nAlternartively, our Agents may reach out to you or you will receive notificaitons through SMS/Email or Push Notifications.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "How can I become eligible for Loan?",
+                            "value": "In general, if you spend good amount of time with Freecharge Business, transact frequently and accept payments from many customers, then you will be become eligible for Loan.\n\nHowever, these are not the only criterion. Axis Bank will determine your eligibility basis credit score, outstanding dues & repayment history etc.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Who is providing the loan?",
+                            "value": "Freecharge has partnered with Axis Bank to offer you this service so that it is easy for you to take loan, grow your business with easy repayments through Settlements.",
+                            "showContactUs": true
+                        }
+                    ]
                 },
                 {
-                    "label": "What are the tenures available?",
-                    "value": "a. 3,6,9 and 12 month tenures are available as of now",
-                    "showContactUs": false
+                    "key": "Loan Applicaton",
+                    "value": [
+                        {
+                            "label": "What documents are required for the loan?",
+                            "value": "Freecharge loan is completely paperless with Zero physical documentation required. Our Partner, Axis Bank has completely digital application process. This process will involve Aadhaar verificaiton & Video KYC with personnel of the Bank.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What will be the interest rate charged?",
+                            "value": "Loan Offer made will be different for each merchant. You will be shown all details along with Loan Offer during the application process.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What will be the loan amount and tenure?",
+                            "value": "Loan Amount & Tenure offered will be as per Axis Bank's evalauation of your creditworthiness and volume of transaction processed on Freecharge.\n\nTypical tenures offered are 3, 6, 9 & 12 months. Loans upto 5 Lakh can be offered to you.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What gaurantee/collateral do I have to keep for the loan?",
+                            "value": "This is a zero collateral loan and no collateral will be demanded for processing the loan.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Are there any additional charges for processing the loan?",
+                            "value": "Processing Fee will be charged. Axis Bank will show Processing Fee in the Loan details while making you an offer.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "I have completed my application. When will I receive the loan?",
+                            "value": "After you complete your application on the app, Axis Bank (our partner) will disburse the loan into your account within 7 working days if approved.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What is the status of my loan application?",
+                            "value": "You can check your loan application status by visiting the Loan section on the App. If a Loan is disbursed, then Loan information will be shown on App.\n\nRepayment history will be shown along with summary of loan.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "My current account has been opened but I was not offered a loan.",
+                            "value": "If you were not offered a loan and you chose to open 0 Balance Current Account with Axis Bank, then you can start using Current Account.\n\nPlease continue to transact via Freecharge & use Current Account regularly to become eligible for Loan in future.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Where will the loan amount be credited?",
+                            "value": "When you complete the application, Axis Bank will open a 0 balance current account. Loan Amount will be dibursed in the current account.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Who is the lender providing the loan?",
+                            "value": "The lender for the loan is Axis Bank. Axis Bank is a trusted partner with support provided to you at your closest Loan Center.",
+                            "showContactUs": true
+                        }
+                    ]
                 },
                 {
-                    "label": "If non eligible ,Does completion of the milestone guarantee me a loan?",
-                    "value": "a. Completion of a milestones doesn’t guarantee you a loan.\nb. Loan Disbursement is at the sole discretion of Axis Bank.",
-                    "showContactUs": false
+                    "key": "Loan Repayments",
+                    "value": [
+                        {
+                            "label": "How will I repay the loan?",
+                            "value": "We will deduct daily installment amount from your Settlements on a daily basis. Any extra payments you have collected from Customers will be settled.\n\nJust keep collecting/accepting payments from Customers through QR/Payment Link & we take care of your repayments automatically.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What happens if daily instalment payment is missed on the loan?",
+                            "value": "We will deduct whatever amount is available from ypur collections for the day. Unpaid Installment Amount will be accumulated and we will attempt deducting this from future settlements.\n\nIt is recommended that you transact daily so that you don't miss paying back for the loan. Good repayment history will allow our partner to make more loan offers to you in Future.",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What happens if I stop transacting through Freecharge QR with an active loan?",
+                            "value": "A lien will be marked on your current account and the pending amount will be recovered from your current account.\n\nAxis Bank may charge Penalty Fees & take required action needed to collect any dues. For more details, you may contact Axis Bank at <>",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Where can I view the daily installments deducted for my loan?",
+                            "value": "You can view Loan Summary & repayment history on App. Tap on Loan Icon on App to acces this.\n\nYou can alternatively check your Loan Account from Axis Bank App or Website. You will see EMIs in Loan Account statements",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "What happens when I complete my repayment?",
+                            "value": "Axis Bank will close the Loan at thier end and provide any No Dues certificate as per thier policy.\n\nAt Freecharge, we will stop repayments. You will start receiving your full settlements.",
+                            "showContactUs": true
+                        }
+                    ]
                 },
                 {
-                    "label": "What is an EDI?",
-                    "value": "a.EDI is a daily installment which would be deducted from your Freecharge settlement on a daily basis.",
-                    "showContactUs": false
-                },
-                {
-                    "label": "Does EDI remain constant throughout the tenure?",
-                    "value": "a. EDI in the first month could be different.\nb. For the remaining months it remains constant",
-                    "showContactUs": false
-                },
-                {
-                    "label": "How can I repay my EDI?",
-                    "value": "a.FC will automatically deduct the EDI from the settlement amount, as a merchant you just need to accept payments from customers on the QR/payment link.",
-                    "showContactUs": false
-                },
-                {
-                    "label": "What happens if I miss my EDI?",
-                    "value": "a. EDI’s have to paid on time. If not paid a penalty amount can be imposed by Axis Bank on the Current Account.\nb. If you are still not able to payback at the end of each period , Axis bank reserves the right to recover the amount from your current account.",
-                    "showContactUs": false
-                },
-                {
-                    "label": "What is a period?",
-                    "value": "a. Each month is considered as a period.\nb. The maximum EDIs to be paid in a period is 25\nc. If in any period the number of days is less than 25, the EDI would be adjusted accordingly to the number of days left in the period",
-                    "showContactUs": false
-                },
-                {
-                    "label": "How would the amount be credited to my loan account?",
-                    "value": "a. The amount would be transferred to the loan account by Freecharge on a daily basis on the merchants behalf.",
-                    "showContactUs": false
+                    "key": "Loan Closure & Miscellaneous",
+                    "value": [
+                        {
+                            "label": "How can I close the Loan?",
+                            "value": "If you want to pre-close your loan, you will have contact Axis Bank directly. You may reach out to nearest loan center & get the required support.\n\nAlternatively, you may contact Axis Bank at <> and <>",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Axis Bank Support - Call",
+                            "value": "You can contact Axis Bank on Call at <> for any queries you may have with respect to the loan",
+                            "showContactUs": true
+                        },
+                        {
+                            "label": "Axis Bank Support - Email",
+                            "value": "You can contact Axis Bank on email at <> for any queries you may have with respect to the loan",
+                            "showContactUs": true
+                        }
+                    ]
                 }
             ]
         }
