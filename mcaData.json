@@ -5,7 +5,7 @@
             "maxValue": 150000,
             "defaultValue": 50000
         },
-        "rate": 7,
+        "rate": 24,
         "days": [
             {
                 "month": "3",
