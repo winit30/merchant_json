@@ -444,7 +444,7 @@
                         },
                         {
                             "label": "What happens if I stop transacting through Freecharge QR with an active loan?",
-                            "value": "A lien will be marked on your current account and the pending amount will be recovered from your current account.\n\nAxis Bank may charge Penalty Fees & take required action needed to collect any dues. For more details, you may contact Axis Bank at <>",
+                            "value": "A lien will be marked on your current account and the pending amount will be recovered from your current account.\n\nAxis Bank may charge Penalty Fees & take required action needed to collect any dues. For more details, you may contact Axis Bank at 1800 419 5577",
                             "showContactUs": true
                         },
                         {
@@ -464,17 +464,17 @@
                     "value": [
                         {
                             "label": "How can I close the Loan?",
-                            "value": "If you want to pre-close your loan, you will have contact Axis Bank directly. You may reach out to nearest loan center & get the required support.\n\nAlternatively, you may contact Axis Bank at <> and <>",
+                            "value": "If you want to pre-close your loan, you will have contact Axis Bank directly. You may reach out to nearest loan center & get the required support.\n\nAlternatively, you may contact Axis Bank at 1800 419 5577",
                             "showContactUs": true
                         },
                         {
                             "label": "Axis Bank Support - Call",
-                            "value": "You can contact Axis Bank on Call at <> for any queries you may have with respect to the loan",
+                            "value": "You can contact Axis Bank on Call at 1800 419 5577 for any queries you may have with respect to the loan.",
                             "showContactUs": true
                         },
                         {
                             "label": "Axis Bank Support - Email",
-                            "value": "You can contact Axis Bank on email at <> for any queries you may have with respect to the loan",
+                            "value": "As Email is not convenient, your are advised to connect Axis Bank via toll free number - 1800 419 5577. Alternatively, you can visit Axis Bank branch to get more info regarding your queries.",
                             "showContactUs": true
                         }
                     ]
