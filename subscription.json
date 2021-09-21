@@ -16,7 +16,7 @@
                 },
                 "benefiltsList": [
                     {
-                        "image": "",
+                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_qr.png",
                         "header": {
                             "en": "QR Replacements",
                             "hi": "QR Replacements"
@@ -28,7 +28,7 @@
                         "benefits": "200"
                     },
                     {
-                        "image": "",
+                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_credit_charge.png",
                         "header": {
                             "en": "Credit Card Charges",
                             "hi": "Credit Card Charges"
@@ -40,7 +40,7 @@
                         "benefits": "8000"
                     },
                     {
-                        "image": "",
+                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_milestone.png",
                         "header": {
                             "en": "Milestone rewards",
                             "hi": "Milestone rewards"
@@ -52,7 +52,7 @@
                         "benefits": "880"
                     },
                     {
-                        "image": "",
+                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_instant_settlement.png",
                         "header": {
                             "en": "Instant settlements",
                             "hi": "Instant settlements"
@@ -64,7 +64,7 @@
                         "benefits": "675"
                     },
                     {
-                        "image": "",
+                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_hospicash.png",
                         "header": {
                             "en": "Hospicash Insurance",
                             "hi": "Hospicash Insurance"
@@ -76,7 +76,7 @@
                         "benefits": "250"
                     },
                     {
-                        "image": "",
+                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_lifeinsurance.png",
                         "header": {
                             "en": "Life Insurance",
                             "hi": "Life Insurance"
