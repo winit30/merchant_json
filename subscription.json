@@ -1,206 +1,258 @@
 {
-    "data": {
-        "benefits": {
-            "heading:": {
-                "en": "Avail exclusive benefits worth ₹10,000 with an annual subscription of ₹799",
-                "hi": "Avail exclusive benefits worth ₹10,000 with an annual subscription of ₹799"
-            },
-            "benefitFeatures": {
-                "benefitFeatureHeading": {
-                    "en": "Benefits of",
-                    "hi": "Benefits of"
-                },
-                "benefitFeatureCostHeading": {
-                    "en": "Benefits Worth",
-                    "hi": "Benefits Worth"
-                },
-                "benefiltsList": [
-                    {
-                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_qr.png",
-                        "header": {
-                            "en": "QR Replacements",
-                            "hi": "QR Replacements"
-                        },
-                        "subheader": {
-                            "en": "Get free QR replacement",
-                            "hi": "Get free QR replacement"
-                        },
-                        "benefits": "200"
-                    },
-                    {
-                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_credit_charge.png",
-                        "header": {
-                            "en": "Credit Card Charges",
-                            "hi": "Credit Card Charges"
-                        },
-                        "subheader": {
-                            "en": "Reduced Credit Card Charge Rates",
-                            "hi": "Reduced Credit Card Charge Rates"
-                        },
-                        "benefits": "8000"
-                    },
-                    {
-                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_milestone.png",
-                        "header": {
-                            "en": "Milestone rewards",
-                            "hi": "Milestone rewards"
-                        },
-                        "subheader": {
-                            "en": "Rewards every time you hit a transaction milestone",
-                            "hi": "Rewards every time you hit a transaction milestone"
-                        },
-                        "benefits": "880"
-                    },
-                    {
-                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_instant_settlement.png",
-                        "header": {
-                            "en": "Instant settlements",
-                            "hi": "Instant settlements"
-                        },
-                        "subheader": {
-                            "en": "No more fees for getting instant settlements.",
-                            "hi": "No more fees for getting instant settlements."
-                        },
-                        "benefits": "675"
-                    },
-                    {
-                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_hospicash.png",
-                        "header": {
-                            "en": "Hospicash Insurance",
-                            "hi": "Hospicash Insurance"
-                        },
-                        "subheader": {
-                            "en": "Get hospital insurance",
-                            "hi": "Get hospital insurance"
-                        },
-                        "benefits": "250"
-                    },
-                    {
-                        "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_lifeinsurance.png",
-                        "header": {
-                            "en": "Life Insurance",
-                            "hi": "Life Insurance"
-                        },
-                        "subheader": {
-                            "en": "Get life insurance",
-                            "hi": "Get life insurance"
-                        },
-                        "benefits": "175"
-                    }
-                ]
-            }
+  "data": {
+    "benefits": {
+      "heading:": {
+        "en": "Avail exclusive benefits worth ₹10,000 with an annual subscription of ₹799",
+        "hi": "Avail exclusive benefits worth ₹10,000 with an annual subscription of ₹799"
+      },
+      "benefitFeatures": {
+        "benefitFeatureHeading": {
+          "en": "Benefits of",
+          "hi": "Benefits of"
         },
-        "rewardsList": {
-            "heading": {
-                "en": "₹799 Annual plan cash rewards",
-                "hi": "₹799 Annual plan cash rewards"
+        "benefitFeatureCostHeading": {
+          "en": "Benefits Worth",
+          "hi": "Benefits Worth"
+        },
+        "benefiltsList": [
+          {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_qr.png",
+            "header": {
+              "en": "QR Replacements",
+              "hi": "QR Replacements"
             },
-            "rewards": {
-                "rewardsHeading": {
-                    "en": "Total  Payments",
-                    "hi": "Total  Payments"
-                },
-                "rewardsPriceHeading": {
-                    "en": "Rewards",
-                    "hi": "Rewards"
-                },
-                "rewardsList": [
-                    {
-                        "totalPayment": "0",
-                        "rewardMoney": "",
-                        "rewardCustomer": "",
-                        "pendingPayments": "0",
-                        "heading": {
-                            "en": "You are here",
-                            "hi": "You are here"
-                        }
-                    },
-                    {
-                        "totalPayment": "10",
-                        "rewardMoney": "10",
-                        "rewardCustomer": {
-                            "en": "5 New customers",
-                            "hi": "5 New customers"
-                        },
-                        "pendingPayments": {
-                            "en": "10 payments",
-                            "hi": "10 payments"
-                        }
-                    },
-                    {
-                        "totalPayment": "50",
-                        "rewardMoney": "20",
-                        "rewardCustomer": {
-                            "en": "25 New customers",
-                            "hi": "25 New customers"
-                        },
-                        "pendingPayments": {
-                            "en": "40 payments",
-                            "hi": "40 payments"
-                        }
-                    },
-                    {
-                        "totalPayment": "250",
-                        "rewardMoney": "50",
-                        "rewardCustomer": {
-                            "en": "100 New customers",
-                            "hi": "100 New customers"
-                        },
-                        "pendingPayments": {
-                            "en": "200 payments",
-                            "hi": "200 payments"
-                        }
-                    },
-                    {
-                        "totalPayment": "750",
-                        "rewardMoney": "100",
-                        "rewardCustomer": {
-                            "en": "250 New customers",
-                            "hi": "250 New customers"
-                        },
-                        "pendingPayments": {
-                            "en": "500 payments",
-                            "hi": "500 payments"
-                        }
-                    },
-                    {
-                        "totalPayment": "1750",
-                        "rewardMoney": "200",
-                        "rewardCustomer": {
-                            "en": "500 New customers",
-                            "hi": "500 New customers"
-                        },
-                        "pendingPayments": {
-                            "en": "1000 payments",
-                            "hi": "1000 payments"
-                        }
-                    },
-                    {
-                        "totalPayment": "4750",
-                        "rewardMoney": "500",
-                        "rewardCustomer": {
-                            "en": "1500 New customers",
-                            "hi": "1500 New customers"
-                        },
-                        "pendingPayments": {
-                            "en": "3000 payments",
-                            "hi": "3000 payments"
-                        }
-                    }
-                ],
-                "rewardsMessage": {
-                    "en": {
-                        "rewardsMessage1": "You will earn between",
-                        "rewardsMessage2": "₹5 - ₹250",
-                        "rewardsMessage3": "for every next 300 transactions with 100 customers post 5000 transactions"
-                    },
-                    "hi": {
-                        "rewardsMessage1": "You will earn between",
-                        "rewardsMessage2": "₹5 - ₹250",
-                        "rewardsMessage3": "for every next 300 transactions with 100 customers post 5000 transactions"
-                    }
-                }
+            "subheader": {
+              "en": "Get free QR replacement",
+              "hi": "Get free QR replacement"
+            },
+            "benefits": "200"
+          },
+          {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_credit_charge.png",
+            "header": {
+              "en": "Credit Card Charges",
+              "hi": "Credit Card Charges"
+            },
+            "subheader": {
+              "en": "Reduced Credit Card Charge Rates",
+              "hi": "Reduced Credit Card Charge Rates"
+            },
+            "benefits": "8000"
+          },
+          {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_milestone.png",
+            "header": {
+              "en": "Milestone rewards",
+              "hi": "Milestone rewards"
+            },
+            "subheader": {
+              "en": "Rewards every time you hit a transaction milestone",
+              "hi": "Rewards every time you hit a transaction milestone"
+            },
+            "benefits": "880"
+          },
+          {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_instant_settlement.png",
+            "header": {
+              "en": "Instant settlements",
+              "hi": "Instant settlements"
+            },
+            "subheader": {
+              "en": "No more fees for getting instant settlements.",
+              "hi": "No more fees for getting instant settlements."
+            },
+            "benefits": "675"
+          },
+          {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_hospicash.png",
+            "header": {
+              "en": "Hospicash Insurance",
+              "hi": "Hospicash Insurance"
+            },
+            "subheader": {
+              "en": "Get hospital insurance",
+              "hi": "Get hospital insurance"
+            },
+            "benefits": "250"
+          },
+          {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_lifeinsurance.png",
+            "header": {
+              "en": "Life Insurance",
+              "hi": "Life Insurance"
+            },
+            "subheader": {
+              "en": "Get life insurance",
+              "hi": "Get life insurance"
+            },
+            "benefits": "175"
+          }
+        ]
+      }
+    },
+    "rewardsList": {
+      "heading": {
+        "en": "₹799 Annual plan cash rewards",
+        "hi": "₹799 Annual plan cash rewards"
+      },
+      "rewards": {
+        "rewardsHeading": {
+          "en": "Total  Payments",
+          "hi": "Total  Payments"
+        },
+        "rewardsPriceHeading": {
+          "en": "Rewards",
+          "hi": "Rewards"
+        },
+        "rewardsList": [
+          {
+            "totalPayment": "0",
+            "rewardMoney": "",
+            "rewardCustomer": "",
+            "pendingPayments": "0",
+            "heading": {
+              "en": "You are here",
+              "hi": "You are here"
             }
+          },
+          {
+            "totalPayment": "10",
+            "rewardMoney": "10",
+            "rewardCustomer": {
+              "en": "5 New customers",
+              "hi": "5 New customers"
+            },
+            "pendingPayments": {
+              "en": "10 payments",
+              "hi": "10 payments"
+            }
+          },
+          {
+            "totalPayment": "50",
+            "rewardMoney": "20",
+            "rewardCustomer": {
+              "en": "25 New customers",
+              "hi": "25 New customers"
+            },
+            "pendingPayments": {
+              "en": "40 payments",
+              "hi": "40 payments"
+            }
+          },
+          {
+            "totalPayment": "250",
+            "rewardMoney": "50",
+            "rewardCustomer": {
+              "en": "100 New customers",
+              "hi": "100 New customers"
+            },
+            "pendingPayments": {
+              "en": "200 payments",
+              "hi": "200 payments"
+            }
+          },
+          {
+            "totalPayment": "750",
+            "rewardMoney": "100",
+            "rewardCustomer": {
+              "en": "250 New customers",
+              "hi": "250 New customers"
+            },
+            "pendingPayments": {
+              "en": "500 payments",
+              "hi": "500 payments"
+            }
+          },
+          {
+            "totalPayment": "1750",
+            "rewardMoney": "200",
+            "rewardCustomer": {
+              "en": "500 New customers",
+              "hi": "500 New customers"
+            },
+            "pendingPayments": {
+              "en": "1000 payments",
+              "hi": "1000 payments"
+            }
+          },
+          {
+            "totalPayment": "4750",
+            "rewardMoney": "500",
+            "rewardCustomer": {
+              "en": "1500 New customers",
+              "hi": "1500 New customers"
+            },
+            "pendingPayments": {
+              "en": "3000 payments",
+              "hi": "3000 payments"
+            }
+          }
+        ],
+        "rewardsMessage": {
+          "en": {
+            "rewardsMessage1": "You will earn between",
+            "rewardsMessage2": "₹5 - ₹250",
+            "rewardsMessage3": "for every next 300 transactions with 100 customers post 5000 transactions"
+          },
+          "hi": {
+            "rewardsMessage1": "You will earn between",
+            "rewardsMessage2": "₹5 - ₹250",
+            "rewardsMessage3": "for every next 300 transactions with 100 customers post 5000 transactions"
+          }
+        },
+        "headerMessage": {
+          "en": {
+            "part1": "Avail exclusive benefits worth ",
+            "part2": "₹10,000",
+            "part3": "with an annual subscription of ",
+            "part4": "₹799"
+          },
+          "hi": {
+            "part1": "Avail exclusive benefits worth ",
+            "part2": "₹10,000",
+            "part3": "with an annual subscription of ",
+            "part4": "₹799"
+          }
+        },
+        "buttonText": {
+          "en": {
+            "part1": "Start Subscription",
+            "part2": " for",
+            "part3": "₹799",
+            "part4": "/yr"
+          },
+          "hi": {
+            "part1": "Start Subscription",
+            "part2": " for",
+            "part3": "₹799",
+            "part4": "/yr"
+          }
+        },
+        "subHeader": {
+          "en": {
+            "part1": "Pay",
+            "part2": " ₹799",
+            "part3": "now. Save",
+            "part4": "₹10,000",
+            "part5": "later."
+          },
+          "hi": {
+            "part1": "Pay",
+            "part2": " ₹799",
+            "part3": "now. Save",
+            "part4": "₹10,000",
+            "part5": "later."
+          }
+        },
+        "subscriptionHeader": {
+          "en": "One Subscription. Many benefits.",
+          "hi": "One Subscription. Many benefits."
+        },
+        "subscriptionSubHeader": {
+          "en": "Some sort of one liner content to explain all the benefits",
+          "hi": "Some sort of one liner content to explain all the benefits"
         }
+      }
     }
+  }
 }
