@@ -254,15 +254,10 @@
           "hi": "Some sort of one liner content to explain all the benefits"
         },
         "termsAndConditions": {
-          "en": {
-            "part1": "If there’s some ",
-            "part2": "terms & conditions ",
-            "part3": "we can mention that here. Not sure whether it is applicable here though. This is just a dummy text."
-          },
-          "hi": {
-            "part1": "If there’s some ",
-            "part2": "terms & conditions ",
-            "part3": "we can mention that here. Not sure whether it is applicable here though. This is just a dummy text."
+          "show": true,
+          "value": {
+            "en": "If there’s some terms & conditions we can mention that here. Not sure whether it is applicable here though. This is just a dummy text.",
+            "hi": "If there’s some terms & conditions we can mention that here. Not sure whether it is applicable here though. This is just a dummy text."
           }
         }
       }
