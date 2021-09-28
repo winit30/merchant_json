@@ -3,16 +3,16 @@
     "benefits": {
       "heading:": {
         "en": "Avail exclusive benefits worth ₹10,000 with an annual subscription of ₹799",
-        "hi": "Avail exclusive benefits worth ₹10,000 with an annual subscription of ₹799"
+        "hi": "₹799 की वार्षिक सदस्यता के साथ ₹10,000 के अनन्य लाभ प्राप्त करें"
       },
       "benefitFeatures": {
         "benefitFeatureHeading": {
           "en": "Benefits of",
-          "hi": "Benefits of"
+          "hi": "के लाभ"
         },
         "benefitFeatureCostHeading": {
           "en": "Benefits Worth",
-          "hi": "Benefits Worth"
+          "hi": "लाभ मूल्य"
         },
         "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/fc_star.png",
         "benefiltsList": [
@@ -20,11 +20,11 @@
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_qr.png",
             "header": {
               "en": "QR Replacements",
-              "hi": "QR Replacements"
+              "hi": "QR बदलना"
             },
             "subheader": {
               "en": "Get free QR replacement",
-              "hi": "Get free QR replacement"
+              "hi": "निःशुल्क क्यूआर बदलें"
             },
             "benefits": "200"
           },
@@ -32,11 +32,11 @@
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_credit_charge.png",
             "header": {
               "en": "Credit Card Charges",
-              "hi": "Credit Card Charges"
+              "hi": "क्रेडिट कार्ड शुल्क"
             },
             "subheader": {
               "en": "Reduced Credit Card Charge Rates",
-              "hi": "Reduced Credit Card Charge Rates"
+              "hi": "कम क्रेडिट कार्ड शुल्क दरें"
             },
             "benefits": "8000"
           },
@@ -44,11 +44,11 @@
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_milestone.png",
             "header": {
               "en": "Milestone rewards",
-              "hi": "Milestone rewards"
+              "hi": "लक्ष्य प्राप्ति इनाम"
             },
             "subheader": {
               "en": "Rewards every time you hit a transaction milestone",
-              "hi": "Rewards every time you hit a transaction milestone"
+              "hi": " हर बार लेन-देन का लक्ष्य प्राप्ति पर इनाम"
             },
             "benefits": "880"
           },
@@ -56,11 +56,11 @@
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_instant_settlement.png",
             "header": {
               "en": "Instant settlements",
-              "hi": "Instant settlements"
+              "hi": "तत्काल भुगतान"
             },
             "subheader": {
               "en": "No more fees for getting instant settlements.",
-              "hi": "No more fees for getting instant settlements."
+              "hi": "निःशुल्क तत्काल भुगतान"
             },
             "benefits": "675"
           },
@@ -68,11 +68,11 @@
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_hospicash.png",
             "header": {
               "en": "Hospicash Insurance",
-              "hi": "Hospicash Insurance"
+              "hi": "होस्पिकैश बीमा"
             },
             "subheader": {
               "en": "Get hospital insurance",
-              "hi": "Get hospital insurance"
+              "hi": "होस्पिकैश बीमा प्राप्त करें"
             },
             "benefits": "250"
           },
@@ -80,11 +80,11 @@
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_lifeinsurance.png",
             "header": {
               "en": "Life Insurance",
-              "hi": "Life Insurance"
+              "hi": "जीवन बीमा"
             },
             "subheader": {
               "en": "Get life insurance",
-              "hi": "Get life insurance"
+              "hi": "जीवन बीमा प्राप्त करें"
             },
             "benefits": "175"
           }
@@ -94,16 +94,16 @@
     "rewardsList": {
       "heading": {
         "en": "₹799 Annual plan cash rewards",
-        "hi": "₹799 Annual plan cash rewards"
+        "hi": "₹799 वार्षिक सदस्यता नकद पुरस्कार"
       },
       "rewards": {
         "rewardsHeading": {
-          "en": "Total  Payments",
-          "hi": "Total  Payments"
+          "en": "Total Payments",
+          "hi": "कुल भुगतान"
         },
         "rewardsPriceHeading": {
           "en": "Rewards",
-          "hi": "Rewards"
+          "hi": "इनाम"
         },
         "rewardsList": [
           {
@@ -121,11 +121,11 @@
             "rewardMoney": "10",
             "rewardCustomer": {
               "en": "5 New customers",
-              "hi": "5 New customers"
+              "hi": "5 नए ग्राहक"
             },
             "pendingPayments": {
               "en": "10 payments",
-              "hi": "10 payments"
+              "hi": "10 लेनदेन"
             }
           },
           {
@@ -133,11 +133,11 @@
             "rewardMoney": "20",
             "rewardCustomer": {
               "en": "25 New customers",
-              "hi": "25 New customers"
+              "hi": "25 नए ग्राहक"
             },
             "pendingPayments": {
               "en": "40 payments",
-              "hi": "40 payments"
+              "hi": "40 लेनदेन"
             }
           },
           {
@@ -145,11 +145,11 @@
             "rewardMoney": "50",
             "rewardCustomer": {
               "en": "100 New customers",
-              "hi": "100 New customers"
+              "hi": "100 नए ग्राहक"
             },
             "pendingPayments": {
               "en": "200 payments",
-              "hi": "200 payments"
+              "hi": "200 लेनदेन"
             }
           },
           {
@@ -157,11 +157,11 @@
             "rewardMoney": "100",
             "rewardCustomer": {
               "en": "250 New customers",
-              "hi": "250 New customers"
+              "hi": "250 नए ग्राहक"
             },
             "pendingPayments": {
               "en": "500 payments",
-              "hi": "500 payments"
+              "hi": "500 लेनदेन"
             }
           },
           {
@@ -169,11 +169,11 @@
             "rewardMoney": "200",
             "rewardCustomer": {
               "en": "500 New customers",
-              "hi": "500 New customers"
+              "hi": "500 नए ग्राहक"
             },
             "pendingPayments": {
               "en": "1000 payments",
-              "hi": "1000 payments"
+              "hi": "1000 लेनदेन"
             }
           },
           {
@@ -181,11 +181,11 @@
             "rewardMoney": "500",
             "rewardCustomer": {
               "en": "1500 New customers",
-              "hi": "1500 New customers"
+              "hi": "1500 नए ग्राहक"
             },
             "pendingPayments": {
               "en": "3000 payments",
-              "hi": "3000 payments"
+              "hi": "3000 लेनदेन"
             }
           }
         ],
@@ -196,9 +196,9 @@
             "rewardsMessage3": "for every next 300 transactions with 100 customers post 5000 transactions"
           },
           "hi": {
-            "rewardsMessage1": "You will earn between",
+            "rewardsMessage1": "आप कामाएंगे",
             "rewardsMessage2": "₹5 - ₹250",
-            "rewardsMessage3": "for every next 300 transactions with 100 customers post 5000 transactions"
+            "rewardsMessage3": "5000 लेनदेन के बाद १०० ग्राहकों के साथ प्रत्येक अगले ३०० लेनदेन के लिए"
           }
         },
         "headerMessage": {
@@ -209,10 +209,10 @@
             "part4": "₹799"
           },
           "hi": {
-            "part1": "Avail exclusive benefits worth ",
-            "part2": "₹10,000 ",
-            "part3": "with an annual subscription of ",
-            "part4": "₹799"
+            "part1": "₹10,000 तक के  ",
+            "part2": "विशेष लाभ प्राप्त करें ",
+            "part3": "₹799 ",
+            "part4": "की वार्षिक सदस्यता के साथ"
           }
         },
         "buttonText": {
@@ -223,31 +223,31 @@
             "part4": "/yr"
           },
           "hi": {
-            "part1": "Start Subscription",
-            "part2": " for",
-            "part3": "₹799",
-            "part4": "/yr"
+            "part1": "वार्षिक ₹799",
+            "part2": " से",
+            "part3": "सदस्यता शुरू करें",
+            "part4": ""
           }
         },
         "subHeader": {
           "en": {
-            "part1": "Pay",
-            "part2": " ₹799",
-            "part3": " now. Save",
-            "part4": "₹10,000",
-            "part5": " later."
+            "part1": "Save",
+            "part2": " ₹10,000 this year",
+            "part3": "  by paying ",
+            "part4": "₹799 only",
+            "part5": " now."
           },
           "hi": {
-            "part1": " Pay",
-            "part2": " ₹799",
-            "part3": " now. Save",
+            "part1": " बचाएं",
+            "part2": " ₹10,000",
+            "part3": " अभी",
             "part4": " ₹10,000",
-            "part5": " later."
+            "part5": " दे कर."
           }
         },
         "subscriptionHeader": {
           "en": "One Subscription. Many benefits.",
-          "hi": "One Subscription. Many benefits."
+          "hi": "एक सदस्यता। अनेक लाभ।"
         },
         "subscriptionSubHeader": {
           "en": "Some sort of one liner content to explain all the benefits",
