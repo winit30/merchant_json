@@ -53,18 +53,6 @@
             "benefits": "880"
           },
           {
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_instant_settlement.png",
-            "header": {
-              "en": "Instant settlements",
-              "hi": "तत्काल भुगतान"
-            },
-            "subheader": {
-              "en": "No more fees for getting instant settlements.",
-              "hi": "निःशुल्क तत्काल भुगतान"
-            },
-            "benefits": "675"
-          },
-          {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/benefits/ic_hospicash.png",
             "header": {
               "en": "Hospicash Insurance",
@@ -162,18 +150,6 @@
             "pendingPayments": {
               "en": "500 payments",
               "hi": "500 लेनदेन"
-            }
-          },
-          {
-            "totalPayment": "1750",
-            "rewardMoney": "200",
-            "rewardCustomer": {
-              "en": "500 New customers",
-              "hi": "500 नए ग्राहक"
-            },
-            "pendingPayments": {
-              "en": "1000 payments",
-              "hi": "1000 लेनदेन"
             }
           },
           {
