@@ -1,12 +1,6 @@
 {
     "data": [
         {
-            "title": "Instant Settlement",
-            "description": "Zero* fees for doing instant settlement in bank account",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/ods_large.png",
-            "backgroundColor":"#311f48"
-        },
-        {
             "title": "Credit Card Reduced Charges",
             "description": "Get paid via Credit Card at lower charges than industry rates",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/creditcard_large.png",
