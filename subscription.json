@@ -222,12 +222,12 @@
           }
         },
         "subscriptionHeader": {
-          "en": "One Subscription. Many benefits.",
+          "en": "One Subscription Many benefits.",
           "hi": "एक सदस्यता। अनेक लाभ।"
         },
         "subscriptionSubHeader": {
-          "en": "Some sort of one liner content to explain all the benefits",
-          "hi": "Some sort of one liner content to explain all the benefits"
+          "en": " ",
+          "hi": " "
         }
       }
     },
