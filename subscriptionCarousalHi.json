@@ -1,12 +1,6 @@
 {
     "data": [
         {
-            "title": "तत्काल निपटान",
-            "description": "शून्य* बैंक खाते में तत्काल निपटान करने की फीस",
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/ods_large.png",
-            "backgroundColor":"#311f48"
-        },
-        {
             "title": "क्रेडिट कार्ड न्यूनतम शुल्क",
             "description": "उद्योग दरों की तुलना में कम शुल्क पर क्रेडिट कार्ड के माध्यम से भुगतान करें",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/creditcard_large.png",
