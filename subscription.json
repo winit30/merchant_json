@@ -232,7 +232,7 @@
       }
     },
     "termsAndConditions": {
-      "show": true,
+      "show": false,
       "value": {
         "en": "If there’s some terms & conditions we can mention that here. Not sure whether it is applicable here though. This is just a dummy text.",
         "hi": "If there’s some terms & conditions we can mention that here. Not sure whether it is applicable here though. This is just a dummy text."
