@@ -98,7 +98,10 @@
             "totalPayment": "0",
             "rewardMoney": "",
             "rewardCustomer": "",
-            "pendingPayments": "0",
+            "nextPayments": {
+              "en": "10 payments",
+              "hi": "10 लेनदेन"
+            },
             "heading": {
               "en": "You are here",
               "hi": "You are here"
@@ -111,9 +114,9 @@
               "en": "5 New customers",
               "hi": "5 नए ग्राहक"
             },
-            "pendingPayments": {
-              "en": "10 payments",
-              "hi": "10 लेनदेन"
+            "nextPayments": {
+              "en": "40 payments",
+              "hi": "40 लेनदेन"
             }
           },
           {
@@ -123,9 +126,9 @@
               "en": "25 New customers",
               "hi": "25 नए ग्राहक"
             },
-            "pendingPayments": {
-              "en": "40 payments",
-              "hi": "40 लेनदेन"
+            "nextPayments": {
+              "en": "200 payments",
+              "hi": "200 लेनदेन"
             }
           },
           {
@@ -135,9 +138,9 @@
               "en": "100 New customers",
               "hi": "100 नए ग्राहक"
             },
-            "pendingPayments": {
-              "en": "200 payments",
-              "hi": "200 लेनदेन"
+            "nextPayments": {
+              "en": "500 payments",
+              "hi": "500 लेनदेन"
             }
           },
           {
@@ -147,9 +150,9 @@
               "en": "250 New customers",
               "hi": "250 नए ग्राहक"
             },
-            "pendingPayments": {
-              "en": "500 payments",
-              "hi": "500 लेनदेन"
+            "nextPayments": {
+              "en": "3000 payments",
+              "hi": "3000 लेनदेन"
             }
           },
           {
@@ -158,10 +161,6 @@
             "rewardCustomer": {
               "en": "1500 New customers",
               "hi": "1500 नए ग्राहक"
-            },
-            "pendingPayments": {
-              "en": "3000 payments",
-              "hi": "3000 लेनदेन"
             }
           }
         ],
