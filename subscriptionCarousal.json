@@ -4,18 +4,21 @@
             "title": "Credit Card Reduced Charges",
             "description": "Get paid via Credit Card at lower charges than industry rates",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/creditcard_large.png",
+            "newImage": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/topCarousal/Creditcard_charges.png",
             "backgroundColor":"#30263a"
         },
         {
             "title": "Invoice/Bill Generation",
             "description": "Issue digital invoice for your customers with Payment Link",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/invoice_large.png",
+            "newImage": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/topCarousal/invoice_generation.png",
             "backgroundColor":"#30222d"
         },
         {
             "title": "Free Health and Life Insurance",
             "description": "Get yourself insurance covered and get ready for future",
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/insurance.png",
+            "newImage": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/subscription/topCarousal/Insurance.png",
             "backgroundColor":"#27263d"
         }
     ]
