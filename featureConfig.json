@@ -6,7 +6,11 @@
             "imageHeight": 109,
             "imageWidth": 116,
             "onPageURL": "",
-            "toPageURL": "",
+            "toPageURL": "OnBoardingPaisaPlus",
+            "routeOptions": {
+               "screen": "SuperCoinScreens",
+               "params": { "screen": "MyOffersTabsLayout" }
+            },
             "titleText": {
                "en": "My Offers",
                "hi": "मेरे ऑफर"
