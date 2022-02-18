@@ -3,6 +3,7 @@
         "loanRange": {
             "minValue": 5000,
             "maxValue": 100000,
+            "maxValueText": "1 lakh",
             "defaultValue": 50000
         },
         "rate": 24,
