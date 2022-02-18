@@ -2,6 +2,29 @@
    "data":{
       "Home": [
          {
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/accept_payments.png",
+            "imageHeight": 109,
+            "imageWidth": 116,
+            "onPageURL": "",
+            "toPageURL": "",
+            "titleText": {
+               "en": "My Offers",
+               "hi": "मेरे ऑफर"
+            },
+            "description": {
+               "en":
+               "Now create and share an exciting discount offer for your customers. Freecharge will also share your offer with lakhs of users nearby.",
+               "hi":
+               "अब अपने ग्राहकों के लिए एक रोमांचक डिस्काउंट ऑफर बनाएं और साझा करें। फ्रीचार्ज आपके ऑफर को पास के लाखों उपयोगकर्ताओं के साथ भी साझा करेगा।"
+            },
+            "priority": 1,
+            "buttonText": {
+               "en": "Go to My Offers",
+               "hi": "मेरे ऑफर पर जाएंं"
+            },
+            "id": 1
+         },
+         {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/dashboard_illustration.png",
             "onPageURL": "",
             "toPageURL": "DashboardScreen",
@@ -20,7 +43,7 @@
                "en": "Go to DASHBOARD",
                "hi": "डैशबोर्ड पर जाएंं"
             },
-            "id": 1
+            "id": 2
          },
          {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/instant_settlement.png",
@@ -37,7 +60,7 @@
                "hi": "अब दिन के दौरान क्यूआर से प्राप्त धन को अपने बैंक खाते में तुरंत भेजें।"
             },
             "priority": 2,
-            "id": 2
+            "id": 3
          }
       ]
    }
