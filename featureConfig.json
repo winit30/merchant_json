@@ -71,14 +71,14 @@
             "imageHeight": 116,
             "imageWidth": 109,
             "onPageURL": "",
-            "toPageURL": "",
-            "titleText": {
-               "en": "LIMIT Per MID",
-               "hi": "तत्काल निपटान"
-            },
+            "toPageURL": "NotificationListScreen",
             "description": {
                "en": "Dear Merchant, please note, an upper limit on your notification list numbers will be implemented soon. Kindly remove excess numbers that are not required to be notified about transaction activity from the list by following this link.Follow the below listed limits as per your level:\nBronze     1\nSilver        3\nGold         3\nDiamond   5",
                "hi": "अब दिन के दौरान क्यूआर से प्राप्त धन को अपने बैंक खाते में तुरंत भेजें।"
+            },
+            "buttonText": {
+               "en": "Go to Notification List",
+               "hi": "डैशबोर्ड पर जाएंं"
             },
             "priority": 2,
             "id": 4
