@@ -56,18 +56,18 @@
             "onPageURL": "",
             "toPageURL": "NotificationListScreen",
             "titleText": {
-               "en": "Notification List Numbers Limit",
-               "hi": "मेरे ऑफर"
+               "en": "Notification List Members Limit",
+               "hi": "अधिसूचना सूची सदस्य सीमा"
             },
             "description": {
                "en": "Dear Merchant, a limit on your notification list numbers will be implemented soon. Please remove excess numbers that are not required to be notified about transaction activity from the list.",
-               "hi": "अब दिन के दौरान क्यूआर से प्राप्त धन को अपने बैंक खाते में तुरंत भेजें।"
+               "hi": "प्रिय व्यापारी, आपकी अधिसूचना सूची संख्या की एक सीमा जल्द ही लागू की जाएगी। कृपया नीचे क्लिक करके उन अतिरिक्त नंबरों को हटा दें जिन्हें लेन-देन गतिविधि के बारे में सूचित करने की आवश्यकता नहीं है।"
             },
             "buttonText": {
                "en": "Go to Notification List",
-               "hi": "डैशबोर्ड पर जाएंं"
+               "hi": "अधिसूचना सूची पर जाएंं"
             },
-            "priority": 1,
+            "priority": 2,
             "id": 4
          }
       ]
