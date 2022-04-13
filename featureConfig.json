@@ -21,7 +21,7 @@
                "hi":
                "अब अपने ग्राहकों के लिए एक रोमांचक डिस्काउंट ऑफर बनाएं और साझा करें। फ्रीचार्ज आपके ऑफर को पास के लाखों उपयोगकर्ताओं के साथ भी साझा करेगा।"
             },
-            "priority": 1,
+            "priority": 3,
             "buttonText": {
                "en": "Go to My Offers",
                "hi": "मेरे ऑफर पर जाएंं"
@@ -42,7 +42,7 @@
                "hi":
                "अब हर घंटे, दिन, सप्ताह और मासिक स्तर पर अपनी लेन-देन की गणना और राशि को ट्रैक करें। डैशबोर्ड सुविधा होम पर आपके मेरे प्रोड्कट अनुभाग में उपलब्ध है।"
             },
-            "priority": 1,
+            "priority": 2,
             "buttonText": {
                "en": "Go to DASHBOARD",
                "hi": "डैशबोर्ड पर जाएंं"
@@ -50,26 +50,9 @@
             "id": 2
          },
          {
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/instant_settlement.png",
-            "imageHeight": 116,
-            "imageWidth": 109,
-            "onPageURL": "",
-            "toPageURL": "",
-            "titleText": {
-               "en": "Instant Settlement",
-               "hi": "तत्काल निपटान"
-            },
-            "description": {
-               "en": "Now transfer money received during the day to your bank account any time.",
-               "hi": "अब दिन के दौरान क्यूआर से प्राप्त धन को अपने बैंक खाते में तुरंत भेजें।"
-            },
-            "priority": 2,
-            "id": 3
-         },
-         {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/notification_list_limit.png",
-            "imageHeight": 116,
-            "imageWidth": 109,
+            "imageHeight": 361,
+            "imageWidth": 538,
             "onPageURL": "",
             "toPageURL": "NotificationListScreen",
             "titleText": {
@@ -84,8 +67,8 @@
                "en": "Go to Notification List",
                "hi": "डैशबोर्ड पर जाएंं"
             },
-            "priority": 2,
-            "id": 4
+            "priority": 1,
+            "id": 3
          }
       ]
    }
