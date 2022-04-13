@@ -67,7 +67,7 @@
             "id": 3
          },
          {
-            "image": "",
+            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/notification_list_limit.png",
             "imageHeight": 116,
             "imageWidth": 109,
             "onPageURL": "",
@@ -77,7 +77,7 @@
                "hi": "मेरे ऑफर"
             },
             "description": {
-               "en": "Dear Merchant, please note, an upper limit on your notification list numbers will be implemented soon. Kindly remove excess numbers that are not required to be notified about transaction activity from the list by following this link.Follow the below listed limits as per your level:\nBronze     1\nSilver        3\nGold         3\nDiamond   5",
+               "en": "Dear Merchant, a limit on your notification list numbers will be implemented soon. Please remove excess numbers that are not required to be notified about transaction activity from the list.",
                "hi": "अब दिन के दौरान क्यूआर से प्राप्त धन को अपने बैंक खाते में तुरंत भेजें।"
             },
             "buttonText": {
