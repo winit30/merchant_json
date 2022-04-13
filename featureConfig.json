@@ -51,7 +51,7 @@
          },
          {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/remove_notification_list_limit.png",
-            "imageHeight": 144,
+            "imageHeight": 83,
             "imageWidth": 215,
             "onPageURL": "",
             "toPageURL": "NotificationListScreen",
