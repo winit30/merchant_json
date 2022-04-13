@@ -2,54 +2,6 @@
    "data":{
       "Home": [
          {
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/accept_payments.png",
-            "imageHeight": 109,
-            "imageWidth": 116,
-            "onPageURL": "",
-            "toPageURL": "OnBoardingPaisaPlus",
-            "routeOptions": {
-               "screen": "SuperCoinScreens",
-               "params": { "screen": "MyOffersTabsLayout" }
-            },
-            "titleText": {
-               "en": "My Offers",
-               "hi": "मेरे ऑफर"
-            },
-            "description": {
-               "en":
-               "Now create and share an exciting discount offer for your customers. Freecharge will also share your offer with lakhs of users nearby.",
-               "hi":
-               "अब अपने ग्राहकों के लिए एक रोमांचक डिस्काउंट ऑफर बनाएं और साझा करें। फ्रीचार्ज आपके ऑफर को पास के लाखों उपयोगकर्ताओं के साथ भी साझा करेगा।"
-            },
-            "priority": 3,
-            "buttonText": {
-               "en": "Go to My Offers",
-               "hi": "मेरे ऑफर पर जाएंं"
-            },
-            "id": 1
-         },
-         {
-            "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/dashboard_illustration.png",
-            "onPageURL": "",
-            "toPageURL": "DashboardScreen",
-            "titleText": {
-               "en": "Dashboard",
-               "hi": "डैशबोर्ड"
-            },
-            "description": {
-               "en":
-               "Now track your transaction count and amount on a hourly, daily, weekly and monthly level. The dashboard icon is available in your My Products section on Home.",
-               "hi":
-               "अब हर घंटे, दिन, सप्ताह और मासिक स्तर पर अपनी लेन-देन की गणना और राशि को ट्रैक करें। डैशबोर्ड सुविधा होम पर आपके मेरे प्रोड्कट अनुभाग में उपलब्ध है।"
-            },
-            "priority": 2,
-            "buttonText": {
-               "en": "Go to DASHBOARD",
-               "hi": "डैशबोर्ड पर जाएंं"
-            },
-            "id": 2
-         },
-         {
             "image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/remove_notification_list_limit.png",
             "imageHeight": 83,
             "imageWidth": 215,
