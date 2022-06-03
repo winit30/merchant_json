@@ -1,0 +1,147 @@
+{
+   "data": {
+      "loan_home_screen_header": {
+         "loanValue": {
+            "en": "₹1 lakh",
+            "hi": "₹1 लाख"
+         },
+         "loanHeading1": {
+            "en": "Get hassle free loan upto ",
+            "hi": "तक परेशानी मुक्त ऋण प्राप्त करें"
+         },
+         "loanHeading2": {
+            "en": "for your business!",
+            "hi": "अपने व्यवसाय के लिए!"
+         },
+         "loanSubheading1": {
+            "en": "Get instant approval* in less than ",
+            "hi": "से कम में तत्काल स्वीकृति* प्राप्त करें "
+         },
+         "loanSubheading2": {
+            "en": "5 minutes",
+            "hi": "5 मिनट "
+         },
+         "loanSubheading3": {
+            "en": ", through completely digital process!",
+            "hi": ", पूरी तरह से डिजिटल प्रक्रिया के माध्यम से!"
+         },
+         "image": "mobile/images/mca/v2/mca_landing.png"
+      },
+      "loan_home_screen_benefits": {
+         "heading": {
+            "en": "Freecharge Business Loan Benefits",
+            "hi": "फ्रीचार्ज बिज़नेस लोन लाभ"
+         },
+         "list": [
+            {
+               "id": "1",
+               "title": {
+                  "en": "Low Interest Rates",
+                  "hi": "कम ब्याज दर"
+               },
+               "description": {
+                  "en": "starting at 1.02% per month.",
+                  "hi": "प्रति माह 1.02% से शुरू।"
+               },
+               "image": "mobile/images/mca/v2/benefits_low_interest_rates.png"
+            },
+            {
+               "id": "2",
+               "title": {
+                  "en": "Daily Repayments",
+                  "hi": "दैनिक चुकौती"
+               },
+               "description": {
+                  "en": "25 Daily Instalments per month",
+                  "hi": "25 दैनिक किश्त प्रति माह"
+               },
+               "image": "mobile/images/mca/v2/benefits_daily_repayments.png"
+            },
+            {
+               "id": "3",
+               "title": {
+                  "en": "0 Balance Account",
+                  "hi": "0 शेष खाता"
+               },
+               "description": {
+                  "en": "No minimum balance required",
+                  "hi": "कोई न्यूनतम शेषराशि की आवश्यकता नहीं है"
+               },
+               "image": "mobile/images/mca/v2/benefits_balance_account.png"
+            }
+         ]
+      },
+      "loan_home_screen_process": {
+         "heading": {
+            "en": "Easy Application Process",
+            "hi": "आसान आवेदन प्रक्रिया"
+         },
+         "list": [
+            {
+               "id": "1",
+               "title": {
+                  "en": "KYC verification with PAN & Aadhaar",
+                  "hi": "पैन और आधार के साथ केवाईसी सत्यापन"
+               },
+               "description": {
+                  "en": "PAN & Aadhaar number required",
+                  "hi": "पैन और आधार नंबर जरूरी"
+               },
+               "image": "mobile/images/mca/v2/mca_icons_step_1.png"
+            },
+            {
+               "id": "2",
+               "title": {
+                  "en": "Personal profile submission",
+                  "hi": "व्यक्तिगत प्रोफ़ाइल सबमिशन"
+               },
+               "description": {
+                  "en": "Provide your details",
+                  "hi": "अपना विवरण प्रदान करें"
+               },
+               "image": "mobile/images/mca/v2/mca_icons_step_2.png"
+            },
+            {
+               "id": "3",
+               "title": {
+                  "en": "Choose Loan Amount & Tenure",
+                  "hi": "ऋण राशि और कार्यकाल चुनें"
+               },
+               "description": {
+                  "en": "",
+                  "hi": ""
+               },
+               "image": "mobile/images/mca/v2/mca_icons_step_3.png"
+            },
+            {
+               "id": "4",
+               "title": {
+                  "en": "Video Kyc",
+                  "hi": "वीडियो केवाईसी"
+               },
+               "description": {
+                  "en": "Complete your KYC with PAN card",
+                  "hi": "पैन कार्ड से अपना केवाईसी पूरा करें"
+               },
+               "image": "mobile/images/mca/v2/mca_icons_step_4.png"
+            }
+         ]
+      },
+      "loan_home_screen_info_your": {
+         "en": "Your",
+         "hi": "आपका"
+      },
+      "loan_home_screen_info": {
+         "en": "are required for vkyc. Please keep these documents with you",
+         "hi": "वीकेवाईसी  के लिए आवश्यक हैं। कृपया इन दस्तावेजों को अपने पास रखें"
+      },
+      "loan_home_screen_info_doc": {
+         "en": "Aadhaar Card & PAN Card",
+         "hi": "आधार कार्ड और पैन कार्ड"
+      },
+      "tnc": {
+         "en": "*terms and conditions applied",
+         "hi": "*नियम और शर्तें लागू"
+      }
+   }
+}
